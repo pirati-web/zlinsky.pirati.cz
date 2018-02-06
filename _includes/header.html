@@ -44,8 +44,8 @@
               <li>
                 <a href="http://www.pirati.cz" target="_blank">Pirati.cz</a>
               </li>
-              <li>
-                <a href="http://zlinsky.pirati.cz" target="_blank">Krajské sdružení</a>
+              <li{% if page.url contains 'mistni-sdruzeni' %} class="is-active"{% endif %}>
+                <a href="{{ '/mistni-sdruzeni/' | relative_url }}">Místní sdružení</a>
               </li>
             </ul>
           </div>
