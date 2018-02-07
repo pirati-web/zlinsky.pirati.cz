@@ -12,9 +12,9 @@ layout: default
               <div class="jmk-candidates">
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                    <a href="#pms" class="c-simple-accordion-title">Místní předsednictvo</a>
+                    <a href="#pms" class="c-simple-accordion-title">Krajské předsednictvo</a>
                     <div id="pms" class="c-simple-accordion-content" data-tab-content="">
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pks'" | sort:"ordpks" %}
                       {% include people/list-2col.html param=team %}
                     </div>
                   </li>
