@@ -3,7 +3,6 @@ uid: marek.houser
 name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 # kategorie
-- pms
 - pks
 
 img: people/ppp.jpg   # 165 x 220
