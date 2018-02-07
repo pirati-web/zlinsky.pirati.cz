@@ -7,8 +7,7 @@ category:                 # kategorie
 - pks
 
 img: people/ppp.jpg   # 165 x 220
-description: 3. místopředseda KS Zlínský kraj
-Předseda MS UH          	# kratký popis, max 160 znaků
+description: 3. místopředseda KS Zlínský kraj, předseda MS UH          	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
 mob:			  +420 725 611 894
