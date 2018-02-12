@@ -4,9 +4,10 @@ name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 # kategorie
 - pks
+- clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: 3. místopředseda KS Zlínský kraj         	# kratký popis, max 160 znaků
+description: Předseda KS Zlínský kraj         	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
 mob:			  +420 725 611 894
@@ -14,7 +15,7 @@ profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
 ordpms: 1
-ordpks: 4
+ordpks: 1
 
 ---
 

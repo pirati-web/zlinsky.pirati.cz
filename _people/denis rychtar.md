@@ -4,6 +4,7 @@ name:     Denis Rychtar  	# běžně používáné jméno
 fullname: Denis Rychtar  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pks
+- clenove
 
 img: people/ppp.jpg   # 165 x 220
 description: 1. místopředseda KS Zlínský kraj # kratký popis, max 160 znaků
