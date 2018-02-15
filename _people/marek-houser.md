@@ -14,7 +14,6 @@ mob:			  +420 725 611 894
 profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
-ordpms: 1
 ordpks: 1
 
 ---
