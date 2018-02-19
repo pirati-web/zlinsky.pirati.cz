@@ -18,7 +18,7 @@ ordpks: 1
 
 ---
 
-Marek Houser (* 6. prosince 1988 ve Zlíně) je předsedou MS Uherské Hradiště a 3. místopředsedou KS Zlínský kraj. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.
+Marek Houser (*6. prosince 1988, Zlín) je předsedou KS Zlínský kraj a MS Uherské Hradiště. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.
 
 Vystudoval Střední odbornou školu v Otrokovicích v oboru Mechanik elektronik. Po studiích se věnoval několik let strojnímu zámečnictví a v roce 2011 nastoupil do redakce Zlínského deníku jako redaktor zpravodajství. Po dvou letech vyměnil novinařinu za kreativnější profesi - online marketing a tvorbu obsahu pro sociální sítě Facebook, Instagram a Twitter. Převážně pro zlínskou agenturu PRIA a mimo jiné také pro Českou pirátskou stranu. Po úspěšné kampani v roce 2017 se stal asistentem nově zvoleného poslance Františka Elfmarka.
 

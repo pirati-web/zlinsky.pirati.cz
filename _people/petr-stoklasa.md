@@ -7,12 +7,14 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: 2. místopředseda KS Zlínský kraj # kratký popis, max 160 znaků
+description: 2. místopředseda KS Zlínský kraj, obchodník # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
 profiles:
-  facebook: https://www.facebook.com
+  facebook: https://www.facebook.com/petr.stoklasa.7
 ordpks: 3
 ---
 
-xxx
+Petr Stoklasa (*18. 8. 1980, Přílepy) je Pirátem celý život. Má rodinu, pro kterou by chtěl lepší budoucnost v zemi, kde budou rádi žít.
+
+Rád sportuje, čte a cestuje.

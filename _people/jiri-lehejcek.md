@@ -6,11 +6,15 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: V3 peedagog, polární ekolog # kratký popis, max 160 znaků
 mail:
 - jiri.lehejcek@pirati.cz
 profiles:
-  facebook: https://www.facebook.com
+  facebook: https://www.facebook.com/jirilehejcek
 ---
 
-xxx
+Jiří Lehejček (*23. 12. 1986, Praha) je přírodovědec a polární ekolog. Toho času v UTB ve Zlíně, Bioinstitutu a ve společnosti Envipor. Odborník na životní prostředí a zemědělství.
+
+S těmito tématy také aktivně pomáhá Pirátům při vytváření programů do voleb a v diskuzích.
+
+Jeho zálibami jsou sport, literatura a divadlo.
