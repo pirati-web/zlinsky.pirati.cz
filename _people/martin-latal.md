@@ -5,7 +5,7 @@ fullname: Martin Látal  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/martin-latal.jpg   # 165 x 220
 description: autoelektrikář # kratký popis, max 160 znaků
 mail:
 - martin.latal@pirati.cz
