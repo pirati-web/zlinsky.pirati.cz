@@ -5,7 +5,7 @@ fullname: PhDr. Linda Švrčinová, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/linda-svrcinova.jpg   # 165 x 220
 description: newborn fotografka, VŠ pedagog, fotografka # kratký popis, max 160 znaků
 mail:
 - linda.svrcinova@pirati.cz
