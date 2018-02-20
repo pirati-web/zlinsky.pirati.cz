@@ -13,7 +13,7 @@ profiles:
   facebook: https://www.facebook.com/petr.hejny.7
 ---
 
-Petr Hejný (*22. 5. 1984, Valašské Meziříčí) je ženatý a má dvě děti. Při práci vystudoval Vysokou školu podnikání ve studijním programu Ekonomika a management.
+Petr Hejný (*22. května 1984, Valašské Meziříčí) je ženatý a má dvě děti. Při práci vystudoval Vysokou školu podnikání ve studijním programu Ekonomika a management.
 
 Nyní pracuje ve Valašském Meziříčí jako plánovač výroby. Má za sebou zkušenost s řízením pilotní výroby v Hyundai Nošovice.
 

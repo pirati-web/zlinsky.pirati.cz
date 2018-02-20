@@ -5,7 +5,7 @@ fullname: yveta Martinková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/yveta-martinkova.jpg   # 165 x 220
 description: koordinátorka Pirátů Zlíského kraje # kratký popis, max 160 znaků
 mail:
 - yveta.martinkova@pirati.cz
@@ -13,7 +13,7 @@ profiles:
   facebook: https://www.facebook.com/yf.even
 ---
 
-Yveta Martinková (*24. 1. 1979, Kroměříž) je od srpna 2017 Pirátkou a v listopadu 2017 se stala jednou ze zakladatelů místního sdružení Pirátů Kroměříž.
+Yveta Martinková (*24. ledna 1979, Kroměříž) je od srpna 2017 Pirátkou a v listopadu 2017 se stala jednou ze zakladatelů místního sdružení Pirátů Kroměříž.
 
 Pracuje na plný plyn jako koordinátorka Zlínského kraje.
 
