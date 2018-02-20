@@ -15,7 +15,7 @@ ordpms: 2
 
 ---
 
-Dušan Jurčík (*29. 5. 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště a její 1.místopředseda, člen Týmu pro dopravu.
+Dušan Jurčík (*29. května 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště a její 1.místopředseda, člen Týmu pro dopravu.
 
 Osudem znamení Blížence studoval vždy dva obory najednou: Základní a sportovní školu (fotbal), absolvoval SPŠ UH management a elektro a vystudoval MU v Brně při práci obor Zahraniční obchod a právo, ale bez Bc zkoušky a byl posledním civilkářem na Ortopedickém sále v Nemocnici UH.
 

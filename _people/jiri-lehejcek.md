@@ -13,7 +13,7 @@ profiles:
   facebook: https://www.facebook.com/jirilehejcek
 ---
 
-Jiří Lehejček (*23. 12. 1986, Praha) je přírodovědec a polární ekolog. Toho času v UTB ve Zlíně, Bioinstitutu a ve společnosti Envipor. Odborník na životní prostředí a zemědělství.
+Jiří Lehejček (*23. prosince 1986, Praha) je přírodovědec a polární ekolog. Toho času v UTB ve Zlíně, Bioinstitutu a ve společnosti Envipor. Odborník na životní prostředí a zemědělství.
 
 S těmito tématy také aktivně pomáhá Pirátům při vytváření programů do voleb a v diskuzích.
 

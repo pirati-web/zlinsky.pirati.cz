@@ -7,12 +7,17 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: 4. místopředseda KS Zlínský kraj # kratký popis, max 160 znaků
+description: 4. místopředseda KS Zlínský kraj, IT technik # kratký popis, max 160 znaků
 mail:
 - jiri.jaros@pirati.cz
 profiles:
-  facebook: https://www.facebook.com
+  facebook: https://www.facebook.com/WhiteDrogba
 ordpks: 5
 ---
 
-xxx
+Jiří Jaroš (*8. října 1974, Zlín) je členem České pirátské strany od roku 2017. Pochází ze Zlína.
+
+Vystudoval Informační technologie obor Inženýrská informatika na Fakultě aplikované informatiky Univerzity Tomáše Bati ve Zlíně, kde pracuje od roku 2005 v Univerzitním institutu a Centru polymerních systémů.
+Aktivně se podílel na tvorbě e-learningu, online vzdělávání a videokonferencím na této univerzitě.
+
+Mezi jeho zájmy patří cestování, fotbal, historie a knihy Stephena Kinga.

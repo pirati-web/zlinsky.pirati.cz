@@ -6,7 +6,7 @@ category:                 # kategorie
 - pks
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/marek-houser.jpg   # 165 x 220
 description: Předseda KS Zlínský kraj         	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz

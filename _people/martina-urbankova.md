@@ -6,11 +6,15 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: Pirátka # kratký popis, max 160 znaků
+description: asistentka # kratký popis, max 160 znaků
 mail:
 - martina.urbankova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com
+  facebook: https://www.facebook.com/martina.urbanek.7
 ---
 
-xxx
+Martina Urbánková (*13.  září 1982) je místopředsedkyní MS Zlín. K Pirátům vstoupila kvůli neutěšené situaci na politické scéně a osobní motivaci něco změnit.
+
+Po ukončení studia maturitou na škole cestovního ruchu v Rožnově pod Radhoštěm se vydala sbírat zkušenosti. Pracovala jako barmanka, supervisor v kanadském Jasperu a nakonec zůstala v rodinné firmě na výrobu CNC obráběcích strojů, kde spravuje obchodní agendu a management kvality ISO 9001:2008.
+
+Mezi její záliby patří zejména její pes, koloběžka, tennis a posezení s přáteli.

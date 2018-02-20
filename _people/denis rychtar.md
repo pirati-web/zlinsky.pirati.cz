@@ -15,7 +15,7 @@ profiles:
 ordpks: 2
 ---
 
-Denis Rychtar (*14. 8. 1990, Nový Jičín) je podporovatel Pirátů od roku 2009 a členem od roku 2015.
+Denis Rychtar (*14. srpna 1990, Nový Jičín) je podporovatel Pirátů od roku 2009 a členem od roku 2015.
 
 Ekologický aktivista, milovník zvířat a sportů všeho druhu. Je členem skupiny MANAWA FIRE ART, která se věnuje performanci s ohněm.
 
