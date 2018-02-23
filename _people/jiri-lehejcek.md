@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
-description: V3 peedagog, polární ekolog # kratký popis, max 160 znaků
+description: VŠ peedagog, polární ekolog # kratký popis, max 160 znaků
 mail:
 - jiri.lehejcek@pirati.cz
 profiles:
