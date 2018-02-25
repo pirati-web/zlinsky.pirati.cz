@@ -5,7 +5,7 @@ fullname: Martin Valášek  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/martin-valasek.jpg   # 165 x 220
 description: Hudební dramaturg v kulturní agentuře # kratký popis, max 160 znaků
 mail:
 - martin.valasek@pirati.cz
