@@ -6,7 +6,7 @@ category:                   # kategorie: celnove
 - clenove
 - pks
 
-img: people/ppp.jpg   # 165 x 220
+img: people/lubomir-dolezal.jpg   # 165 x 220
 description: 4. místopředseda KS Zlínský kraj, rozpočtář # kratký popis, max 160 znaků
 mail:
 - lubomir.dolezal@pirati.cz
