@@ -5,7 +5,7 @@ fullname: Matěj Krajča  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/matej-krajca.jpg   # 165 x 220
 description: referent obchodního oddělení # kratký popis, max 160 znaků
 mail:
 - matej.krajca@pirati.cz
