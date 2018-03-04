@@ -5,7 +5,7 @@ fullname: Eliška Holšánová 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/eliska-holsanova.jpg   # 165 x 220
 description: studentka # kratký popis, max 160 znaků
 mail:
 - eliska.holsanova@pirati.cz
