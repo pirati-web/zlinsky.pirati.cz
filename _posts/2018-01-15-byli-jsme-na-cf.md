@@ -5,12 +5,12 @@ title: 'Poslušně hlásíme, že jsme se zúčastnili celostátního pirátské
 date: 2018-01-15T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/naforu.jpg
+image: /assets/img/posts/naforu2.jpg
 ---
-Piráti z Uherského Hradiště vyrazili první lednový víkend na zasedání celostátního fóra (CF) Pirátů do Brna. S poctivou účastí všech členů našeho nového Místního sdružení jsme poctivě reprezentovali uherskohradišťské Piráty.
+Piráti ze Zlínského kraje vyrazili první lednový víkend na zasedání celostátního fóra (CF) Pirátů do Brna. S hojnou účastí více než poloviny členů našeho Krajského sdružení jsme poctivě reprezentovali lokální Piráty.
 
-Přidalo se k nám také několik lokálích příznivců a mohli jsme tak být společně například svědky znovuzvolení Ivana Bartoše předsedou a volby nového republikového předsednictva. Všem zvoleným gratulujeme a těšíme se na spolupráci.
+Společně jsme takymohli být například svědky znovuzvolení Ivana Bartoše předsedou a volby nového republikového předsednictva. Všem zvoleným gratulujeme a těšíme se na spolupráci.
 
-Zatímco sobota se nesla převážně v duchu adminnistrativy a vnitrostranických voleb (dokonce i novináře jsme unudili), nedělní program už nabídl workshopy pro nadcházející komunální volby. To jsme si pochopitelně nemohli nechat ujít, jelikož se v Uherském Hradišti do zastupitelstva probojovat chystáme...
+Zatímco sobota se nesla převážně v duchu adminnistrativy a vnitrostranických voleb (dokonce i novináře jsme unudili), nedělní program už nabídl workshopy pro nadcházející komunální a senátní volby. To jsme si pochopitelně nemohli nechat ujít, jelikož se na několika místech v kraji do zastupitelstev probojovat chystáme...
 
 - - -
