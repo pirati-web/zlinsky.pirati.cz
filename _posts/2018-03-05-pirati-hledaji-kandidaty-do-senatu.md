@@ -18,11 +18,11 @@ Ve Zlínském kraji se v roce 2018 uskuteční senátní volby ve třech okrscí
 [PŘIHLAŠOVACÍ FORMULÁŘ](https://goo.gl/forms/JE57TCvuOMyCTkXB3){:target="_blank"}
 
 Termíny:
-**Okrsek 78:
-- 2. dubna 2018 termín pro přihlášení zájemců
-- 9. - 13. dubna 2018 setkání s vybranými zájemci
-**Okrsky 77 a 80: 30. dubna 2018
-- 14. května 2018 termín pro přihlášení zájemců
-- 21. - 25. května 2018 setkání s vybranými zájemci
+**Okrsek 78:**
+2. dubna 2018 termín pro přihlášení zájemců
+9. - 13. dubna 2018 setkání s vybranými zájemci
+**Okrsky 77 a 80:**
+14. května 2018 termín pro přihlášení zájemců
+21. - 25. května 2018 setkání s vybranými zájemci
 
 - - -
