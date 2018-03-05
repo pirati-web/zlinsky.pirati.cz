@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti ve Zlínském kraji hledají kandidát(k)y pro senátní volby'
+title: 'Piráti ve Zlínském kraji hledají kandidát(k)y do senátních voleb'
 date: 2018-03-05T12:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
@@ -21,10 +21,10 @@ Termíny:
 
 Okrsek 78:
 2. dubna 2018 termín pro přihlášení zájemců
-9. - 13. dubna 2018 setkání s vybranými zájemci
+9. až 13. dubna 2018 setkání s vybranými zájemci
 
 Okrsky 77 a 80:
 14. května 2018 termín pro přihlášení zájemců
-21. - 25. května 2018 setkání s vybranými zájemci
+21. až 25. května 2018 setkání s vybranými zájemci
 
 - - -
