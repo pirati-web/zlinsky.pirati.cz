@@ -21,13 +21,13 @@ TERMÍNY:
 
 Okrsek 78:
 
-Příhlášení zájemců: 2. dubna 2018
-Setkání s vybranými zájemci: 9. až 13. dubna 2018
+- Příhlášení zájemců: 2. dubna 2018
+- Setkání s vybranými zájemci: 9. až 13. dubna 2018
 
 
 Okrsky 77 a 80:
 
-Přihlášení zájemců: 14. května 2018
-Setkání s vybranými zájemci: 21. až 25. května 2018
+- Přihlášení zájemců: 14. května 2018
+- Setkání s vybranými zájemci: 21. až 25. května 2018
 
 - - -
