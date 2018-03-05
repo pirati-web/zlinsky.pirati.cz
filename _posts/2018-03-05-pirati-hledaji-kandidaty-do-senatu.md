@@ -7,7 +7,7 @@ author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/senatvolby.png
 ---
-Krajské sdružení České pirátské strany ve Zlínském kraji nabízí jednotlivcům z široké veřejnosti možnost přihlásit se do otevřených primárních voleb na kandidát(k)y do Senátu ČR pro volby v roce 2018. Standardní pirátský postup tak tradičně poskytuje svým členům možnost postavit do boje o vysokou politickou funkci kandidáta/ku pomocí demokratického hlasování.
+Krajské sdružení České pirátské strany ve Zlínském kraji nabízí jednotlivcům z široké veřejnosti možnost [přihlásit se](https://goo.gl/forms/JE57TCvuOMyCTkXB3){:target="_blank"} do otevřených primárních voleb na kandidát(k)y do Senátu ČR pro volby v roce 2018. Standardní pirátský postup tak tradičně poskytuje svým členům možnost postavit do boje o vysokou politickou funkci kandidáta/ku pomocí demokratického hlasování.
 
 „Nejsme strana založená na zákulisních domluvách, kmotrech a lobbingu, ale na funkční přímé demokracii. Dáváme tak možnost komukoli, aby o senátorské křeslo usiloval pod naší vlajkou či s naší podporou poté, co se přihlásí, obstojí v základních pirátských otázkách a přesvědčí členy krajského sdružení, že jsou té nominace hodni. Nemusí přitom být nutně členem Pirátů. Stejně tak se u nás hlasuje například o čelních pozicích na kandidátkách do parlamentu i komunálu,“ vysvětluje pointu pirátských primárních voleb předseda krajského sdružení Pirátů Marek Houser s tím, že vybraní zájemci by byli po přihlášení pozváni na „grilování“. Během něj by měli zájemci pirátské členy o svých myšlenkách, cílech a vizích přesvědčit.
 
@@ -20,11 +20,11 @@ Ve Zlínském kraji se v roce 2018 uskuteční senátní volby ve třech okrscí
 Termíny:
 
 Okrsek 78:
-2. dubna 2018 termín pro přihlášení zájemců
-9. až 13. dubna 2018 setkání s vybranými zájemci
+*2. dubna 2018 termín pro přihlášení zájemců
+*9. až 13. dubna 2018 setkání s vybranými zájemci
 
 Okrsky 77 a 80:
-14. května 2018 termín pro přihlášení zájemců
-21. až 25. května 2018 setkání s vybranými zájemci
+*14. května 2018 termín pro přihlášení zájemců
+*21. až 25. května 2018 setkání s vybranými zájemci
 
 - - -
