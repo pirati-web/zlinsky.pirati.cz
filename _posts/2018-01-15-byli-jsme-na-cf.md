@@ -6,6 +6,7 @@ date: 2018-01-15T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/naforu2.jpg
+tags: 'celostátní-fórum akce report'
 ---
 Piráti ze Zlínského kraje vyrazili první lednový víkend na zasedání celostátního fóra (CF) Pirátů do Brna. S hojnou účastí více než poloviny členů našeho Krajského sdružení jsme poctivě reprezentovali lokální Piráty.
 
