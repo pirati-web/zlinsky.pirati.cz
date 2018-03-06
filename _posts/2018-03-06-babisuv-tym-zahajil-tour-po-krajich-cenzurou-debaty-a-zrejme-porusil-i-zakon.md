@@ -24,9 +24,9 @@ Jsme zklamaní. A myslíme si, že s námi je zklamaná i většina návštěvn�
 
 **PS pro pana Babiše:** Jelikož jsme Piráti a máme ve zvyku navrhovat lepší řešení, nějaká pro Vás máme…
 
-Pro třídění a řazení otázek dle důležitosti můžeme doporučit například povedenou aplikaci Slido, která tomuto účelu přesně slouží. Nemusíte tak kolegu poslance/moderátora trápit lístečky a tlakem od publika.
+Pro třídění a řazení otázek dle důležitosti můžeme doporučit například povedenou aplikaci Slido, která tomuto účelu přesně slouží. Nemusíte tak kolegu poslance/moderátora trápit lístečky a dostávat jej zbytečně pod tlak publika.
 
-Pokud jste nasbírané lístečky ještě nespálili, neskartovali, nebo na ně vaše podřízení neklekli, je možné poprosit např. pana Prchala o instrukce k Facebook LIVE a můžete na nezodpovězené dotazy odpovědět voličům živě. Například na cestách vlakem, které jistě budou při objíždění krajů dlouhé.
+Pokud jste nasbírané lístečky ještě nespálili, neskartovali, nebo na ně Vaši podřízení neklekli, je možné poprosit např. pana Prchala o instrukce k Facebook LIVE a můžete na nezodpovězené dotazy odpovědět voličům živě. Například na cestách vlakem, které jistě budou při objíždění krajů dlouhé. Když už je občané pravděpodobně platí, mohly by ještě více posloužit.
 
 No, a jestli byste chtěl Vy a Vaši kolegové skutečně co nejlépe a přímo komunikovat s lidmi, můžeme doporučit projekt ve stylu pirátského [V kanclu s poslancem](https://www.facebook.com/groups/332114030527834/){:target="_blank"}. My vysíláme přímo ze Sněmovny a máme skvělé ohlasy!
 
