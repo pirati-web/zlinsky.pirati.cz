@@ -20,10 +20,9 @@ Po další sérii nijak kritických otázek, které hosté ze „Strakovky“ zv
 
 Výsledkem o 15 minut kratšího setkání s občany tedy byla převážně PR beseda Andreje Babiše a jeho týmu, který doteď nebyl schopný sestavit funkční vládu a vyrazil na tour po krajích (kdo ji asi platí?), při které bude odpovídat na vybrané či zobecněné dotazy. Takhle my si jednání politiků s lidmi nepředstavujeme. A že si trestně stíhaný premiér v demisi nejspíš s nějakými psanými či nepsanými pravidly hlavu moc neláme, dokazuje i fakt, že přímo u vstupu do univerzitní auly, v budově UTB, ve všední den a za účasti rektora rozdává dvě své knihy z boxu s logem hnutí ANO a sbírá politické body, čímž podle všeho porušil § 32 školského zákona.
 
-Jsme zklamaní. A myslíme si, že s námi je zklamaná i většina návštěvníků vaší „debaty“ ve Zlíně.
+Jsme zklamaní. A myslíme si, že s námi je zklamaná i většina návštěvníků této „debaty“ s vládou ve Zlíně.
 
-
-PS pro pana Babiše: Jelikož jsme Piráti a máme ve zvyku navrhovat lepší řešení, nějaká pro Vás máme…
+**PS pro pana Babiše:** Jelikož jsme Piráti a máme ve zvyku navrhovat lepší řešení, nějaká pro Vás máme…
 
 Pro třídění a řazení otázek dle důležitosti můžeme doporučit například povedenou aplikaci Slido, která tomuto účelu přesně slouží. Nemusíte tak kolegu poslance/moderátora trápit lístečky a tlakem od publika.
 
