@@ -5,7 +5,7 @@ fullname: Martina Urbánková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/martina-urbankova.jpg   # 165 x 220
 description: asistentka # kratký popis, max 160 znaků
 mail:
 - martina.urbankova@pirati.cz
