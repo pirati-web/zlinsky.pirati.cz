@@ -22,7 +22,8 @@ Výsledkem o 15 minut kratšího setkání s občany tedy byla převážně PR b
 
 Jsme zklamaní. A myslíme si, že s námi je zklamaná i většina návštěvníků vaší „debaty“ ve Zlíně.
 
-PS pro pana Babiše: Jelikož jsme Piráti a snažíme se navrhovat lepší řešení, nějaká pro Vás máme…
+
+PS pro pana Babiše: Jelikož jsme Piráti a máme ve zvyku navrhovat lepší řešení, nějaká pro Vás máme…
 
 Pro třídění a řazení otázek dle důležitosti můžeme doporučit například povedenou aplikaci Slido, která tomuto účelu přesně slouží. Nemusíte tak kolegu poslance/moderátora trápit lístečky a tlakem od publika.
 
