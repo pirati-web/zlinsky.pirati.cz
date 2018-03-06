@@ -5,7 +5,7 @@ fullname: Tomáš Holomel  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/tomas-holomel.jpg   # 165 x 220
 description: zákaznický technolog # kratký popis, max 160 znaků
 mail:
 - tomas.holomel@pirati.cz
