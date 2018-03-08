@@ -24,13 +24,14 @@ TERMÍNY:
 
 Okrsek 78:
 
-- Příhlášení zájemců: 2. dubna 2018
-- Setkání s vybranými zájemci: 3. až 6. dubna 2018
-
+- Přihlášení zájemců: do 20. března 2018
+- Setkání s vybranými zájemci: 21. až 23. března 2018
+- Zahájení primárních voleb: 26. března 2018
 
 Okrsky 77 a 80:
 
-- Přihlášení zájemců: 14. května 2018
-- Setkání s vybranými zájemci: 15. až 18. května 2018
+- Přihlášení zájemců: do 22. května 2018
+- Setkání s vybranými zájemci: 23. května až 27. května 2018
+- Zahájení primárních voleb: 28. května 2018
 
 - - -
