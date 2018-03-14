@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti ze zlínského kraje podporují stávku studentů'
+title: 'Piráti ze Zlínského kraje podporují stávku studentů'
 date: 2018-03-14T11:00:00.032Z
 author:
 authorId:
