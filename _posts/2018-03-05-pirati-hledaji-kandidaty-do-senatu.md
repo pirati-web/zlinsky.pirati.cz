@@ -14,21 +14,21 @@ Krajské sdružení České pirátské strany ve Zlínském kraji nabízí jedno
 
 Zdejší Piráti se k takto veřejné nabídce odhodlali i kvůli tomu, že mezi jejich členy v současnosti není mnoho těch, kteří by splňovali minimální věkový limit. I přes stoupající politické zkušenosti, kompetence a odhodlání nejaktivnějších Pirátů a Pirátek v kraji je pro drtivou většinu z nich "stopkou" právě věk.
 
-Ve Zlínském kraji se v roce 2018 uskuteční senátní volby ve třech okrscích. V 77. a 80. okrsku se bude volit standardně na podzim, ve „zlínském“ 78. okrsku však volby proběhnou mnohem dříve kvůli rezignaci Františka Čuby Podle zákona konkrétně do 90 od zániku mandátu, tedy do konce května. Piráti hledají vhodné kandidáty a kandidátky do všech tří.
+Ve Zlínském kraji se v roce 2018 uskuteční senátní volby ve třech obvodech. V 77. a 80. obvodu se bude volit standardně na podzim, ve „zlínském“ 78. oobvodu však volby proběhnou mnohem dříve kvůli rezignaci Františka Čuby, konkrétně 18. a 19. května. Zdejším kandidátem bude po úspěchu ve zmíněných primárních volbách Aleš Fuksa. Nyní Piráti hledají vhodné kandidáty a kandidátky i do dalších dvou.
 
-„Chtěli bychom mít želízka v ohni ve všech zmíněných okrscích, ale jsme si dobře vědomi sil na Vsetíně a v Uherském Brodě. I když musíme spěchat, primární je pro nás momentálně Zlín a místo po panu Čubovi, který udělal svému regionu velkou ostudu a vyvolal v lidech pocit, že senátoři jsou vlastně k ničemu a nepotřebujeme je. Představením pirátského jména bychom chtěli takovým názorům oponovat a i v kampani bychom kladli důraz na význam Senátu,“ přiblížil Houser. Dodal ovšem, že pokud by Piráti v kterémkoli okrsku usoudili, že žádná z přihlášených osobností nemá větší šanci na úspěch, kandidatury se vzdají a mohli by třeba pomýšlet na podporu jiného kandidáta. To by ovšem opět podléhalo hlasování členské základny.
+„Chtěli bychom mít želízka v ohni ve všech zmíněných okrscích, ale jsme si dobře vědomi sil na Vsetíně a v Uherském Brodě. I když musíme spěchat, primární je pro nás momentálně Zlín a místo po panu Čubovi, který udělal svému regionu velkou ostudu a vyvolal v lidech pocit, že senátoři jsou vlastně k ničemu a nepotřebujeme je. Představením pirátského jména chceme takovým názorům oponovat a i v kampani bychom kladli důraz na význam Senátu,“ přiblížil Houser. Dodal ovšem, že pokud by Piráti v kterémkoli obvodu usoudili, že žádná z přihlášených osobností nemá větší šanci na úspěch, kandidatury se vzdají a mohli by třeba pomýšlet na podporu jiného kandidáta. To by ovšem opět podléhalo hlasování členské základny.
 
 [PŘIHLAŠOVACÍ FORMULÁŘ](https://goo.gl/forms/JE57TCvuOMyCTkXB3){:target="_blank"}
 
 TERMÍNY:
 
-Okrsek 78:
+Obvod 78:
 
 - Přihlášení zájemců: do 18. března 2018
 - Setkání s vybranými zájemci: 19. až 21. března 2018
 - Primární volby: do 25. března 2018
 
-Okrsky 77 a 80:
+Obvody 77 a 80:
 
 - Přihlášení zájemců: do 22. května 2018
 - Setkání s vybranými zájemci: 23. května až 27. května 2018
