@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Horní komora je záchrannou brzdou demokracie a zaslouží si důvěru lidí, říká pirátský kandidát do Senátu Aleš Fuksa'
+title: 'Chtěl bych být "obvodním ombudsmanem" a sloužit lidem, říká pirátský kandidát do Senátu Aleš Fuksa'
 date: 2018-03-30T11:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
@@ -25,13 +25,15 @@ __Když jsme u té chvilky... Myslíš, že mandát na dva roky má smysl?__
 
 Má smysl pro ten pocit, že člověk může spustit revoltu a být součástí té změny, která bude, doufám, znamenat odklon od směřování dvojice Miloš Zeman + Andrej Babiš a přinejmenším udržení současného stavu věci především v zákonech týkajících se svobody slova a svobodného přístupu k informacím. Důležitá bude stálá a hlavně výrazná podpora nezávislosti médií, především pak veřejnoprávních. Jakožto oblastí, které jsou mi profesně nejbližší.
 
-__Jak může práce v Senátu ovlivnit život lidí ve zlíně a okolí?__
+__Jak může práce v Senátu ovlivnit život lidí ve Zlíně a okolí?__
 
 Proč někoho ovlivňovat? Když je mnohdy lepší samotným lidem naslouchat a případně pomoci. Skupině lidí i jednotlivcům, ale i spolkům atd. například. Referováním v Senátu i formou nezištné pomoci zastáním se některých lidí či skupin na úřadech, institucích a podobně. Příklad za všechny? Piráti měli připravenou v Kroměříži pěknou akcičku s důchodci a dětmi z mateřských škol, ale nakonec skončila tato akce nezdarem. Můžete se jich zeptat, proč. A z pozice senátora bych mohl tyto aktivity viditelněji a aktivněji podporovat. Například jednáním se zástupci města.
 
 __Jak vnímáš instituci Senátu a jak myslíš, že jej vnímá veřejnost?__
 
 Jak jsem již jinde řekl, je to záchranná brzda demokracie a uvědomuje si to stále více lidí. Nynější doplňovací květnové volby na Zlínsku mohou být navíc do velké míry lakmusovým papírkem nálady samotných voličů. A pokud vyjdou ve prospěch Pirátů a mne jako nezávislého kandidáta, mohou se stát počáteční přívalovou vlnou pro podzimní senátní volby v jedné třetině horní komory. A tím spustit revoltu za demokracii v Senátu. Tyto květnové v jediném zlínském 78. obvodu tak mohou pro podzimní hlavní mnoho napovědět. Buď lidé touží po změně, nebo je jim to jedno a zvolí kandidáta z tradičních stran.
+
+> "Pracovat budu dál, kandidatura mou práci neovlivní."
 
 __Vítěz voleb nahradí Františka Čubu, který se ve funkci moc nepředvedl a nakonec pod tlakem rezignoval. Jak hodnotíš jeho stopu v senátu?__
 
@@ -60,6 +62,8 @@ Návrhy týkající se udržení současného stavu svobody slova, návrhy týka
 __Očekáváš podporu napříč všemi společenskými vrstvami a velikostmi obcí, nebo se chceš zaměřit na konkrétní cílovou skupinu?__
 
 Očekávám podporu i mezi lidmi, kteří normálně volí jiné než Piráty.
+
+> "Žurnalistika i parlament jsou políře, které jsou podkopávány."
 
 __Do politiky se vrháš v podstatě bez zkušeností z jiných, například komunálních, politických sfér. Vidíš v tom nějaké výhody či nevýhody?__
 
