@@ -1,21 +1,70 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti ze Zlínského kraje podporují stávku studentů'
-date: 2018-03-14T11:00:00.032Z
-author:
-authorId:
-image: /assets/img/posts/vyjdiven.jpg
-tags: 'akce stávka studenti Zlín'
+title: 'Horní komora je záchrannou brzdou demokracie a zaslouží si důvěru lidí, říká pirátský kandidát do Senátu Aleš Fuksa'
+date: 2018-03-30T11:00:00.032Z
+author: Marek Houser
+authorId: marek.houser
+image: /assets/img/posts/AFbanner.jpg
+tags: 'Senát Senát-78 Zlín rozhovor'
 ---
+Uspěl v pirátských primárkách v konkurenci sedmi konkurentů, 29. března podal oficiální přihlášku a po Velikonocích jemu a Pirátům oficiálně začíná kampaň před senátními volbami ve zlínském 78. obvodu. Novinář Aleš Fuksa se s Piráty v zádech v regionu "popere" o místo, které v Senátu svou rezignací uvolnil František Čuba. "Zneužil voliče ke svému prospěchu. A neměl jako správný chlap koule na to rezignovat dříve," říká na adresu velkopodnikatele regionální reportér s téměř dvacetiletou praxí. Přečtěte si první rozhovor s naším kandidátem do Senátu...
 
-Ve čtvrtek 15. března proběhne na několika místech po celé ČR studentská protestní akce #VyjdiVen a Piráti ze Zlínského kraje tuto iniciativu mladých plně podporují. Akce proběhne také na několika místech ve Zlínském kraji (oficiální událost najdete [ZDE](https://www.facebook.com/events/158080204911148){:target="_blank"}).
+_Co říkáš na systém primárních voleb, který Piráti pro výběr kandidátů používají?_
+Je to krok vedoucí k větší transparentnosti. Ale hodnotit by jej měli ti, kteří hlasovali. Projít si tříhodinovým otevřeným "grilováním" pro mne bylo novou zkušeností. Jsem zvyklý grilovat, ne být grilován :)
 
-Aktivní společnost vnímáme jako jeden ze základních pilířů demokratické společnosti, která participuje na veřejném dění. Vítáme tuto studentskou aktivitu právě proto, že spolupodílení a spolurozhodování je jedním z dlouhodobých pirátských cílů.
+_Čeho bys chtěl v Senátu dosáhnout?_
+V něm i mimo něj bych rád spojoval lidi, kteří to myslí s naší malou zemičkou dobře. Ne je rozděloval, jak je teď běžným zvykem. Byl bych rád prodlouženou rukou pro ty, kteří ve svém zvoleném zástupci vidí sami sebe, jen s rozšířenými možnostmi. Svým dvěma dcerkám odmalička vštěpuju do hlavy, že existují tři druhy lidí. Ovečky, vlci a ovčáčtí psi. A vždycky jim říkám, že lidi je třeba před vlky chránit, pomáhat jim a ukazovat správnou cestu, i když někdy remcají. A to by měl být i úděl senátora. Senátorství vnímám jako práci.
 
-Cesta k opravdové přímé demokracii začíná právě u vzdělané společnosti, která si sama svou činností nastavuje pravidla. Proto podporujeme snahu studentů, stejně jako odborů nebo neziskovek. Odsuzujeme výpady některých politiků i části společnosti směrem ke studentům nebo již zmíněným neziskovkám. Myslíme si, že původce této „shut up“ situace není třeba znovu jmenovat. Právě v této situaci je potřeba vyslovit podporu studentům a ukázat, že symbolické „nejsme malé děti“ je stejně aktuální i po 29 letech. Stávku podporujeme i proto, že mezi studenty stabilně bodujeme v projektu Člověka v tísni a ve studentských volbách a vidíme, že právě ti, kteří pro nás hlasovali ve "studenstkých" a po té i ve "skutečných" volbách,  mají nezanedbatelný podíl na tom, že jsme obsadili sněmovnu. Proto vidíme jako přímou odpovědnost vůči studentskému stavu podpořit aktivitu a apelovat i na ostaní.
+Mezi lidmi bych rád dosáhl zvýšení důvěry v samotnou horní komoru. Aby oni sami pochopili, jakou má Senát v ruce moc. Zatím ji má, alespoň co do názoru řady lidí, moc malou, ale je to proto, že není mediálně příliš vidět. Když se dostanu na post senátora, budou lidé kolem mne (třeba na sociálních sítích) vědět každý den, co ta práce obnáší. A nejen na půdě Senátu, ale hlavně ve zlínské kanceláři. Kde bych se chtěl setkávat s lidmi a být pro ně "obvodním ombudsmanem". Sloužit lidem, kteří mohou přicházet se zajímavými podněty a pak se rozhodnout a pokusit se je přenést jakoukoliv možnou cestou do praxe.
+Jinak nečekám, že během chvilky ohromím v případě zvolení vybrané senátní výbory nebo pak senátory obecně svými návrhy na změny předkládaných zákonů. Nicméně stát se to může. To už jsou pak věci týkající se diskuse a selského rozumu, který někdy používají v dobré víře i předsedové justičních senátů v procesech, kde jest omezené množství důkazů.
 
-Musíme dodat svou nelibost k tvrzení, že se studenti snaží zpochybnit výsledky voleb. Právě toto vidíme jako jeden z prvních kroků, které vedou k postupné demontáži naší demokracie a svobod s ní spojených. Chceme tedy studenty ujistit o tom, že v jejich aktivitě jsme na stejné lodi. Nenechme se uchlácholit, uspat či snad vystrašit. Za vyjádření občanských postojů na nás nikdo nemůže „kleknout“. Ovšem právě tato jistota je křehká a zaslouží si naši obranu a péči.
-Vyzýváme tedy všechny sympatizanty k tomu, aby akci #VyjdiVen podpořili svou přímou účastí či třeba jen diskuzí ve svém okolí.
+_Když jsme u té chvilky... Myslíš, že mandát na dva roky má smysl?_
+Má smysl pro ten pocit, že člověk může spustit revoltu a být součástí té změny, která bude, doufám, znamenat odklon od směřování dvojice Miloš Zeman + Andrej Babiš a přinejmenším udržení současného stavu věci především v zákonech týkajících se svobody slova a svobodného přístupu k informacím. Důležitá bude stálá a hlavně výrazná podpora nezávislosti médií, především pak veřejnoprávních. Jakožto oblastí, které jsou mi profesně nejbližší.
+
+_Jak může práce v Senátu ovlivnit život lidí ve zlíně a okolí?_
+Proč někoho ovlivňovat? Když je mnohdy lepší samotným lidem naslouchat a případně pomoci. Skupině lidí i jednotlivcům, ale i spolkům atd. například. Referováním v Senátu i formou nezištné pomoci zastáním se některých lidí či skupin na úřadech, institucích a podobně. Příklad za všechny? Piráti měli připravenou v Kroměříži pěknou akcičku s důchodci a dětmi z mateřských škol, ale nakonec skončila tato akce nezdarem. Můžete se jich zeptat, proč. A z pozice senátora bych mohl tyto aktivity viditelněji a aktivněji podporovat. Například jednáním se zástupci města.
+
+_Jak vnímáš instituci Senátu a jak myslíš, že jej vnímá veřejnost?_
+Jak jsem již jinde řekl, je to záchranná brzda demokracie a uvědomuje si to stále více lidí. Nynější doplňovací květnové volby na Zlínsku mohou být navíc do velké míry lakmusovým papírkem nálady samotných voličů. A pokud vyjdou ve prospěch Pirátů a mne jako nezávislého kandidáta, mohou se stát počáteční přívalovou vlnou pro podzimní senátní volby v jedné třetině horní komory. A tím spustit revoltu za demokracii v Senátu. Tyto květnové v jediném zlínském 78. obvodu tak mohou pro podzimní hlavní mnoho napovědět. Buď lidé touží po změně, nebo je jim to jedno a zvolí kandidáta z tradičních stran.
+
+_Vítěz voleb nahradí Františka Čubu, který se ve funkci moc nepředvedl a nakonec pod tlakem rezignoval. Jak hodnotíš jeho stopu v senátu?_
+To, jakou stopu zanechal, vidí každý. Naposledy se účastnil jednání Senátu 24. srpna 2016. Pak už chyběl z různých zdravotních důvodů. Nebýval často k zastižení ani ve své senátorské kanceláři ve Zlíně, kde jsem ho i já v rámci výkonu své práce několikrát hledal. Co si o tom myslet... Že je to špatně. Zneužil voliče ke svému prospěchu. A neměl jako správný chlap koule na to rezignovat dříve. Přeji tomuto starému pánovi klid a pohodu při důchodu. A přál jsem mu ho už před senátními volbami v roce 2014, které vyhrál.
+
+_Zmínil jsi svou práci. Jsi současně kandidátem na politickou funkci a novinářem. Neovlivní tě to?_
+Já doufám, že ne. Ale i s tímto rizikem do toho jdu.
+
+_Ale kritici se určitě najdou. Jaké budou záruky tvé nestrannosti?_
+Záruky nestrannosti jsou v objektivitě textů. Politické komentáře nepíši. Jsem novinářem nezávislého deníku. Je to má práce, která mne živí. Takže pracovat budu do voleb dál. Samozřejmě se budu snažit vyvarovat psaní o Pirátech, ale to se rozumí samo sebou. Nad rámec se do voleb vyhnu psaní textů s politickou či komunální tematikou.
+
+_Jaký máš vztah ke Zlínsku?_
+Jsem Zlíňák a jako novinář jsem na východě Moravy už devatenáct let denně v terénu. A předtím coby hajný :) Mám rád tento kraj, a proto jsem ho nikdy neopustil.
+
+_Očekáváš podporu od nějakých zdejších osobností?_
+Když mrknete na můj facebook, najdete tam nespočet osobností, které své sympatie ohledně mého rozhodnutí vyjádřily svým "lajkem". A jestli jste Zlíňáci, mnohé z nich znáte. Ti lidé si o mém rozhodnutí budou povídat s dalšími. Všichni máme společný mikrosvět, který přirozenou cestou rozšiřujeme. Pomocnou ruku mi po ohlášení mé kandidatury nabídl například organizátor festivalu demokracie Zlínské jaro Tomáš Pasterný, bývalá senátorka Jana Juřenčáková a mnozí další. Otevřeně mne podporuje vedení zlínského odborového svazu gumárenského giganta firmy Mitas.
+
+_Záludná otázka: Které pirátské návrhy bys v Senátu okamžitě podpořil a u kterých bys váhal?_
+Návrhy týkající se udržení současného stavu svobody slova, návrhy týkající se vyšší transparentnosti a zvýšení otevřenosti úřadů či státních firem vůči lidem. Digitalizace a s tím spojená zhoršená možnost korupce. Ty bych jistě podpořil. Ináč teď nevím, nad čím konkrétně bych váhal. Pokud bych ale váhal, je věcí diskuse, zda mne přesvědčí k přiklonění se k dané variantě. Nebráním se ničemu, ale taky nejsem automatický přitakávač. Svůj názor řeknu, i kdyby se to někomu při diskusi nelíbilo. Jak se pak zachovám, je věc druhá. Otázka přímé demokracie například může vadit spoustě lidem, ale je to zase věcí osvěty. Vše postupně, je třeba lidi vychovávat.
+
+_Očekáváš podporu napříč všemi společenskými vrstvami a velikostmi obcí, nebo se chceš zaměřit na konkrétní cílovou skupinu?_
+Očekávám podporu i mezi lidmi, kteří normálně volí jiné než Piráty.
+
+_Do politiky se vrháš v podstatě bez zkušeností z jiných, například komunálních, politických sfér. Vidíš v tom nějaké výhody či nevýhody?_
+Vidím v tom výhodu. Ale ve skutečnosti je to tak, že s politiky (od starostů až po vrcholné politiky) jsem byl devatenáct let víceméně stále v kontaktu. Mám nadhled. I teď při své kandidatuře. Vše dopadne, jak má. Nehodlám tímto zahájit bezhlavou politickou dráhu, a k tomu s klapkami na očích. Jen chci svou kandidaturou jasně říct, že už je tu něco špatně a je třeba se začít bít za svobodu slova a podporu médií i jiným způsobem. Postavit se za občany i novináře a za své řemeslo na politické půdě. Žurnalistiku i horní komoru Parlamentu ČR považuji za jedny z hlavních pilířů demokracie. Doba je zlá, v současnosti jsou tyto  pilíře značně podkopávány v základech, a to nejvyššími politickými kádry.
+
+_Na "grilování" před primárními volbami Pirátů jsi uvedl, že hrozí "zrušení Senátu" a zmiňoval jsi k tomu 3 důvody. Můžeš je zopakovat?_
+Změnou ústavy, což je snad nereálné. Vyhladověním ve chvíli, kdy poslanecká sněmovna neschválí rozpočet Senátu. Či schválením doživotní renty senátorům poslaneckou sněmovnou s tím, že by s tím souvisela nepsaná dohoda se senátory, kteří by sami zdvihli ruku pro rozpuštění horní komory. Což už ze svých úst premiér v demisi Andrej Babiš v minulosti dostal...
+
+_Jak nahlíží na tvou kandidaturu tvá rodina?_
+Respektuje to.
+
+_Kandiduješ jako nezávislý. Uvažuješ se k České pirátské straně v budoucnu přidat jako její člen?_
+Ne. Vysvětlovat proč, zřejmě s ohledem na svou profesi, nemusím.
+
+_Máš nějaké plány v případě neúspěchu, nebo na to teď nemyslíš? Budeš se případně s Piráty dále ucházet o senátora v obvodech 77 a 80?_
+Nebudu se dál ucházet o post senátora v dalších dvou obvodech. V každém z nich se zcela jistě najde výrazná osobnost, která bude chtít dosáhnout změny a bude blízká názorům Pirátů. Miluju novinářskou branži a budu se jí chtít dál věnovat naplno.
+
+_I v případě zvolení bys chtěl zůstat součástí redakce a vykonávat funkci novináře?_
+Nepředbíhejme. Nevím ale, do jaké míry by to šlo či nešlo zkloubit. Obě práce mají ve vztahu k obyčejným lidem hodně společného.
 
 - - -
