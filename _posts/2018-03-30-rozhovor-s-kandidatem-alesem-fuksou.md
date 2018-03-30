@@ -33,7 +33,9 @@ __Jak vnímáš instituci Senátu a jak myslíš, že ji vnímá veřejnost?__
 
 Jak jsem již jinde řekl, je to záchranná brzda demokracie a uvědomuje si to stále více lidí. Nynější doplňovací květnové volby na Zlínsku mohou být navíc do velké míry lakmusovým papírkem nálady samotných voličů. A pokud vyjdou ve prospěch Pirátů a mne jako nezávislého kandidáta, mohou se stát počáteční přívalovou vlnou pro podzimní senátní volby v jedné třetině horní komory. A tím spustit revoltu za demokracii v Senátu. Tyto květnové v jediném zlínském 78. obvodu tak mohou pro podzimní hlavní mnoho napovědět. Buď lidé touží po změně, nebo je jim to jedno a zvolí kandidáta z tradičních stran.
 
-## "Novinářem budu dál, kandidatura mou objektivitu neovlivní."
+
+## __"Novinářem budu dál, kandidatura mou objektivitu neovlivní."__
+
 
 __Vítěz voleb nahradí Františka Čubu, který se ve funkci moc nepředvedl a nakonec pod tlakem rezignoval. Jak hodnotíš jeho stopu v Senátu?__
 
@@ -63,7 +65,9 @@ __Očekáváš podporu napříč všemi společenskými vrstvami a velikostmi ob
 
 Očekávám podporu i mezi lidmi, kteří normálně volí jiné než Piráty.
 
-## "Žurnalistika i parlament jsou pilíře, které jsou podkopávány."
+
+## __"Žurnalistika i parlament jsou pilíře, které jsou podkopávány."__
+
 
 __Do politiky se vrháš v podstatě bez zkušeností z jiných, například komunálních, politických sfér. Vidíš v tom nějaké výhody či nevýhody?__
 
