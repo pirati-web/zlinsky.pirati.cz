@@ -66,7 +66,7 @@ __Očekáváš podporu napříč všemi společenskými vrstvami a velikostmi ob
 Očekávám podporu i mezi lidmi, kteří normálně volí jiné než Piráty.
 
 
-## __"Žurnalistika i parlament jsou pilíře, které jsou podkopávány."__
+## __"Žurnalistika i Senát jsou pilíře, které jsou podkopávány."__
 
 
 __Do politiky se vrháš v podstatě bez zkušeností z jiných, například komunálních, politických sfér. Vidíš v tom nějaké výhody či nevýhody?__
