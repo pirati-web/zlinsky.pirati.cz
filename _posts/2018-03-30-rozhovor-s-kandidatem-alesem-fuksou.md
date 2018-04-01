@@ -66,7 +66,7 @@ __Očekáváš podporu napříč všemi společenskými vrstvami a velikostmi ob
 Očekávám podporu i mezi lidmi, kteří normálně volí jiné než Piráty.
 
 
-## __"Žurnalistika i parlament jsou pilíře, které jsou podkopávány."__
+## __"Žurnalistika i Senát jsou pilíře, které jsou podkopávány."__
 
 
 __Do politiky se vrháš v podstatě bez zkušeností z jiných, například komunálních, politických sfér. Vidíš v tom nějaké výhody či nevýhody?__
@@ -83,7 +83,7 @@ Respektuje to.
 
 __Kandiduješ jako nezávislý. Uvažuješ se k České pirátské straně v budoucnu přidat jako její člen?__
 
-Ne. Vysvětlovat proč, zřejmě s ohledem na svou profesi, nemusím.
+Ne. Vysvětlovat proč, s ohledem na svou profesi, zřejmě nemusím.
 
 __Máš nějaké plány v případě neúspěchu, nebo na to teď nemyslíš? Budeš se případně s Piráty dále ucházet o senátora v obvodech 77 a 80?__
 
@@ -91,6 +91,6 @@ Nebudu se dál ucházet o post senátora v dalších dvou obvodech. V každém z
 
 __I v případě zvolení bys chtěl zůstat součástí redakce a vykonávat funkci novináře?__
 
-Nepředbíhejme. Nevím ale, do jaké míry by to šlo či nešlo zkloubit. Obě práce mají ve vztahu k obyčejným lidem hodně společného.
+Nepředbíhejme. Nevím ale, do jaké míry by to šlo či nešlo skloubit. Obě práce mají ve vztahu k obyčejným lidem hodně společného.
 
 - - -
