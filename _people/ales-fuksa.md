@@ -13,7 +13,7 @@ profiles:
   facebook: https://www.facebook.com/ales.fuksa.9
 ---
 
-Aleš Fuksa (*11. června 1976, Zlín) je současným nezávislým kandidátem s podporou Pirátů do senátu ve zlínském volebním obvodu 78. Téměř 20 let pracuje jako regionální novninář - zpravodaj.
+Aleš Fuksa (*11. června 1976, Zlín) je současným nezávislým kandidátem s podporou Pirátů do senátu ve zlínském volebním obvodu 78. Téměř 20 let pracuje jako regionální novinář - zpravodaj.
 
 Žurnalistice se profesně věnuje od roku 1999, nejprve ve Zlínských novinách, později coby šéfredaktor ve Slováckých novinách a od roku 2006 jako redaktor Práva.
 
