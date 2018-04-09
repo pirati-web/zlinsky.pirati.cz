@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/matej-krajca.jpg   # 165 x 220
-description: referent obchodního oddělení # kratký popis, max 160 znaků
+description: obchodní zástupce # kratký popis, max 160 znaků
 mail:
 - matej.krajca@pirati.cz
 profiles:
