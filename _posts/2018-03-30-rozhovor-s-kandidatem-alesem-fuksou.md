@@ -8,7 +8,7 @@ authorId: marek.houser
 image: /assets/img/posts/AFbanner.jpg
 tags: 'Senát Senát-78 Zlín rozhovor'
 ---
-Uspěl v pirátských primárkách v konkurenci dalších sedmi kandidátů, 29. března podal oficiální přihlášku a po Velikonocích jemu a Pirátům oficiálně začíná kampaň před senátními volbami ve zlínském 78. obvodu. Novinář [Aleš Fuksa](https://zlinsky.pirati.cz/lide/ales-fuksa/){:target="_blank"} se s Piráty v zádech v regionu "popere" o místo, které v Senátu svou rezignací uvolnil František Čuba. "Zneužil voliče ke svému prospěchu. A neměl jako správný chlap koule na to rezignovat dříve," říká na adresu velkopodnikatele regionální reportér s téměř dvacetiletou praxí. Přečtěte si první rozhovor s naším kandidátem do Senátu.
+Uspěl v pirátských primárkách v konkurenci dalších sedmi kandidátů, 29. března podal oficiální přihlášku a po Velikonocích jemu a Pirátům oficiálně začíná kampaň před senátními volbami ve zlínském 78. obvodu. Novinář [Aleš Fuksa](https://www.alesfuksa.cz){:target="_blank"} se s Piráty v zádech v regionu "popere" o místo, které v Senátu svou rezignací uvolnil František Čuba. "Zneužil voliče ke svému prospěchu. A neměl jako správný chlap koule na to rezignovat dříve," říká na adresu velkopodnikatele regionální reportér s téměř dvacetiletou praxí. Přečtěte si první rozhovor s naším kandidátem do Senátu.
 
 __Co říkáš na systém primárních voleb, který Piráti pro výběr kandidátů používají?__
 
