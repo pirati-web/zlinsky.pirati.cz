@@ -8,7 +8,7 @@ authorId: marek.houser
 image: /assets/img/posts/fuksaoblek.jpg
 tags: 'Senát Senát-78 Zlín primárky'
 ---
-Piráti ze Zlínského kraje v primárních volbách, které jsou stranickým standardem a které dávají v podobných situacích příležitost zájemcům i mimo členskou základnu, vybrali kandidáta pro doplňovací senátní volby v obvodu 78. Stal se jím dlouholetý novinář [Aleš Fuksa](https://zlinsky.pirati.cz/lide/ales-fuksa/){:target="_blank"}. Právě ten tak v květnu svede souboj o místo, které svou rezignací uvolnil František Čuba.
+Piráti ze Zlínského kraje v primárních volbách, které jsou stranickým standardem a které dávají v podobných situacích příležitost zájemcům i mimo členskou základnu, vybrali kandidáta pro doplňovací senátní volby v obvodu 78. Stal se jím dlouholetý novinář [Aleš Fuksa](https://www.alesfuksa.cz){:target="_blank"}. Právě ten tak v květnu svede souboj o místo, které svou rezignací uvolnil František Čuba.
 
 "Kandidovat do Senátu hodlám proto, že to cítím jako svou občanskou povinnost ve chvíli, kdy už si říkám, co všechno si ještě necháme my občané líbit. Beru to ale i jako povinnost člověka, který se dvě desetiletí věnuje nezávislé žurnalistice. Žurnalistice, která je pilířem demokratického státu a která je nyní stále častěji napadána. A je třeba se bránit. A bránit aktivněji svobodu slova či projevu a nezávislost médií," popisuje své rozhodnutí dvaačtyřicetiletý regionální reportér, který chce být dle vlastních slov "obvodním ombudsmanem" a vyvolat v lidech důvěru v horní komoru Parlamentu ČR. Přečtete si [kompletní rozhovor](https://zlinsky.pirati.cz/aktuality/rozhovor-s-kandidatem-alesem-fuksou.html){:target="_blank"} s naším kandidátem. Aleš Fuksa zůstane bez politické přislušnosti a do voleb půjde s podporou Pirátů.
 
