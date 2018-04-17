@@ -1,19 +1,19 @@
 ---
-uid: linda.svrcinova
-name:     Linda Švrčinová  	# běžně používáné jméno
-fullname: PhDr. Linda Švrčinová, Ph.D.  	# jméno s tituly etc.
+uid: linda.matuskova
+name:     Linda Matušková  	# běžně používáné jméno
+fullname: PhDr. Linda Matušková, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/linda-svrcinova.jpg   # 165 x 220
+img: people/linda-matuskova.jpg   # 165 x 220
 description: newborn fotografka, VŠ pedagog, fotografka # kratký popis, max 160 znaků
 mail:
-- linda.svrcinova@pirati.cz
+- linda.matuskova@pirati.cz
 profiles:
   facebook: https://www.facebook.com
 ---
 
-PhDr. Linda Švrčinová, Ph.D. (*31. prosince 1982, Kroměříž) je členkou MS Piráti Kroměříž.
+PhDr. Linda Matušková, Ph.D. (*31. prosince 1982, Kroměříž) je členkou MS Piráti Kroměříž.
 
 Jakožto nadšená sběratelka akademických titulů navázala po absolvování kroměřížské Střední pedagogické školy poměrně zdlouhavým studiem na Univerzitě Palackého v Olomouci. V roce 2013 dosáhla získáním titulu Ph.D. zdařilého akademického hattricku v oboru Pedagogika.
 
