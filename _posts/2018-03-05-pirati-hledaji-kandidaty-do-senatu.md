@@ -30,8 +30,8 @@ Obvod 78:
 
 Obvody 77 a 80:
 
-- Přihlášení zájemců: do 22. května 2018
-- Setkání s vybranými zájemci: 23. května až 27. května 2018
-- Primární volby: do 31. května 2018
+- Přihlášení zájemců: do 30. dubna 2018
+- Setkání s vybranými zájemci: 2. května až 6. května 2018
+- Primární volby: do 15. května 2018
 
 - - -
