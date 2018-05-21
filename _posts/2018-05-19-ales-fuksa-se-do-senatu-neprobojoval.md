@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Aleš Fuksa se do Senátu neprobojoval, Piráti v druhém kole nejspíše podpoří Goláně'
-date: 2018-05-19T11:00:00.032Z
+date: 2018-05-19T10:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/AFbanner3.jpg
