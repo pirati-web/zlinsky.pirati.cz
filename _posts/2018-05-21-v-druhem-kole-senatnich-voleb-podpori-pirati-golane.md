@@ -5,7 +5,7 @@ title: 'V druhém kole senátních voleb podpoří Piráti Tomáše Goláně'
 date: 2018-05-21T11:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
-image: /assets/img/posts/tgzlin.jpg
+image: /assets/img/posts/tg-zlin.jpg
 tags: 'Senát Senát-78 Zlín'
 ---
 Poté, co nezávislý kandidát s podporou Pirátů Aleš Fuksa v prvním kole doplňovacích senátních voleb na Zlínsku skončil s 1559 hlasy na nepostupovém pátém místě, se krajské sdružení České pirátské strany rozhodlo podpořit kandidáta hnutí Senátor 21 [Tomáše Goláně](https://www.tomasgolan.cz){:target="_blank"}. Má důvěru krajského předsednictva i celokrajského fóra. Definitvní podobu podpory mezi Piráty a dlouholetým daňovým poradcem určilo pondělní jednání.
