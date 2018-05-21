@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'V druhém kole senátních voleb podpoří Piráti Tomáše Goláně'
-date: 2018-05-19T11:00:00.032Z
+date: 2018-05-21T11:00:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/tgzlin.jpg
