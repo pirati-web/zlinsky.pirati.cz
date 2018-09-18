@@ -14,4 +14,6 @@ Ve všech deseti zmíněných městech a jedné obci najdete letos na podzim na 
 
 Nejsme ale žádní supermani a hrát si na ně ani nechceme. V případě úspěchu jsme připraveni pracovat s opravdovými odborníky a na všechna důležitá místa dosazovat další odborníky skrze poctivá a pravidelná výběrová řízení. V městských a obecních firmách by měli rozhodovat a dozorovat experti z oboru, nikoli vysloužilí politici, lobbisté a jejich kamarádi za odměnu. Ani v opozici se ovšem Piráti neztratí a umíme spolehlivě zbourat zažité zvyky v podobě destruktivního odmítání všeho, co není naším nápadem. To dokazují také kolegové a kolegyně v Poslanecké sněmovně. Z jejich konstruktivní práce a úspěchů čerpáme motivaci k tomu, abychom se pirátství pokusili rozšířit i do prostředí našich menších rybníčků.
 
+Rozcestník na weby jednodtlivých kandidátek najedete [ZDE](https://zlinsky.pirati.cz/volby-2018/komunalni/){:target="_blank"}.
+
 - - -
