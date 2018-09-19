@@ -24,4 +24,6 @@ Nejvíce znečištěné byly veřejné prostory na Masarykově náměstí, za ku
 Odpad tvořily z 50 % nedopalky od cigaret (což pokládáme u nás ve Vizovicích za největší problém), dále plastové láhve (hlavně za sokolovnou) a drobnější odpad typu obaly, sáčky a plechovky.
 Měli jsme radost, že i v tak malém počtu dobrovolníků jsme dokázali za čtyři a půl hodiny zvládnout tolik práce. Tak v dubnu zase :)"
 
+Piráti z Valašského Meziříčí: "Vyrazili jsme sbírat na břehy Rožnovské Bečvy. A nasbírali jsme přes 150 kg odpadu ve 3 lidech!"
+
 - - -
