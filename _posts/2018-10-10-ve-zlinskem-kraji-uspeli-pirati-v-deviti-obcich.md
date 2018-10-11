@@ -8,11 +8,11 @@ authorId: marek.houser
 image: /assets/img/posts/zlkmapa2018n.jpg
 tags: 'komunálky 2018 zlínský-kraj'
 ---
-Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek, ve Stupavě získal jeden Pirát mandát z kandidátky nezávislých. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
+Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek či z kandidátů s naší podporou, ve Stupavě získal jeden Pirát mandát mezi nezávislými. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
 
 Na několika místech nebyla nouze o velké drama. Ve Valašském Meziříčí mají Piráti zastupitele díky těsnému finálnímu přepočtu, který vyšvihl Denise Rychtara nad pětiprocentní hranici díky menšímu počtu kandidátů na listině. Velkou smůlu naopak měli ve Slavičíně, kde byl jejich výsledek 5,OO % přepočten na 4,99 %. Pirátům tak ve městě, ze kterého mimochodem pochází žhavý kandidát na post primátora Prahy Zdeněk Hřib, utekl pravděpodobně mandát o jeden jediný hlas. Jeden lístek rozhodoval také ve Stupavě, kde se ocitl člen Pirátů v opozici.
 
-__Výčet pirátských zastupitelů ve městech a obcích:__
+__Výčet zastupitelů:__
 
 __Zlín__
 - Jiří Jaroš
@@ -59,7 +59,7 @@ __Otrokovice__ (Občané OE s podporou Pirátů)
 - Pavel Beznoska
 - Petr Ťopek
 
-"Pro Občany OE s podporou Pirátů jde o nejlepší výsledek v historii. Získání 2 zastupitelských míst je úspěchem, nicméně velmi nás mrzí, že jen několik hlasů nás připravilo o třetího zastupitele. Budeme-li osloveni, rádi se zapojíme do jednání o koalici, za předpokladu akceptace našeho volebního programu a místa radního," říká Pavel Bernoska.
+"Pro Občany OE s podporou Pirátů jde o nejlepší výsledek v historii. Získání 2 zastupitelských míst je úspěchem, nicméně velmi nás mrzí, že jen několik hlasů nás připravilo o třetího zastupitele. Budeme-li osloveni, rádi se zapojíme do jednání o koalici, za předpokladu akceptace našeho volebního programu a místa radního," říká Pavel Beznoska.
 
 __Stupava__ (sdružení nezávislých kandidátů)
 - Lubomír Doležal
