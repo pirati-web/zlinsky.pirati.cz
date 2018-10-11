@@ -36,7 +36,7 @@ __Kroměříž__
 __Valašské Meziříčí__
 - Denis Rychtar
 
-"Valašskomeziříčtí Piráti dosáhli na zastupitelský mandát díky přepočítávání. Celkově se to pro nás dobře nevyvýjelo, ale uspěli jsme. V přepočtu 7,86 Kč na jeden hlas jsme dokázali získat mandát za 46000 kč v celoroční kampani," říká Denis Rychtar.
+"Valašskomeziříčtí Piráti dosáhli na zastupitelský mandát díky přepočítávání. Celkově se to pro nás dobře nevyvíjelo, ale uspěli jsme. V přepočtu 7,86 Kč na jeden hlas jsme dokázali získat mandát za 46000 Kč v celoroční kampani," říká Denis Rychtar.
 
 __Rožnov pod Radhoštěm__
 - Libor Adámek
