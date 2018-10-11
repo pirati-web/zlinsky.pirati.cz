@@ -10,7 +10,7 @@ tags: 'komunálky 2018 zlínský-kraj'
 ---
 Celkem v osmi městech a jedné vesnici ve Zlínském kraji se podařilo Pirátům protlačit do obecního zastupitelstva minimálně jednoho člena. Patnáct městských zastupitelů pochází přímo z pirátských kandidátek či z kandidátů s naší podporou, ve Stupavě získal jeden Pirát mandát mezi nezávislými. Neuspěly pouze pirátské kandidátky na Vsetíně, v Zašové a ve Slavičíně.
 
-Na několika místech nebyla nouze o velké drama. Ve Valašském Meziříčí mají Piráti zastupitele díky těsnému finálnímu přepočtu, který vyšvihl Denise Rychtara nad pětiprocentní hranici díky menšímu počtu kandidátů na listině. Velkou smůlu naopak měli ve Slavičíně, kde byl jejich výsledek 5,OO % přepočten na 4,99 %. Pirátům tak ve městě, ze kterého mimochodem pochází žhavý kandidát na post primátora Prahy Zdeněk Hřib, utekl pravděpodobně mandát o jeden jediný hlas. Jeden lístek rozhodoval také ve Stupavě, kde se ocitl člen Pirátů v opozici.
+Na několika místech nebyla nouze o velké drama. Ve Valašském Meziříčí mají Piráti zastupitele díky těsnému finálnímu přepočtu, který vyšvihl Denise Rychtara nad pětiprocentní hranici díky menšímu počtu kandidátů na listině. Velkou smůlu naopak měli ve Slavičíně, kde byl jejich výsledek 5,00 % přepočten na 4,99 %. Pirátům tak ve městě, ze kterého mimochodem pochází žhavý kandidát na post primátora Prahy Zdeněk Hřib, utekl pravděpodobně mandát o jeden jediný hlas. Jeden lístek rozhodoval také ve Stupavě, kde se ocitl člen Pirátů v opozici.
 
 __Výčet zastupitelů:__
 
