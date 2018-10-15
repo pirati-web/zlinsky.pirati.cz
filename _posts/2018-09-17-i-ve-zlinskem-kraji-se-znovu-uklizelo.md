@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Opět jsme se připojili k projektu "Ukliďme svět, ukliďme Česko!"'
-date: 2018-09-01
+date: 2018-09-17
 author: Yveta Martinková
 authorId: yveta.martinkova
 image: /assets/img/posts/uklid2018.jpg
