@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Jak dopadly vyjednávací šachy pro Piráty ve Zlínskěm kraji? Máme přehled'
+title: 'Jak dopadly vyjednávací šachy pro Piráty ve Zlínském kraji? Podívejte se na přehled'
 date: 2018-11-30
 author: Marek Houser
 authorId: marek.houser
