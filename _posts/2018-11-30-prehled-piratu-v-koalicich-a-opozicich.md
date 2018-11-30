@@ -26,7 +26,7 @@ __Rožnov pod Radhoštěm__
 Libor Adámek je v opozici. Koalice je ve složení Nezávislí Rožnováci, Zdravý Rožnov a ANO 2011.
 
 __Vizovice__
-Piráti Jan Špaňhel a Jaromír Slezák jsou v opozici. Ve Vizovicích vládnou Nezávislí pro Vizovice, KDU-ČSL a NK s podporou ODS.
+Piráti Jan Špaňhel a Jaromír Slezák jsou v opozici. Ve Vizovicích vládnou Nezávislí, Zdravé Vizovice a ODS.
 
 __Napajedla__
 Tomáš Čabla a Jiří Krkoška jsou v opozici. Vládne koalice NF-ANO, KDU-ČSL, ODS a Mladí za Napajedla.
