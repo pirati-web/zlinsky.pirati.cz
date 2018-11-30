@@ -17,7 +17,7 @@ __Kroměříž__
 Vratislav Krejčíř zamířil vysoko a stal se místostarostou po dohodě s Nezávislými, Zdravým Kroměřížskem, ODS a ČSSD. [V koalici](https://kromeriz.pirati.cz/aktuality/Pirati-kromeriz-obsadili-radnici.html){:target="_blank"} je společně s Petrem Stoklasou.
 
 __Uherské Hradiště__
-Jaroslav Ševčík a František Elfmark skončili v opozici poté, co koalici sestavila staronově vládnoucí ODS s KDU-ČSL, KRUH a TOP09.
+Jaroslav Ševčík a František Elfmark skončili [v opozici](https://uh.pirati.cz/aktuality/pirati-uh-miri-do-opozice.html){:target="_blank"} poté, co koalici sestavila staronově vládnoucí ODS s KDU-ČSL, KRUH a TOP09.
 
 __Valašské Meziříčí__
 Denis Rychtar neměl šanci zasáhnout do spojení ANO a KDU-ČSL a je v opozici.
