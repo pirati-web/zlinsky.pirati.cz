@@ -22,4 +22,4 @@ V současnosti zastává volenou funkci viceprezidenta [IFOAM EU](https://www.if
 
 Je ženatý, má dvě děti a hovoří plynně anglicky a částečně německy. Mezi jeho zájmy patří sport (kajak, běžky, turistika), literatura a divadlo.
 
-Členem Pirátů je od dubna 2017.
+Členem České pirátské strany je od dubna 2017.
