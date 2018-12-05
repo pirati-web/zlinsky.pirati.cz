@@ -5,7 +5,7 @@ fullname: Mgr. Ing. Jiří Lehejček, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/jiri-lehejcek.jpg   # 165 x 220
+img: people/jiri-lehejcek.JPG   # 165 x 220
 description: VŠ peedagog, polární ekolog # kratký popis, max 160 znaků
 mail:
 - jiri.lehejcek@pirati.cz
