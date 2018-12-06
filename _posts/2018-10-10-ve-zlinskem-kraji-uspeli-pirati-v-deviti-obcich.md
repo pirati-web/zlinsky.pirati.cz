@@ -66,6 +66,4 @@ __Stupava__ (sdružení nezávislých kandidátů)
 
 "Děkuji všem občanům, kteří přišli k volbám a dali nám svůj hlas. Volební účast téměř 80 % oprávněných voličů znamená, že lidem zde není budoucnost obce lhostejná. Nám bohužel 0,16 % hlasů chybělo k většině, ale i tak to beru jako úspěch. Těším se na první zasedání a věřím, že nyní již bude vůle vést důstojná jednání vedoucí ke spokojenosti všech obyvatel," říká Lubomír Doležal.
 
-__
-
 - - -
