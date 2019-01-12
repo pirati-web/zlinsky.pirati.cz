@@ -5,7 +5,6 @@ fullname: Vratislav Krejčíř  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pms
 - clenove
-- kontakt
 - kandidat
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
