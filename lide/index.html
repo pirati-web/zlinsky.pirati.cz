@@ -21,6 +21,24 @@ layout: default
                 </ul>
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#psp" class="c-simple-accordion-title">Poslanci</a>
+                    <div id="psp" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#ozas" class="c-simple-accordion-title">Obecní zastupitelé</a>
+                    <div id="ozas" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'ozas'" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#clenove" class="c-simple-accordion-title">Všichni členové</a>
                     <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
                       {% assign team = site.people | where_exp:"item","item.categories contains 'clenove'" %}
