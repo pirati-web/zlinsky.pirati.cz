@@ -5,7 +5,7 @@ fullname: Bc. Radek Nohavica  	# jméno s tituly etc.
 category:                   # kategorie: clen
 - clenove
 
-img: people/radek-nohavica.png   # 165 x 220
+img: people/radek-nohavica.jpg   # 165 x 220
 description: student strojírenství a kvality výroby na VUT v Brně, fotbalový rozhodčí. # kratký popis, max 160 znaků
 mail:
 - radek.nohavica@pirati.cz
