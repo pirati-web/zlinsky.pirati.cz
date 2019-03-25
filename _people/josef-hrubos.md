@@ -5,7 +5,7 @@ fullname: Josef Hruboš  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/josef-hrubos.jpg   # 165 x 220
 description: OSVČ # kratký popis, max 160 znaků
 mail:
 - josef.hrubos@pirati.cz
