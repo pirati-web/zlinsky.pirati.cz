@@ -5,7 +5,7 @@ fullname: Dalibor Jandík  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/dalibor-jandik.jpg   # 165 x 220
 description: projektant měření a regulace # kratký popis, max 160 znaků
 mail:
 - dalibor.jandik@pirati.cz
