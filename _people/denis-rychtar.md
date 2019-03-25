@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - pks
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/denis-rychtar.jpg   # 165 x 220
 description: 1. místopředseda KS Zlínský kraj, chemik-velinář # kratký popis, max 160 znaků
 mail:
 - denis.rychtar@pirati.cz
