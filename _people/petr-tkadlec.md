@@ -5,7 +5,7 @@ fullname: Petr Tkadlec  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/petr-tkadlec.jpg   # 165 x 220
 description: samoživitel, stavební technik # kratký popis, max 160 znaků
 mail:
 - petr.tkadlec@pirati.cz
