@@ -5,7 +5,7 @@ fullname: Jaroslava Lálová  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jaroslava-lalova.jpg   # 165 x 220
 description: administrativní pracovnice # kratký popis, max 160 znaků
 mail:
 - jaroslava.lalova@pirati.cz
