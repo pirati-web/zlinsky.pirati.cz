@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Otevřený dopis Pirátů krajským zastupitelům k projektu nové KNTB'
-date: 2018-04-01
+date: 2018-03-31
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/kntb-vizualizace.jpg
