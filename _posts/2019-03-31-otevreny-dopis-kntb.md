@@ -16,19 +16,19 @@ Nejsme zatvrzelými odpůrci nemocnice v Malenovicích, nicméně hejtman Jiří
 
 Naše otázky zní:
 
-_Máte dostatek informací (studie proveditelnosti, ekonomický dopad...), které Vám umožní zodpovědně hlasovat v případě několikamiliardové investice do výstavby nové nemocnice?
+- Máte dostatek informací (studie proveditelnosti, ekonomický dopad...), které Vám umožní zodpovědně hlasovat v případě několikamiliardové investice do výstavby nové nemocnice?
 
-Jak bude nová nemocnice financována, když Ministerstvo zdravotnictví i Ministerstvo pro místní rozvoj žádnou částku nepřislíbilo?
+- Jak bude nová nemocnice financována, když Ministerstvo zdravotnictví i Ministerstvo pro místní rozvoj žádnou částku nepřislíbilo?
 
-Jak ovlivní výstavba nové nemocnice ostatní investice a rozvoj v kraji v následujících letech?
+- Jak ovlivní výstavba nové nemocnice ostatní investice a rozvoj v kraji v následujících letech?
 
-Jak bude zajištěno personální obsazení nové nemocnice a jak se to dotkne ostatních nemocnic v kraji?
+- Jak bude zajištěno personální obsazení nové nemocnice a jak se to dotkne ostatních nemocnic v kraji?
 
-Je nutné s projektem tak spěchat, když není schválena celková koncepce zdravotnictví v kraji a nebyla vyhlášena veřejná architektonická soutěž?
+- Je nutné s projektem tak spěchat, když není schválena celková koncepce zdravotnictví v kraji a nebyla vyhlášena veřejná architektonická soutěž?
 
-Jaký bude osud stávajícího areálu KNTB?
+- Jaký bude osud stávajícího areálu KNTB?
 
-Děkujeme, že nám i sobě tyto otázky zodpovíte. Jestliže na ně odpovědi neznáte, pochybujeme o tom, že jste připraveni o tomto projektu hlasovat. Věříme, že je ve Vašem zájmu plnit roli zodpovědného a rozvážného hospodáře._
+Děkujeme, že nám i sobě tyto otázky zodpovíte. Jestliže na ně odpovědi neznáte, pochybujeme o tom, že jste připraveni o tomto projektu hlasovat. Věříme, že je ve Vašem zájmu plnit roli zodpovědného a rozvážného hospodáře.
 
 Piráti Zlínský kraj
 
