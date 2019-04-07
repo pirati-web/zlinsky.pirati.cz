@@ -15,4 +15,4 @@ profiles:
 
 vít Slanec (*14. února 1995) je studentem oboru elektrikář - silnoproud.
 
-K Pirátům se přidal kvůli filosifii strany a stal se fotoreportérem z krajských ackí.
+K Pirátům se přidal kvůli filosifii strany a stal se fotoreportérem z krajských akcí.
