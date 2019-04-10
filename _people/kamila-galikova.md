@@ -21,4 +21,4 @@ Vystudovala SUPŠ Sklářskou ve Valašském Meziříčí, obor „Průmyslový 
 
 V součastnosti je studentka zahraničního obchodu.
 
-Angažuje se v aktivitách souvisejících s kulturou, přírodou, ekologií. Je aktivistkou za práva zvířat. 
+Angažuje se v aktivitách souvisejících s kulturou, přírodou, ekologií. Je aktivistkou za práva zvířat.

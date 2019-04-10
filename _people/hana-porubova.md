@@ -12,5 +12,3 @@ mail:
 profiles:
   facebook: https://www.facebook.com
 ---
-
-xxx
