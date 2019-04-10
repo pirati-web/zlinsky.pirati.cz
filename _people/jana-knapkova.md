@@ -1,14 +1,14 @@
 ---
-uid: irena.drofova
-name:     Irena Drofová  	# běžně používáné jméno
-fullname: Irena Drofová 	# jméno s tituly etc.
+uid: jana.knapkova
+name:     Jana Knapková  	# běžně používáné jméno
+fullname: Jana Knapková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
 img: people/ppp.jpg   # 165 x 220
 description: Pirátka # kratký popis, max 160 znaků
 mail:
-- irena.drofova@pirati.cz
+- jana.knapkova@pirati.cz
 profiles:
   facebook: https://www.facebook.com
 ---
