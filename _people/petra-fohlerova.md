@@ -5,7 +5,7 @@ fullname: Mgr. Petra Bambušková Fohlerová  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/petra-fohlerova.jpg   # 165 x 220
 description: sociální pracovnice # kratký popis, max 160 znaků
 mail:
 - petra.fohlerova@pirati.cz
