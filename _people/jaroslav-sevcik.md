@@ -5,7 +5,7 @@ fullname: Jaroslav Ševčík  	# jméno s tituly etc.
 category:                   # kategorie
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jaroslav-sevcik.jpg   # 165 x 220
 description: starosta a správce T. J. Sokol Uherské Hradiště          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.sevcik@pirati.cz

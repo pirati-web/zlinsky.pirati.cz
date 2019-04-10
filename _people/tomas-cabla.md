@@ -5,12 +5,12 @@ fullname: Tomáš Čabla  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/tomas-cabla.jpg   # 165 x 220
 description: kuchař # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/tomas.cabla 
+  facebook: https://www.facebook.com/tomas.cabla
 ---
 
 Tomáš Čabla (*25. března 1979, Zlín) je předsedou MS Zlín.

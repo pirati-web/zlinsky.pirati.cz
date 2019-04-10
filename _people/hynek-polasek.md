@@ -5,7 +5,7 @@ fullname: Hynek Polášek 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/hynek-polasek.jpg   # 165 x 220
 description: Správce IT # kratký popis, max 160 znaků
 mail:
 - hynek.polasek@pirati.cz

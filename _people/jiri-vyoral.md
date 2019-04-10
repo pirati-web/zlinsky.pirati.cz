@@ -5,7 +5,7 @@ fullname: Jiří Vyoral  	# jméno s tituly etc.
 category:                   # kategorie: celnove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jiri-vyoral.jpg   # 165 x 220
 description: obchodní zástupce # kratký popis, max 160 znaků
 mail:
 - jiri.vyoral@pirati.cz
