@@ -4,7 +4,7 @@ name:     Dušan Jurčík  	# běžně používáné jméno
 fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - clenove
-img: people/ppp.jpg   # 165 x 220
+img: people/dusan-jurcik.jpg   # 165 x 220
 description: pracovník v logistice          	# kratký popis, max 160 znaků
 mail:
 - dusan.jurcik@pirati.cz
@@ -13,14 +13,8 @@ profiles:
 
 ---
 
-Dušan Jurčík (*29. května 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště a její 1.místopředseda, člen Týmu pro dopravu.
+Dušan Jurčík (*29. května 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště, člen Zlínského kraje.
 
-Osudem znamení Blížence studoval vždy dva obory najednou: Základní a sportovní školu (fotbal), absolvoval SPŠ UH management a elektro a vystudoval MU v Brně při práci obor Zahraniční obchod a právo, ale bez Bc zkoušky a byl posledním civilkářem na Ortopedickém sále v Nemocnici UH.
+Vystudoval management na SPŠ, nedokončil Zahraniční obchod a právo na právnické fakultě MU. Pracoval v různých profesích včetně malého pokusu o podnikání. Vždy jej do zpět stáhlo k logistice, které se i teď profesně věnuje.
 
-Přes různé profese od práce na lodi přes podnikání ve slow food krámku se jeho cesty vždy vracely k logistice a dopravě a zde ve zlepšování a vývoji činností v různých zajímavých odvětvích.
-
-Politiku sleduje od dětství a po ukončení sportovní činnosti zaplnila volný čas Pirátská strana od léta 2017. V Pirátech od začátku chce pomáhat zlepšit procesy strany, přeměnit Slovácko z bašty lidovců na základnu Pirátů na Moravě a pomoci pirátským myšlenkám a názorům v okolních zemích.
-
-Ze sportovních koníčků vyměnil fotbal a hokej za tenis a kolo, má rád kartografii a historii, ekonomii a politiku, rád čte literaturu faktu a má rád cestování spojené s poznáváním místních zvyků i jazyků.
-
-Je svobodný s pěknými závazky, malou Terezkou, velkou Lucií a chlupáčem Oggym.
+Politiku pasivně sleduje od velmi raného mládí, aktivně se přidal k Pirátům v létě 2017. Rád čte literaturu faktu, zajímá se o historii, politiku, ekonomiku a rád cestuje. Vrátil se ke sportu po pauze a je věčným začátečníkem různých cizích jazyků.

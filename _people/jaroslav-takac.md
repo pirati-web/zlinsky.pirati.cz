@@ -4,13 +4,14 @@ name:     Jaroslav Takáč 	# běžně používáné jméno
 fullname: Jaroslav Takáč 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
-
+- pks
 img: people/jaroslav-takac.jpg   # 165 x 220
 description: stavbyvedoucí # kratký popis, max 160 znaků
 mail:
 - jaroslav.takac@pirati.cz
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100007870037071
+ordpks: 5
 ---
 
 Jaroslav Takáč (*22. února 1978, Nový Jičín) žije se svou rodinou v Přílepech u Kroměříže.

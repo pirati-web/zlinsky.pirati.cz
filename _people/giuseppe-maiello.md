@@ -5,7 +5,7 @@ fullname: doc. dott. Giuseppe Maiello Ph.D.	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
+img: people/giuseppe-maiello.jpg   # 165 x 220
 description: vysokoškolský pedagog # kratký popis, max 160 znaků
 mail:
 - giuseppe.maiello@pirati.cz

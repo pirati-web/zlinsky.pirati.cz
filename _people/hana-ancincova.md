@@ -4,6 +4,7 @@ name:     Hana Ančincová  	# běžně používáné jméno
 fullname: Hana Ančincová 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pks
 
 img: people/hana-ancincova.jpg   # 165 x 220
 description: finanční kontrolor # kratký popis, max 160 znaků
@@ -11,6 +12,7 @@ mail:
 - hana.ancincova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/hanka.ancincova
+ordpks: 4
 ---
 
 Hana Ančincová (*18. srpna 1989, Vimperk) je členkou krajského sdružení Zlínského kraje. Velkou část svého života bydlela v Kroměříži, ale od roku 2015 přesídlila do Hulína. V místním sdružení Piráti Kroměříž se stará o administrativní záležitosti.
