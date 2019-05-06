@@ -7,6 +7,7 @@ author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/zlkmapa2019.jpg   
 tags: 'zlinsky-kraj zastupitelstva radnice report'
+ogimage: https://raw.githubusercontent.com/pirati-web/zlinsky.pirati.cz/master/assets/img/posts/zlkmapa2019.jpg
 ---
 Pirátské zastupitele naleznete ve Zlínském kraji hned v 8 městech a v jedné vesnici. Po půl roce od voleb vám přinášíme krátké shrnutí jejich dosavadní práce a úspěchů.
 
