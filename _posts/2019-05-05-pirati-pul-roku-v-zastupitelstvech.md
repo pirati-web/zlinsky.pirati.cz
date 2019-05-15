@@ -7,6 +7,7 @@ author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/zlkmapa2019.jpg   
 tags: 'zlinsky-kraj zastupitelstva radnice report'
+ogimage: https://raw.githubusercontent.com/pirati-web/zlinsky.pirati.cz/master/assets/img/posts/zlkmapa2019.jpg
 ---
 Pirátské zastupitele naleznete ve Zlínském kraji hned v 8 městech a v jedné vesnici. Po půl roce od voleb vám přinášíme krátké shrnutí jejich dosavadní práce a úspěchů.
 
@@ -43,7 +44,7 @@ Prioritní je pro Občany OE zejména transparentnost hospodaření města a spo
 
 __Valašské Meziřičí__
 
-Pirátům ve Valašském Meziříčí se podařilo v komunálních volbách získat pouze post jednoho zastupitele, Denise Rychtar skončil v opozici. Avšak i přes tento fakt mají Piráti své zastoupení ve výborech a komisích města.
+Pirátům ve Valašském Meziříčí se podařilo v komunálních volbách získat pouze post jednoho zastupitele, Denis Rychtar skončil v opozici. Avšak i přes tento fakt mají Piráti své zastoupení ve výborech a komisích města.
 
 Hlavním tématem posledních dní, na které se náš zastupitel soustředí, je znovuzavedení dobrovolnického venčení psů v místním útulku a přistavění útulku pro kočky.  Taktéž spolupracuje s vládnoucí koalicí na vzniku participativního rozpočtu ve Valašském Meziříčí. Z pozice člena kontrolního výboru zjišťuje dopady škodlivých látek z výroby v místní chemičce na zdraví občanů města.
 „Vynaložím maximální úsilí k řádnému prošetření a splnění veškerých úkolů, které mám. To, že jsme skončili v opozici, neznamená konec práce, ba naopak, chceme dokázat občanům, že to s našim městem myslíme vážně a je v našich silách měnit věci k lepšímu,“ dodává odhodlaně Denis Rychtar. Více se o aktuálním dění ve Valašském Meziříčí dozvíte na [Facebooku](https://www.facebook.com/pirati.valmez/){:target="_blank"}.
