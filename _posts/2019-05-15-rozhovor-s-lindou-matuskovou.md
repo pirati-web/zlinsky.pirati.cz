@@ -8,7 +8,7 @@ authorId: jaromir.horky
 image: /assets/img/posts/ep_matuskova.jpg   
 tags: 'zlinsky-kraj zeurovolby rozhovor'
 ---
-Piráti ze Zlínského kraje budou mít na kandidátce do Evropského parlamentu dvě želízka v ohni. Jsou jimi vystudovaná pegagožka, ale nyní profesionální fotografka Linda Matušková z Kroměříže a polární ekolog a vysokoškolský lektor Jiří Lehejček z Lukova. Přinášíme vám rozhovor s první jmenovanou...
+Piráti ze Zlínského kraje budou mít na kandidátce do Evropského parlamentu dvě želízka v ohni. Jsou jimi vystudovaná pedagožka a nyní profesionální fotografka Linda Matušková z Kroměříže a polární ekolog a vysokoškolský lektor Jiří Lehejček z Lukova. Přinášíme vám rozhovor s první jmenovanou...
 
 __Čím se v každodenním životě zabýváš? Jak bys chtěla představit sama sebe voličům, kteří přemýšlí, komu dát svůj hlas?__
 V posledních deseti letech svého života jsem působila jako vysokoškolský učitel – odborný asistent na Univerzitě Palackého v Olomouci. Od roku 2013 jsem asistovala svému muži při focení svateb a postupně jsem si budovala vlastní renomé jako newborn fotografka. Focení miminek a výroba rekvizit na focení mě dnes živí. Je to skvělá možnost, jak si organizovat čas podle potřeb našich dvou malých dcer. Vedle podnikání, v rámci zachování profesní dráhy, spolupracuji s vyšší odbornou školou pedagogického zaměření a aktuálně zpracovávám jeden velký pedagogický projekt, který mi v hlavě ležel už nějaký ten rok. Stále nebyl čas ho realizovat, až mi mateřská dala „křídla“ naplno se vlastnímu projektu věnovat, ostatně jak to u žen na mateřské bývá.
