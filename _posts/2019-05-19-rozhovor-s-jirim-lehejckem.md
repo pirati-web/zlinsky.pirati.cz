@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Rozhovor s kandidátem do Evropského parlamentu jiřím Lehejčkem'
+title: 'Rozhovor s kandidátem do Evropského parlamentu Jiřím Lehejčkem'
 date: 2019-05-19
 author: Jaromír Horký
 authorId: jaromir.horky
