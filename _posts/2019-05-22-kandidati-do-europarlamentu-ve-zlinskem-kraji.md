@@ -20,7 +20,8 @@ Pirátský autobus se poté vydal na pokračování tour po celé České republ
 Děkujeme za vaši hojnou účast na všech akcích. Věříme, že nás také podpoříte při nadcházejícím víkendu ve volbách do Evropského parlamentu. Evropa potřebuje Piráty!
 
 
-Jaké to bylo [ve Valmezu?](){:target="_blank"}
-Jak to vypadalo [v Kroměříži?](){:target="_blank"}
+Jaké to bylo [ve Valmezu?](https://www.facebook.com/pg/pirati.valmez/photos/?tab=album&album_id=2281188022119968){:target="_blank"}
+
+Jak to vypadalo [v Kroměříži?](https://www.facebook.com/piratikromeriz/posts/2413374848899084){:target="_blank"}
 
 - - -
