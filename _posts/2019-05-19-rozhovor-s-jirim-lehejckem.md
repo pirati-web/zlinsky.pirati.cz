@@ -6,7 +6,7 @@ date: 2019-05-19
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/ep_lehejcek.jpg   
-tags: 'zlinsky-kraj zeurovolby rozhovor'
+tags: 'zlinsky-kraj eurovolby rozhovor'
 ---
 Piráti ze Zlínského kraje budou mít na kandidátce do Evropského parlamentu dvě želízka v ohni. Jsou jimi vystudovaná pedagožka, ale nyní profesionální fotografka Linda Matušková z Kroměříže a polární ekolog a vysokoškolský lektor Jiří Lehejček z Lukova. Přinášíme vám rozhovor s druhým jmenovaným...
 
