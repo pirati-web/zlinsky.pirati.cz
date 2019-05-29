@@ -10,13 +10,13 @@ tags: 'zlinsky-kraj eurovolby'
 ---
 Piráti v letošních volbách potvrdili narůstající trend přízně voličů a obsadili třetí místo se ziskem 13,92 % hlasů. Europoslanci, které Piráti vyslali do Bruselu, se tak stali Marcel Kolaja, Markéta Gregorová a Mikuláš Peksa.
 
-Oproti volbám v roce 2014, kdy Piráti získali 4,78 %, si tak polepšili o více než 9 procentních bodů! Poprvé v historii tak obsadili Evropský parlament a stali se nejúspěšnější pirátskou stranou v Evropě.
+Oproti volbám v roce 2014, kdy Piráti získali 4,78 %, si tak polepšili o více než 9 procentních bodů! Poprvé v historii tak obsadili místa v Evropském parlamentu a stali se nejúspěšnější pirátskou stranou v Evropě.
 
-Popularita Pirátů roste i lokálně. Ve Zlínském kraji se podařilo získat 11,56 %, Piráti si tak polepšili o více než 3 procentní body oproti volbám do Poslanecké sněmovny před dvěma lety. „Další nárůst podpory je bezpochyby vizitkou naší práce nejen v českém parlamentu, ale od loňského podzimu také na radnicích v kraji. Věřím, že lidé svým hlasováním stále častěji reagují na skutečně odvedenou práci a ne na hesla na billboardech. Evropský parlament se nyní stal dalším místem, kde můžeme prokázat své kvality,“ komentoval výsledek voleb předseda krajského sdružení Marek Houser. Podotkl také, že pro Piráty ze Zlínského kraje je nadcházející metou obsazení poslední úrovně politiky, která zatím v regionu pirátskou stopu nemá - krajský úřad. “Na krajské volby se začneme připravovat již letos. Jsou pro nás velmi důležité,” dodává.
- 
-Želízka v ohni Zlínského kraje, Linda Matušková a Jiří Lehejček, zaznamenala úspěch, i když se sice do Evropského parlamentu neprobojovala. Druhý jmenovaný totiž získal téměř 4 tisíce preferenčních hlasů!
+Popularita Pirátů roste i lokálně. Ve Zlínském kraji se podařilo získat 11,56 %, Piráti si tak polepšili o více než 3 procentní body oproti volbám do Poslanecké sněmovny před dvěma lety. „Další nárůst podpory je bezpochyby vizitkou naší práce nejen v českém parlamentu, ale od loňského podzimu také na radnicích v kraji. Věřím, že lidé svým hlasováním stále častěji reagují na skutečně odvedenou práci a ne na hesla na billboardech. Evropský parlament se nyní stal dalším místem, kde můžeme prokázat své kvality,“ komentoval výsledek voleb předseda krajského sdružení Marek Houser. Podotkl také, že pro Piráty ze Zlínského kraje je nadcházející metou obsazení poslední úrovně politiky, která zatím v regionu pirátskou stopu nemá - krajského úřadu. “Na krajské volby se začneme připravovat již letos. Jsou pro nás velmi důležité,” dodává.
 
-Nejvíce hlasů Piráti ve Zlínském obdrželi v Přílukách u Valašského Meziříčí, kde získali 36,4 %. Ve městech potom byli nejúspěšnější v Rožnově pod Radhoštěm se ziskem 13,7 % a ve Zlíně s 13,3 %, což Pirátům přisoudilo celkové 2. místo.
+Želízka v ohni Zlínského kraje, Linda Matušková a Jiří Lehejček, zaznamenala úspěch, i když se nakonec do Evropského parlamentu neprobojovala. Druhý jmenovaný totiž získal téměř 4 tisíce preferenčních hlasů.
+
+Nejvíce hlasů Piráti ve Zlínském kraji obdrželi v Přílukách u Valašského Meziříčí, kde získali 36,4 %. Ve městech potom byli nejúspěšnější v Rožnově pod Radhoštěm se ziskem 13,7 % a ve Zlíně s 13,3 %, což Pirátům přisoudilo celkové 2. místo.
 
 „Volební výsledek ve Zlíně nás příjemně překvapil a druhé místo je pro nás velkým povzbuzením. Je to ocenění tvrdé práce Pirátů i u nás ve Zlíně a v nižších sférách politiky. Lidé dokáží ocenit práci mnohem více než zastrašování či lhaní. Zároveň je výsledek velmi zavazující s výhledem na krajské volby, které se konají už příští rok,“ zhodnotil pirátský radní ve Zlíně Jiří Jaroš.
 
