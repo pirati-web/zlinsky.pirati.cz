@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Petr Stoklasa'
-date: 2019-06-27
+date: 2019-06-27T08:10:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/petr4.jpg   
