@@ -37,4 +37,4 @@ Chtěl bych vzkázat jedno takové poselství. Nevěřte všemu, co čtete v med
 
 ![Petr Stoklasa](https://zlinsky.pirati.cz/assets/img/posts/petr3.jpg)
 
-- - -
+---
