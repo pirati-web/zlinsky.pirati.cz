@@ -35,4 +35,5 @@ Jsem neuvolněný zastupitel, což znamená, že mám i svou práci a té se mus
 Chtěl bych vzkázat jedno takové poselství. Nevěřte všemu, co čtete v mediích. Většinou je to jen jeden pohled na věc a ten se může lišit od pravé situace. Je tedy dobé uvažovat kriticky a informace ověřovat a teprve až poté dělat závěry. Nejlépe hmatatelné jsou výsledky. Za půl roku jsme toho již spoustu zvládli a uděláme maximum pro splnění bodů našeho programu a spokojenosti obyvatel Kroměříže.
 
 ![Petr Stoklasa](https://zlinsky.pirati.cz/assets/img/posts/petr3.jpg)
+
 - - -
