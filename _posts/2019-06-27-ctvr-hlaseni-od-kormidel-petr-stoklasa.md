@@ -27,7 +27,7 @@ Můj život se nezměnil v osobní rovině. Pořád mám svou skvělou rodinu a 
 
 ![Petr Stoklasa](https://zlinsky.pirati.cz/assets/img/posts/petrs2.jpg)
 
-**Na čem zrovna pracuješ v Zastupitelstvu? Co se u vás už povedlo dotáhnout do konce?**
+**Na čem zrovna pracuješ v zastupitelstvu? Co se u vás už povedlo dotáhnout do konce?**
 
 Jsem neuvolněný zastupitel, což znamená, že mám i svou práci a té se musím věnovat nejvíce, protože mě živí. Každopádně práci zastupitele beru zodpovědně. Každý týden se potkávám se svým kolegou Vratislavem Krejčířem a probíráme aktuální dění na radnici. Dále mám své místo také ve sportovní komisi a kontrolním výboru. Ve sportovní komisi zrovna společně pracujeme na koncepci rozvoje sportu pro město Kroměříž. Jedná se o velice důležitý dokument, nejenom kvůli zmapování sportu ve městě, ale hlavně pro jeho rozvoj do budoucích let. Tento dokument slouží jako podklad pro žádosti o Evropské dotace např. při stavbě či rekonstrukci místních sportovišť. Nově jsem byl zvolen do kontrolního výboru, kde sedím i se svou pirátskou kolegyní Hankou Ančincovou. Tento výbor má skvělé složení lidí, kteří chtějí pracovat a plnit svou funkci. Ze samotné podstaty má výbor kontrolovat a to také dělá. Aktuálně mám na starosti 3 kontroly a termíny pro jejich vypracování jsou do konce měsíce září. 
 
