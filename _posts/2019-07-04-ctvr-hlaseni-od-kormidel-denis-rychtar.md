@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Denis Rychtar'
-date: 2019-07-04T06:40:00.032Z
+date: 2019-07-04
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/denis1.png   
