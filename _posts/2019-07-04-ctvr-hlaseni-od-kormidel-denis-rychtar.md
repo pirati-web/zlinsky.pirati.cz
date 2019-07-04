@@ -26,7 +26,7 @@ Valašské Meziříčí mám hrozně rád, jelikož je opravdu bohaté na sporto
 
 Samozřejmě jako neuvolněný zastupitel jsem stále otrokem své práce, která mě živí a s mým časovým vytížením je to znát hlavně na mém osobním životě, jelikož se snažím dát do regionální politiky maximum svých znalostí, možností a inovativních nápadů. Má přítelkyně mě i přesto maximálně podporuje, za což má mé velké díky a obrovský obdiv. Dokonce respektovala mé rozhodnutí darovat převážnou většinu odměn ze zastupitelstva a dozorčí rady na sportovní, kulturní a charitativní akce – je prostě skvělá. Myslím si, že mě občané převážně berou pozitivně jako přínos, ale každý má i své kritiky, se kterými se snažím komunikovat věcně a konstruktivně.
 
-![Denis Rychtar](https://zlinsky.pirati.cz/assets/img/posts/denis 3.jpg)
+![Denis Rychtar](https://zlinsky.pirati.cz/assets/img/posts/denisss.jpg)
 
 **Na čem zrovna pracuješ v zastupitelstvu? Co se u vás už povedlo dotáhnout do konce?**
 
