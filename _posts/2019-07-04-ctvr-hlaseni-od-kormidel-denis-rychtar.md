@@ -8,7 +8,7 @@ authorId: jaromir.horky
 image: /assets/img/posts/denis1.png   
 tags: 'zlinsky-kraj denis-rychtar rozhovor'
 ---
-**Čtvrteční hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.**
+Čtvrteční hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
 *Druhým zastupitelem, jehož jsme oslovili, je Denis Rychtar. Denis bydlí ve Valašském Meziříčí a aktuálně pracuje na zavedení participativního rozpočtu ve městě.* 
 
