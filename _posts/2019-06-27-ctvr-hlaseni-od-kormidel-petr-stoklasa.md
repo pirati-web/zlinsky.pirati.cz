@@ -8,7 +8,7 @@ authorId: jaromir.horky
 image: /assets/img/posts/petr4.png   
 tags: 'zlinsky-kraj petr-stoklasa rozhovor'
 ---
-**Čtvrteční hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.**
+Čtvrteční hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
 *Prvním pirátským zastupitelem, který nám zodpověděl pár otázek, je Petr Stoklasa. Petr je rodák z Kroměříže a jeho aktivita pro město má již dlouhou historii.*
 
