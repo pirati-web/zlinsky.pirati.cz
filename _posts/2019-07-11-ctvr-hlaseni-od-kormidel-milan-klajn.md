@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Milan Klajn'
-date: 2019-07-11
+date: 2019-07-11T07:10:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/milan1.png   
