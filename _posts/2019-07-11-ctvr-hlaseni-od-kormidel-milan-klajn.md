@@ -8,7 +8,7 @@ authorId: jaromir.horky
 image: /assets/img/posts/milan1.png   
 tags: 'zlinsky-kraj milan-klajn rozhovor'
 ---
-Čtvrteční hlášení od kormidel. Tak se jmenuje nový seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
+Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
 *Dalším zastupitelem, jehož jsme oslovili, je Milan Klajn. Milan je sice rodák ze Středočeského kraje, ale Zlín ho natolik učaroval, že zde již 20 let žije.* 
 
