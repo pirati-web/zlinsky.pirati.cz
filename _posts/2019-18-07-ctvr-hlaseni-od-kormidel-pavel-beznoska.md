@@ -14,7 +14,7 @@ tags: 'zlinsky-kraj pavel-beznoska otrokovice rozhovor'
 
 **Pavle, pověz nám něco o sobě.**
 
-Již 40 let objevuji krásy života na všech jeho frontách a do nich zapadají nejen přátelé a rodina, ale aktivně sport i práce. Po několika pracovních změnách jsem nakonec našel tu pravou v podobě account managera zlínské digitální marketingové agentury. Neodvedu si představit pestřejší náplň práce a díky tomu se stále učím něco nového, což mě opravdu baví.
+Již 40 let objevuji krásy života na všech jeho frontách a do nich zapadají nejen přátelé a rodina, ale aktivně sport i práce. Po několika pracovních změnách jsem nakonec našel tu pravou v podobě account managera zlínské digitální marketingové agentury. Nedovedu si představit pestřejší náplň práce a díky tomu se stále učím něco nového, což mě opravdu baví.
 
 ![Pavel Beznoska](https://zlinsky.pirati.cz/assets/img/posts/pavel2.jpg)
 
