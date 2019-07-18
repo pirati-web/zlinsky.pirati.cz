@@ -8,11 +8,11 @@ authorId: jaromir.horky
 image: /assets/img/posts/pavel1.png   
 tags: 'zlinsky-kraj pavel-beznoska otrokovice rozhovor'
 ---
-Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám budeme přinášet zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
+Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám přinášíme zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
 *Dalším zastupitelem, jehož jsme oslovili, je Pavel Beznoska. Pavel je sportovec a zastupitel z Otrokovic, kde právě pracuje na Dlouhodobé koncepci rozvoje sportu do roku 2032.* 
 
-**Pavle, pověz nám něco o sobě**
+**Pavle, pověz nám něco o sobě.**
 
 Již 40 let objevuji krásy života na všech jeho frontách a do nich zapadají nejen přátelé a rodina, ale aktivně sport i práce. Po několika pracovních změnách jsem nakonec našel tu pravou v podobě account managera zlínské digitální marketingové agentury. Neodvedu si představit pestřejší náplň práce a díky tomu se stále učím něco nového, což mě opravdu baví.
 
