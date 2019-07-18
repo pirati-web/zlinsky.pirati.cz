@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Pavel Beznoska'
-date: 2019-07-18T09:30:00.032Z
+date: 2019-07-18
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/pavel1.png   
