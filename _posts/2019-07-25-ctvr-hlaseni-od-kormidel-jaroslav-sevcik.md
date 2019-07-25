@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Jaroslav Ševčík'
-date: 2019-07-25
+date: 2019-07-25T07:52:00.032Z
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/jaroslavsevcik1.png   
