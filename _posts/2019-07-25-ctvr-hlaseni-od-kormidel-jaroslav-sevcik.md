@@ -35,7 +35,7 @@ Naše pozice v zastupitelstvu je opoziční. Povedlo se nám v rámci opoziční
 
 **Co bys na závěr vzkázal všem našim voličům a občanům?**
 
-Všem bych rád vzkázal, ať se aktivně zajímají o politické dění ve městě, ať se ptají, na co chtějí, ať dávají návrhy na zlepšení a nenechají se jen tak odbýt. Jedině pak bude Uherské Hradiště ještě lepším místem pro život.  
+Všem bych rád vzkázal, ať se aktivně zajímají o politické dění ve městě. Ať se ptají, na co chtějí, ať dávají návrhy na zlepšení a nenechají se jen tak odbýt. Jedině pak bude Uherské Hradiště ještě lepším místem pro život.  
 
 ![Jaroslav Ševčík](https://zlinsky.pirati.cz/assets/img/posts/jaroslavsevcik4.jpg)
 
