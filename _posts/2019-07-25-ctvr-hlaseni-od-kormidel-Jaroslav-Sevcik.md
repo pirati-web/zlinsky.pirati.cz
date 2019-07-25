@@ -10,7 +10,7 @@ tags: 'zlinsky-kraj jaroslav-sevcik uherske-hradiste rozhovor'
 ---
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji. Každý čtvrtek vám přinášíme zajímavé rozhovory s lidmi, kteří pracují pro vaše města a jsou součástí Pirátské strany.
 
-*Dalším zastupitelem, jehož jsme oslovili, je Pavel Beznoska. Pavel je sportovec a zastupitel z Otrokovic, kde právě pracuje na Dlouhodobé koncepci rozvoje sportu do roku 2032.* 
+*Dalším zastupitelem, jehož jsme oslovili, je Jaroslav Ševčík z Uherského Hradiště.* 
 
 **Jardo, pověz nám něco o sobě.**
 
