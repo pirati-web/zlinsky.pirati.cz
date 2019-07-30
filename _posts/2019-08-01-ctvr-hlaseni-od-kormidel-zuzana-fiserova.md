@@ -27,7 +27,7 @@ Zlín má podle mého názoru velký potenciál právě tím, že je to mladé a
 
 Překvapilo mě, kolik lidí mi po zvolení gratulovalo. Do zastupitelstva mě nečekaně dostaly preferenční hlasy – byl to pro mě obrovský šok a zároveň velká zodpovědnost. Nemám ráda zbytečné tlachání, a tak mě neuslyšíte plamenně a dlouze řečnit na zastupitelstvu. O to více se věnuji svým komisím a jednáním ve věcech, které považuji za důležité. Jako zastupitelka se mimo jiné účastním jednání komise místní části Prštné. Dále jsem členem komise majetkové, kontrolního výboru a správní rady Kulturního fondu města Zlína. Zde všude se snažím nastavit transparentní podmínky a jednotlivé body projednávat tak, aby byly k užitku všem občanům. Příprava a studium materiálů i samotná účast v komisích a na schůzkách zabere mnoho času. Celkem mi činností spojenou se zastupitelstvím strávím zhruba 8 hodin týdně tedy de facto jeden pracovní den. Všechno musím stihnout vedle své práce. Členství v komisích je bezplatné, a tak o ta odpoledne šidím především svou rodinu. Myslím, že právě to je důvod, proč se komunální politice věnuje tak málo žen, což je velká škoda.
 
-![Zuzana Fišerová](https://zlinsky.pirati.cz/assets/img/posts/zuzana3.jpg)
+![Zuzana Fišerová](https://zlinsky.pirati.cz/assets/img/posts/zuzana5.jpg)
 
 **Na čem zrovna pracuješ v zastupitelstvu? Co se u vás už povedlo dotáhnout do konce?**
 
