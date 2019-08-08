@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Vratislav'
-date: 2019-07-25
+date: 2019-08-08
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/vratislav1.png   
