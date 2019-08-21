@@ -6,7 +6,7 @@ date: 2019-08-15
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/libor1.png   
-tags: 'zlinsky-kraj vratislav-krejcir kromeriz rozhovor'
+tags: 'zlinsky-kraj libor-adamek roznov-pod-radhostem rozhovor'
 ---
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji.
