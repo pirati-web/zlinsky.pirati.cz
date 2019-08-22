@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Jaromír Slezák'
-date: 2019-08-21
+date: 2019-08-22
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/jaromir1.png   
