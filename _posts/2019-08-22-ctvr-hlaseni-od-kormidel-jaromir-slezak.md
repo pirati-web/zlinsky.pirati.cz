@@ -6,7 +6,7 @@ date: 2019-08-22
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/jaromir1.png   
-tags: 'zlinsky-kraj jaromir-slezak vizovice rozhovor'
+tags: 'zlinsky-kraj jaromir-slezak vizovice rozhovor kormidlo'
 ---
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji.
