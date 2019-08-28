@@ -39,4 +39,4 @@ Zájemci nechť se prosím hlásí na adresu koordinátorky pro Zlínský kraj -
 
 Účastnický poplatek činí 100,- Kč a je nutné ho uhradit předem z důvodů přehledu pořadatelů k materiálnímu zajištění večerní grilovací párty. Účastníci mohou také využít k ubytování volné kapacity bungalowů u hotelu Eroplán v ceně 200,- Kč/noc, nebo zdarma možnost stanování v místě večerní grilovací párty.
 
-
+---
