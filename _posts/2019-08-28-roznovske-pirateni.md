@@ -24,7 +24,7 @@ Vydejte se s Piráty z celé republiky na Radhošť, večerní grilování nebo 
 
 **16.30** - Odjezd autobusu pro účastníky, jež nevolí návrat na koloběžce
 
-**18.30** Odjezd na večerní grill párty od hotelu Horal (usedlost U Trančíků, Kramolišov 1916, Rožnov pod Radhoštěm)
+**18.30** Odjezd na večerní grill párty od hotelu Horal (usedlost U Trančíků, Tylovice 1916, Rožnov pod Radhoštěm)
 
 **19.00-20.00** - Pirátské hovory U Principála - panelová diskuse za účasti místopředsedy Pirátské strany Radka Holomčíka na téma: Čeká nás po létě před 30. výročím 17.listopadu horký politický podzim a jak je na něj připravena Pirátská strana?
 
