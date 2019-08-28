@@ -16,7 +16,7 @@ Vydejte se s Piráty z celé republiky na Radhošť, večerní grilování nebo 
 
 **12.15** - Výlet na Pustevny a k soše Radegastu - Odjezd pro účastníky volící cestu autobusem od hotelu Horal
 
-**13.30** - Výlet na Pustevny - Setkání obou skupin účastníků, respektive sraz účastníky přijíždějící a přicházejícími z ostravské strany Pusteven u sochy Radegasta, společné foto
+**13.30** - Setkání u Radegasta - Setkání obou skupin účastníků, respektive sraz účastníky přijíždějící a přicházejícími z ostravské strany Pusteven u sochy Radegasta, společné foto
 
 **14.00** - Piknik u jezírka Mořské oko
 
