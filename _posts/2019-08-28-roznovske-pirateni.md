@@ -14,19 +14,19 @@ Vydejte se s Piráty z celé republiky na Radhošť, večerní grilování nebo 
 ## **Program:**
 **10.30** - Výlet na Pustevny a Radhošť – Start pro účastníky pěší túry u hotelu Horal
 
-**12.15** - Výlet na Pustevny a Radhošť- Odjezd pro účastníky volící cestu autobusem od hotelu Horal
+**12.15** - Výlet na Pustevny a k soše Radegastu - Odjezd pro účastníky volící cestu autobusem od hotelu Horal
 
-**13.30** - Výlet na Pustevny a Radhošť- Setkání obou skupin účastníků, respektive sraz účastníky přijíždějící a přicházejícími z ostravské strany Pusteven u sochy Radegasta, společné foto
+**13.30** - Výlet na Pustevny - Setkání obou skupin účastníků, respektive sraz účastníky přijíždějící a přicházejícími z ostravské strany Pusteven u sochy Radegasta, společné foto
 
-**14.00** - Výlet na Pustevny a Radhošť- Piknik u jezírka Mořské oko
+**14.00** - Piknik u jezírka Mořské oko
 
-**16.00** - Sjezd z Pusteven na koloběžkách k bungalowům., respektive hotelu Horal
+**16.00** - Sjezd z Pusteven na koloběžkách k bungalowům, respektive k hotelu Horal
 
 **16.30** - Odjezd autobusu pro účastníky, jež nevolí návrat na koloběžce
 
 **18.30** Odjezd na večerní grill párty od hotelu Horal (usedlost U Trančíků, Kramolišov 1916, Rožnov pod Radhoštěm)
 
-**19.00-20.00** - Pirátské hovory U Principála- panelová diskuse za účasti místopředsedy Pirátské strany Radka Holomčíka na téma: Čeká nás po létě před 30. výročím 17.listopadu horký politický podzim a jak je na něj připravena Pirátská strana?
+**19.00-20.00** - Pirátské hovory U Principála - panelová diskuse za účasti místopředsedy Pirátské strany Radka Holomčíka na téma: Čeká nás po létě před 30. výročím 17.listopadu horký politický podzim a jak je na něj připravena Pirátská strana?
 
 **20.00** - Večerní bašta 
 
