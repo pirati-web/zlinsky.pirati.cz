@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 img: people/ppp.jpg   # 165 x 220
 description: Pirátka # kratký popis, max 160 znaků
 mail:
-- lucie.sirinova@pirati.cz
+- lucia.sirinova@pirati.cz
 profiles:
   facebook: https://www.facebook.com
 ---
