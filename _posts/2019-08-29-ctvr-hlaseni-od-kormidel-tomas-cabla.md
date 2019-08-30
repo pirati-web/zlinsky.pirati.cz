@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Tomáš Cabla'
+title: 'Čtvrteční hlášení od kormidel - Tomáš Čabla'
 date: 2019-08-29
 author: Jaromír Horký
 authorId: jaromir.horky
@@ -11,7 +11,7 @@ tags: 'zlinsky-kraj tomas-cabla napajedla rozhovor'
 
 Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji.
 
-*Dnes jsme vyzpovídali zastupitele z Napajedel, Tomáše Cablu.* 
+*Dnes jsme vyzpovídali zastupitele z Napajedel, Tomáše Čablu.* 
 
 **Tomáši, pověz nám něco o sobě.**
 
