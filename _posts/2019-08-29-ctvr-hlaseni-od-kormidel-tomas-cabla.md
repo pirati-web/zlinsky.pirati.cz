@@ -9,7 +9,7 @@ image: /assets/img/posts/tomas1.png
 tags: 'zlinsky-kraj tomas-cabla napajedla rozhovor'
 ---
 
-Čtvrteční hlášení od kormidel.. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji.
+Čtvrteční hlášení od kormidel. Tak se jmenuje seriál rozhovorů s našimi zastupiteli v celém Zlínském kraji.
 
 *Dnes jsme vyzpovídali zastupitele z Napajedel, Tomáše Čablu.* 
 
