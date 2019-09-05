@@ -35,7 +35,7 @@ V současnosti pracujeme na tvorbě nového webu města Zlína, který by měl s
 
 **Co bys na závěr vzkázal všem našim voličům a občanům?**
 
-Našim voličům bych vzkázal, že držíme kurz není jen fráze, opravdu se tím řídíme. A občanům to, co říkám vždycky. Procestoval jsem půlku světa, ale Zlín je stejně nejlepší!!!
+Našim voličům bych vzkázal, že držíme kurz není jen fráze, opravdu se tím řídíme. A občanům to, co říkám vždycky. Procestoval jsem půlku světa, ale Zlín je stejně nejlepší!
 
 ![Jiří Jaroš](https://zlinsky.pirati.cz/assets/img/posts/jiri4.jpg)
 
