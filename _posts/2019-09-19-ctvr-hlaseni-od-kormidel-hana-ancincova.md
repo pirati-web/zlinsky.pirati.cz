@@ -19,7 +19,7 @@ Jsem čerstvá třicátnice a máma dvou dětí. Pirátka každým coulem, míst
 
 **Jak vnímáš život v naší republice?**
 
-Žijeme v nádherné a svobodné zemi. Poslední dobou však hmatatelně pociťuji otřesenou důvěru v právní systém a spravedlnost. Negativně vnímám podporu dotací pro velké zemědělské podniky, devastaci krajiny a přírody. Ochranu přírody beru jako jednu z hlavních priorit pro následující léta. V tomto bychom měli být dle mého názoru velmi konzervativní. Co je důležitějšího než zachovat naši zemi krásnou i pro další generace? Co se týče ekonomiky, o nás strach nemám. Máme skvělé nápady, vyrábíme, začínáme mít i peníze, snažíme se prorazit do světa. Kdyby se k tomu přidala i odvaha, rovná páteř, vláda, která nebude projídat rozpočet na úkor let následujících, a holistická státní a místní správa, tak to bude u nás jak v ráji.
+Žijeme v nádherné a svobodné zemi. Poslední dobou však hmatatelně pociťuji otřesenou důvěru v právní systém a spravedlnost. Negativně vnímám podporu dotací pro velké zemědělské podniky, devastaci krajiny a přírody. Ochranu přírody beru jako jednu z hlavních priorit pro následující léta. V tomto bychom měli být dle mého názoru velmi konzervativní. Co je důležitějšího než zachovat naši zemi krásnou i pro další generace? Co se týče ekonomiky, o nás strach nemám. Máme skvělé nápady, vyrábíme, začínáme mít i peníze, snažíme se prorazit do světa. Kdyby se k tomu přidala i odvaha, rovná páteř, vláda, která nebude projídat rozpočet na úkor let následujících, a holistická státní i místní správa, tak to bude u nás jak v ráji.
 
 **Jaké vidíš pro Piráty největší výzvy v Kroměříži do budoucna a jak bys předpověděla jejich vývoj?**
 
@@ -38,7 +38,7 @@ Chystám soukromý projekt na vzdělávání v ekologické oblasti. S kolegy Pir
 
 **Co bys na závěr vzkázala všem našim voličům a občanům?**
 
-Jak už zmiňovali kolegové ve čtvrtečních hlášeních přede mnou, nebojte se ozvat. Pro nás je velmi důležité znáš váš názor. 
+Jak už zmiňovali kolegové ve čtvrtečních hlášeních přede mnou, nebojte se ozvat. Pro nás je velmi důležité znát váš názor. 
 A také, buďme optimisti. Věřím tomu, že postupnými kroky bude státní správa i ta místní fungovat uceleně, komunikovat mezi sebou navzájem a místo hledání důvodů, proč něco nejde, se bude hledat způsob, jak by to šlo.
 
 
