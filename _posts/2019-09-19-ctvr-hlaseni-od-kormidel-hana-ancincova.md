@@ -39,7 +39,7 @@ Chystám soukromý projekt na vzdělávání v ekologické oblasti. S kolegy Pir
 **Co bys na závěr vzkázala všem našim voličům a občanům?**
 
 Jak už zmiňovali kolegové ve čtvrtečních hlášeních přede mnou, nebojte se ozvat. Pro nás je velmi důležité znáš váš názor. 
-A také, buďme optimisti. Věřím tomu, že postupnými kroky bude státní správa i ta místní fungovat uceleně, komunikovat mezi sebou navzájem a místo hledání důvodů, proč něco nejde, se bude hledat způsob, jak by to šlo 🙂
+A také, buďme optimisti. Věřím tomu, že postupnými kroky bude státní správa i ta místní fungovat uceleně, komunikovat mezi sebou navzájem a místo hledání důvodů, proč něco nejde, se bude hledat způsob, jak by to šlo.
 
 
 ![Hana Ančincová](https://zlinsky.pirati.cz/assets/img/posts/hana4.jpg)
