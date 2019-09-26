@@ -15,7 +15,7 @@ V dnešním hlášení od kormidel Vám představíme našeho zástupce z Poslan
 
 Je mi 40 let a jsem otec dvou dětí, Stellinky a Štěpánka. Jsem momentálně podporovatel Pirátů a brzy i regulérní člen. Letos jsem dokončil titul Bc. na Univerzitě Tomáše Bati ve Zlíně, obor Marketingové komunikace. Bylo to náročné. Od střední školy se pohybuji v IT prostředí, grafice, reklamě. Jsem podnikatel, zakladatel spolku Přátelé zpětné vazby, kde podporujeme začínající a amatérské hudební a umělecké skupiny, umělce i fotografy na Slovácku. Jsem také zakladatelem největšího online “blešáku” na Slovácku – Uháčko.cz  Kromě práce ve sněmovně jsem také zastupitel města Uherské Hradiště a člen kontrolního výboru. Ve volném čase se věnuje rodině, chalupaření, kutilství, čtení knih, fotografování, kreslení a již od 13 let hudbě.
 
-![František Elfmak](https://zlinsky.pirati.cz/assets/img/posts/frantisek2.jpg)
+![František Elfmark](https://zlinsky.pirati.cz/assets/img/posts/frantisek2.jpg)
 
 **Jak se ti žije v Uherském Hradišti?**
 
