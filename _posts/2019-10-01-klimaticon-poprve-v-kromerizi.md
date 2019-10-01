@@ -36,7 +36,7 @@ Zahájení (úvodní slovo, kdo jsme, co děláme, jaké jsou naše cíle)
 
 **14.45** 
 
-***Jiří Hrabina***: EkoNElogie: *Aneb cesta do pekel je dlážděna dobrými úmysly*
+***BcA. Jiří Hrabina***: EkoNElogie: *Aneb cesta do pekel je dlážděna dobrými úmysly*
 
 **15.35** 
 
