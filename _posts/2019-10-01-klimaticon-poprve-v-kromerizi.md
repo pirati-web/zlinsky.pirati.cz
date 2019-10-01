@@ -34,11 +34,15 @@ Zahájení (úvodní slovo, kdo jsme, co děláme, jaké jsou naše cíle)
 
 ***Ing. et Ing. Martin Šmída***: *Od bioodpadu k živé půdě*
 
-**14.45** 
+**14.40** 
+
+***Viktor Karlík***: *Stavby z přírodních materiálů* 
+
+**15.30**
 
 ***BcA. Jiří Hrabina***: EkoNElogie: *Aneb cesta do pekel je dlážděna dobrými úmysly*
 
-**15.35** 
+**16.20** 
 
 ***PhDr. Linda Matušková Ph.D.***: *Představení projektu Město neplastuje*
 
