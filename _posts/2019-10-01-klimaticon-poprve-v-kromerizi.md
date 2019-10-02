@@ -42,11 +42,6 @@ Zahájení (úvodní slovo, kdo jsme, co děláme, jaké jsou naše cíle)
 
 ***BcA. Jiří Hrabina***: EkoNElogie: *Aneb cesta do pekel je dlážděna dobrými úmysly*
 
-**16.20** 
-
-***PhDr. Linda Matušková Ph.D.***: *Představení projektu Město neplastuje*
-
-
 Odkaz na [FB Událost.](https://www.facebook.com/events/656174491557832/){:target="_blank"}
 
 Součástí akce bude i UpCycling koutek, kde si budete moci ušít tašku, peněženku nebo cokoliv vás napadne z použitých reklamních plachet. Také si budete moci vyzkoušet vyrobit z nepotřebných dřevěných bedýnek hmyzí hotely, z PET lahví krmítka pro ptáky, plašiče na krtky, a další vychytávky
