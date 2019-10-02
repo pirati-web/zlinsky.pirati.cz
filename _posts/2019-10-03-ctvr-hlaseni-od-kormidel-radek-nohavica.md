@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Tomáš Čabla'
-date: 2019-10-02
+date: 2019-10-03
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/nohavica.png   
