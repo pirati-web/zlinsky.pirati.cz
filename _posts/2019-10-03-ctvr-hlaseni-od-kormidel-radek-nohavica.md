@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Tomáš Čabla'
+title: 'Čtvrteční hlášení od kormidel - Radek Nohavica'
 date: 2019-10-03
 author: Jaromír Horký
 authorId: jaromir.horky
