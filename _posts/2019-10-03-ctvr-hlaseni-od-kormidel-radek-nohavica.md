@@ -15,7 +15,7 @@ Dnes jsme vyzpovídali předsedu místního sdružení Pirátů na Vsetíně Rad
 
 Členem Pirátů jsem od začátku roku 2018 a zároveň poctivým voličem a příznivcem od 18 let, zároveň působím jako předseda Místního sdružení Pirátů na Vsetíně. Na Masarykově univerzitě jsem nedokončil studium v oboru Sportovní trenér. Úspěšně jsem však dokončil studium na VUT v Brně v oboru Stavba strojů a zařízení, ze kterého jsem získal bakalářský titul. Momentálně studuji v navazujícím magisterském programu na VUT obor Kvalita, spolehlivost a bezpečnost, kde bych měl státnicovat v létě 2020, také studuji magisterský obor Řízení rizik technických systémů na VUT – Ústav soudního inženýrství, kde bych měl ke státním zkouškám dojít v létě 2021. Výstupem z mého studia by měl být dvojnásobný titul Inženýr. Dále se již 5 rokem věnuji trénování ve fotbale náctiletých dorostenců a již osm let také působím jako rozhodčí. Druhým rokem se věnuji komentování hokejových utkání druhé nejvyšší soutěže v Čechách.
 
-![Radek Nohavica](https://zlinsky.pirati.cz/assets/img/posts/radek1.jpg)
+![Radek Nohavica](https://zlinsky.pirati.cz/assets/img/posts/nohavica1.jpg)
 
 **Jak vnímáš život v naší republice?**
 
@@ -25,7 +25,7 @@ Dnes jsme vyzpovídali předsedu místního sdružení Pirátů na Vsetíně Rad
 
 Na Vsetíně osobně momentálně nemám trvalé bydliště, bydlím ve vesnici Ústí, která je Vsetínu vzdálená asi jen dva kilometry a má dokonce i stejné PSČ. Dříve byla totiž tato vesnice brána, jako část Vsetína, takové předměstí. Nicméně na Vsetíně jsem prožil pěkných 13 let, co jsem zde navštěvoval základní i střední školu. K životu na Vsetíně lze říci snad jen jediné a to, že spousta mladých vrstevníků mi říká, že na Vsetíně chcípl pes a spousta z nich se odtud odstěhuje a už se nevrátí. Svým způsobem mají pravdu, protože když nepočítám Valašské záření, křesťanský festival UNITED nebo třeba aktivitu Petra Gregora, majitele podniku Tři Opice, tak krom Valašského záření jsou všechny akce pořádány dobrovolníky a občany. Z toho plyne, že co se kulturního vyžití týče, tak zde platí přísloví, co si člověk neudělá sám, tak prostě nemá, a to je škoda.
 
-![Radek Nohavica](https://zlinsky.pirati.cz/assets/img/posts/radek2.jpg)
+![Radek Nohavica](https://zlinsky.pirati.cz/assets/img/posts/nohavica2.jpg)
 
 **Změnil se tvůj život od vstupu do Pirátské strany?**
 
@@ -43,6 +43,6 @@ Na toto téma jsem se bavil s pirátským zastupitelem v Mostě Adamem Komendou,
 
 Asi bych zmínil příhodu u lékaře, která toho řekne mnoho. Přišel jsem k lékaři na oddělení, kde jsem ještě v životě nebyl a byla tam taková starší paní na recepci. Byl jsem objednán na 11:30 a dorazil jsem minutu před tímto časem. Chtěla mé osobní údaje, telefon, rodinu, školy, atd… Když jsem viděl, jak si nerozumí s klávesnicí a jméno, telefon a bydliště jí trvá napsat asi 5 minut, tak při dotazu škola, jsem uvedl raději jen VUT FSI a druhou školu jsem ani nezmiňoval, protože už za mnou čekalo dalších 5 naštvaných lidí. Celý tento zápis, který jsem v životě už několikrát nadiktoval bance, úřadům a dalším systémům se mohl jednoduše vytáhnout ze systému a ušetřilo by se např. 9 minut v čekárně, které by doktor mohl využít k ošetření pacienta a rychlejšímu odbavení dalších. Toto by například měl řešit náš zákon o digitální službě, který je momentálně v druhém čtení. Defacto by umožňoval, abychom si vše mohli zařídit z domova, nebo maximálně na jednom úřadě. Úřady mají obíhat data a ne lidé. Až se toto stane, můžeme konečně přivítat život v třetím tisíciletí. Takže proč by nás měli lidé volit? Tak třeba kvůli tomuto zákonu. No a občanům chci vzkázat to samé, co na demonstraci Milionu chvilek. Pokud se vám něco nelibí a chcete něco změnit, tak zkuste jít do politiky sami. Zvláště pak na komunální úrovni, kde můžete snadno kandidovat i jako nezávislý.
 
-![Radek Nohavica](https://zlinsky.pirati.cz/assets/img/posts/radek3.JPG)
+![Radek Nohavia](https://zlinsky.pirati.cz/assets/img/posts/nohavica3.JPG)
 
 ---
