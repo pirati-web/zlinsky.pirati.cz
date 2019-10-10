@@ -5,7 +5,7 @@ title: 'Čtvrteční hlášení od kormidel - Renata Gehringer'
 date: 2019-10-10
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/renata1.png   
+image: /assets/img/posts/renata.png   
 tags: 'zlinsky-kraj renata-gehringer valasske-mezirici rozhovor'
 ---
 
