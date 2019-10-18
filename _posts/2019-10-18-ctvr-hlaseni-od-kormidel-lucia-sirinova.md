@@ -19,21 +19,13 @@ S objevujícím se trendem bezobalového nakupování jsem od lidí v okolí sl�
 
 **Zbývá ti čas na osobní zájmy a koníčky? Pokud ano, čemu se nejraději v poslední době věnuješ?**
 
-Po sametové revoluci se otevřela všem našim občanům široká cesta nadšení k vytoužené demokracii. Mohli jsme svobodně prakticky kamkoliv vycestovat a bez obav se vyjadřovat k pražskému jaru, invazi vojsk Varšavské smlouvy, letité okupaci naší země, k trestuhodným počinům komunismu beze strachu. Milovala jsem Václava Havla. Když byl jako bývalý disident a neúnavný kritik komunistického režimu zvolen prezidentem, plakala jsem dojetím a usmívala se nad jeho povytaženými kalhotami při promenádě před nastoupenou hradní stráží. Jeho heslo „Pravda a láska musí zvítězit nad lží a nenávistí“ se stalo mottem i mým. Pak šlo vše tak nějak od desíti k pěti. Amnestie, která ukončila řadu kauz závažné hospodářské kriminality a korupce definitivně završila zbytky důvěry, které jsem do Václava Klause vkládala. Průkopník utahování opasků tímto pro mne definitivně skončil. To, co předvádí Klausův následník na postu prezidenta je další, do nebe volající hanba. Přidáme-li koření v podobě stávajícího pana premiéra, pak je politické dění v dlouhodobém varu a hrnec trpělivosti našeho národa přetéká stále větší měrou.
-
-**Jsi učitelkou v Odrách a k tomu ještě studuješ v Olomouci, stíháš také odpočívat a užívat si malebné valašské krajiny?**
-
-V Odrách vyučuji matematiku, informatiku a etickou výchovu. Pokud je ve škole výborná organizační základna, zdravé, slušné a plně profesně kompetentní vedení, pak i celý učitelský sbor září spokojeností. To se přímo promítá do pracovního nasazení všech ve škole přítomných a dobrá nálada pak panuje stále. Práce je mi báječným koníčkem, pak i únava je minimální. Přiznám se, že i když tělem odpočívám, tak hlava pracuje stále. Vymýšlím, jak co nejlépe aktivizovat své studenty k zájmu o předmět, k pochopení učiva, k lepšímu zapamatování si náročných pojmů a postupů pomocí různých mnemotechnických pomůcek.  Jako téma své diplomové práce jsem si zvolila použití metod kritického myšlení ve výuce etické výchovy a křesťanství, kterou tvořím v návaznosti na loni obhájenou práci bakalářskou. Letitá pedagogická praxe mi v tomto značně napomáhá, jak a čím zvídavé i pasivnější studenty co nejvíce zaujmout a motivovat v oblasti např. světových náboženství, knihy knih, původu a smyslu Desatera, či nebezpečí náboženského extrémismu. Odpočívám sportem, pobytem v přírodě, procházkami s boloňským psíkem, houbařením, četbou, sledováním dokumentárních filmů. S manželem podnikáme moto-vyjížďky za krásami naší vlasti.  Ráda poznávám nová místa, odlišné kultury, vždy dokumentuji a svá poznání prezentuji dále. Hrát si s vnoučaty je odpočinek nejkrásnější. 
-
-![Lucia Šiřinová](https://zlinsky.pirati.cz/assets/img/posts/lucia2.jpeg)
-
-**Zbývá ti čas na osobní zájmy a koníčky? Pokud ano, čemu se nejraději v poslední době věnuješ?**
-
 Část svého času se snažím věnovat vzdělávání, jsme v době, která postupuje rychle kupředu, a k tomu, aby s ní člověk udržel krok, je neustále sebevzdělávání zapotřebí. Rozhodla jsem se znovu vrátit na univerzitu, kde dálkově studuji na Fakultě marketingových komunikací.  Na co se dále snažím udělat si čas během sezóny, je záhon na zahrádce. Naše rodina je zapojená do systému odděleného sběru BRKO (sběr biologicky rozložitelného komunálního odpadu) a letos poprvé jsme využili i odběru kompostu zdarma pro občany zapojené v tomto systému. Libí se mi, co v tomto směru město svým občanům nabízí.
 
 **Ve Zlíně jsi členkou správní rady fondu pro-rodinných aktivit, přiblížíš nám prosím, co taková práce obnáší?**
 
 Tato práce obnáší spolupráci s ostatními členy správní rady, řešení otázek týkající se znění pravidel žádostí pro poskytování dotací, vyhodnocování a schvalování jednotlivých žádostí. S cílem využití prostředků spravedlivě a tak, aby opravdu podporovaly především neziskové volnočasové aktivity dětí.
+
+![Lucia Šiřinová](https://zlinsky.pirati.cz/assets/img/posts/lucia2.jpeg)
 
 **Kde vidíš budoucnost Pirátů ve Zlíně, cítíš podporu od občanů?**
 
