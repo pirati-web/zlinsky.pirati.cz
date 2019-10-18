@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Lucia Šiřinová'
-date: 2019-10-18
+date: 2019-10-17
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/lucia.png   
