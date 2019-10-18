@@ -9,7 +9,7 @@ image: /assets/img/posts/lucia.png
 tags: 'zlinsky-kraj lucia-sirinova zlin rozhovor'
 ---
 
-Dnes jsme pro vás vyzpovídali Luciu Šiřinovou ze Zlína. Lucia pořádá spoustu workshopů a je známa díky projektu ReTrace.
+Dnes jsme pro vás vyzpovídali Luciu Šiřinovou ze Zlína. Lucia pořádá spoustu workshopů a je známa díky projektu ReTrace, v Pirátské straně působí zejména v oblasti administrativního odboru..
 
 **Mnozí lidé tě znají hlavně pro tvůj projekt ReTrace, kde navrhuješ a šiješ tašky a další věci z použitých reklamních plachet, co tomuto projektu předcházelo, jaká byla tvoje motivace?**
 
