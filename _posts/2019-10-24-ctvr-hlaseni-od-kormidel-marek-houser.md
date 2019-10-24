@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Čtvrteční hlášení od kormidel - Marek houser'
+title: 'Čtvrteční hlášení od kormidel - Marek Houser'
 date: 2019-10-24
 author: Jaromír Horký
 authorId: jaromir.horky
