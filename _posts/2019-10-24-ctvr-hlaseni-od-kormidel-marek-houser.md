@@ -9,7 +9,7 @@ image: /assets/img/posts/marra1.png
 tags: 'zlinsky-kraj marek-houser uherske-hradiste rozhovor'
 ---
 
-Dnes jsme pro vás vyzpovídali Luciu Šiřinovou ze Zlína. Lucia pořádá spoustu workshopů a je známa díky projektu ReTrace, v Pirátské straně působí zejména v oblasti administrativního odboru.
+V dnešním rozhovoru jsme zamíříli do Uherského Hradiště, konkrétně za členem krajského předsednictva, kde jsme vyzpovídali předsedu Pirátů ve Zlínském kraji Marka Housera.
 
 **Marku, řekni nám něco o sobě.**
 
