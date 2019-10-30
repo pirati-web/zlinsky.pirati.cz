@@ -39,6 +39,6 @@ Uff, těch by bylo :) Co se týká těch pracovních a politických, čeká mě 
 
 Díky, že jste dočetli až sem. Ne, teď vážně. Děkuji za podporu, které se mi jak od veřejnosti, ale také i od členů Pirátů dostává. Nesmírně si toho vážím a je to pro mě motivace ustát různé tlaky a jít za věcmi, kterým věřím.
 
-![Linda Matušková](https://zlinsky.pirati.cz/assets/img/posts/linda4.jpg)
+![Linda Matušková](https://zlinsky.pirati.cz/assets/img/posts/linda4.png)
 
 ---
