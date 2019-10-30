@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Rok v zastupitelstvu Rožnova očima Pirátské opozice'
-date: 2019-10-24
+date: 2019-10-30
 author: Libor Adámek
 authorId: libor.adamek
 image: /assets/img/posts/roznov.jpeg  
