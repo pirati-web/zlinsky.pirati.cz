@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: prodejce kancelářské techniky # kratký popis, max 160 znaků
+description: zastupitel města Rožnova, prodejce kancelářské techniky # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
 profiles:
