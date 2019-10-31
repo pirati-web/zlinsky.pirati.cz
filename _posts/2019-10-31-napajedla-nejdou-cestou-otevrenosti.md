@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Rok v zastupitelstvu Rožnova očima Pirátské opozice'
+title: 'Napajedla nejdou cestou otevřenosti, snažíme se to změnit'
 date: 2019-10-31
 author: Tomáš Čabla
 authorId: tomas.cabla
