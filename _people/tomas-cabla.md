@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/tomas-cabla.jpg   # 165 x 220
-description: kuchař # kratký popis, max 160 znaků
+description: zastupitel Napajedel, kuchař # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
 profiles:
