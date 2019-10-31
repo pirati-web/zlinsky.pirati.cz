@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Čtvrteční hlášení od kormidel - Linda Matušková'
-date: 2019-10-24
+date: 2019-10-31
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/linda1.png   
