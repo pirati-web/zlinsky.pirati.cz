@@ -9,7 +9,7 @@ image: /assets/img/posts/linda1.png
 tags: 'zlinsky-kraj linda-matuskova kromeriz rozhovor'
 ---
 
-V dnešním rozhovoru jsme zamíříli do Uherského Hradiště, konkrétně za členem krajského předsednictva, kde jsme vyzpovídali předsedu Pirátů ve Zlínském kraji Marka Housera.
+Dnes jsme pro vás připravili rozhovor s Pirátkou z Kroměříže a čerstvou členkou rozhodčí komise Lindou Matuškovou.
 
 **Lindo, v Kroměříži jsi v komunálních volbách díky preferenčním hlasům přeskočila na 3. místo, na jaře si kandidovala z 16. místa do Evropského parlamentu a nyní si byla zvolena členkou Rozhodčí komise. Jak se na tuto celou řadu úspěchů díváš ty?**
 
