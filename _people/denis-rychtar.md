@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/denis-rychtar.jpg   # 165 x 220
-description: 1. místopředseda KS Zlínský kraj, chemik-velinář # kratký popis, max 160 znaků
+description: zastupitel Valašského Meziříčí, 1. místopředseda KS Zlínský kraj, chemik-velinář # kratký popis, max 160 znaků
 mail:
 - denis.rychtar@pirati.cz
 profiles:
