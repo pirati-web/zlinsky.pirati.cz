@@ -6,7 +6,7 @@ category:                   # kategorie
 - clenove
 
 img: people/jaroslav-sevcik.jpg   # 165 x 220
-description: starosta a správce T. J. Sokol Uherské Hradiště          	# kratký popis, max 160 znaků
+description: zastupitel Uherského Hradiště, starosta a správce T. J. Sokol Uherské Hradiště          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.sevcik@pirati.cz
 profiles:
