@@ -15,7 +15,7 @@ V dnešním hlášení od kormidel jsme pro vás vyzpovídali "rodačku" z Montr
 
 Narodila jsem se v Montrealu českým rodičům, je mi 37 let a od svých 3 let bydlím s přestávkami ve Zlíně. Vystudovala jsem cestovní ruch v Rožnově pod Radhoštěm, ale této profesi jsem se kromě krátkého období v zahraničí nevěnovala. V současné době působím v rodinné firmě na generální opravy a modernizaci CNC obráběcích strojů. Mám fenku, křížence která je mým největším koníčkem. Také se ráda projedu na koloběžce a rekreačně zapinkám tenis. 
 
-![Martina Urbánková](https://zlinsky.pirati.cz/assets/img/posts/martina2.png)
+![Martina Urbánová](https://zlinsky.pirati.cz/assets/img/posts/martina2.png)
 
 **Jaký byl tvůj hlavní důvod ke vstupu k Pirátům?**
 
