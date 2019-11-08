@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/lucia-sirinova.jpg   # 165 x 220
-description: Pirátka Produktový manažer # kratký popis, max 160 znaků
+description:Produktový manažer # kratký popis, max 160 znaků
 mail:
 - lucia.sirinova@pirati.cz
 mob:			  +420 777 136 8638
