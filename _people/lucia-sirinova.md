@@ -9,7 +9,7 @@ img: people/lucia-sirinova.jpg   # 165 x 220
 description: Produktový manažer # kratký popis, max 160 znaků
 mail:
 - lucia.sirinova@pirati.cz
-mob:			  +420 777 136 8638
+mob:			  +420 777 136 863
 profiles:
   facebook: https://www.facebook.com/lucia.popesko
 ---
