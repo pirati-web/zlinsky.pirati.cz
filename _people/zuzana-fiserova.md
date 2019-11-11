@@ -9,7 +9,7 @@ img: people/zuzana-fiserova.jpg   # 165 x 220
 description: zastupitelka Zlína, ekonomka # kratký popis, max 160 znaků
 mail:
 - zuzana.fiserova@pirati.cz
-mob:			  +420 732 670 355
+mob:			  
 profiles:
   facebook: https://www.facebook.com/zuzana.fiserova77
 ---
