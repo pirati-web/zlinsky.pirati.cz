@@ -1,7 +1,7 @@
 ---
 uid: petr.havlik
 name:     Petr Havlík  	# běžně používáné jméno
-fullname: Petr Havlík  	# jméno s tituly etc.
+fullname: Ing. Petr Havlík  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
