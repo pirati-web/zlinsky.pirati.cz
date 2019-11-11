@@ -5,7 +5,7 @@ fullname: Petr Havlík  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/petr.havlik.jpg   # 165 x 220
+img: people/petr-havlik.jpg   # 165 x 220
 description: Správce sítě IT # kratký popis, max 160 znaků
 mail:
 - petr.havlik@pirati.cz
