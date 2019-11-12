@@ -22,6 +22,8 @@ Po návratu do rodného Zlína se zintenzivnil její zájem o veřejný život a
 
 Ve volné chvíli ji můžete potkat někde v galerii, muzeu nebo třeba v divadle. Ráda experimentuje s barvami, štětci, fotografickými filmy a tiskem. Nejvíce si však odpočine v přírodě při toulání se lesem se svou Bordelkou. 
 
+
+
 # ČLÁNKY AUTORKY IRENA DROFOVÁ
 [Piráti ve Zlíně chtějí pro cyklisty trail sportoviště](https://zlin.pirati.cz/aktuality/pirati-ve-zline-chteji-pro-cyklisty-trail-sporotoviste.html){:target="_blank"}
 
