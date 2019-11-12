@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/irena-drofova.jpg   # 165 x 220
-description: Polygrafka a markeťačka # kratký popis, max 160 znaků
+description: Polygraf a markeťačka # kratký popis, max 160 znaků
 mail:
 - irena.drofova@pirati.cz
 profiles:
