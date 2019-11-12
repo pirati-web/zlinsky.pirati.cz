@@ -22,7 +22,7 @@ Po návratu do rodného Zlína se zintenzivnil její zájem o veřejný život a
 
 Ve volné chvíli ji můžete potkat někde v galerii, muzeu nebo třeba v divadle. Ráda experimentuje s barvami, štětci, fotografickými filmy a tiskem. Nejvíce si však odpočine v přírodě při toulání se lesem se svou Bordelkou. 
 
-# **ČLÁNKY AUTORKY IRENA DROFOVÁ**
+# ČLÁNKY AUTORKY IRENA DROFOVÁ
 [Piráti ve Zlíně chtějí pro cyklisty trail sportoviště](https://zlin.pirati.cz/aktuality/pirati-ve-zline-chteji-pro-cyklisty-trail-sporotoviste.html){:target="_blank"}
 
 [Pirátské putování z Arktidy do Zlína](https://zlin.pirati.cz/aktuality/piratske-putovani-z-arktidy-do-zlina.html){:target="_blank"}
@@ -37,4 +37,4 @@ Ve volné chvíli ji můžete potkat někde v galerii, muzeu nebo třeba v divad
 
 [Pirátský rozhovor s Jaroslavem Kmentou](https://zlin.pirati.cz/aktuality/KmentaRozhovor.html){:target="_blank"}
 
-[Zlínští Piráti putovali Kanadou(https://zlin.pirati.cz/aktuality/zlinsti-pirati-putovali-kanadou.html){:target="_blank"}
+[Zlínští Piráti putovali Kanadou](https://zlin.pirati.cz/aktuality/zlinsti-pirati-putovali-kanadou.html){:target="_blank"}
