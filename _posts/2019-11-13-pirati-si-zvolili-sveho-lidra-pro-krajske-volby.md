@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti si zvolili jako lídra pro krajské volby Hanu Ančincovou'
-date: 2019-11-14
+date: 2019-11-13
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/hana-lidr.jpg  
