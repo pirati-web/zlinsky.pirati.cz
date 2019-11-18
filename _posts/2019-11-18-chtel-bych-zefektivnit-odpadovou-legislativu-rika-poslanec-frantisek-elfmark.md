@@ -59,5 +59,4 @@ blog:[www.frantisekelfmark.cz](www.frantisekelfmark.cz){:target="_blank"}
 
 web: [www.obehovehospodarstvi.eu](www.obehovehospodarstvi.eu){:target="_blank"}
 
-
-![Martina Urbánková](https://zlinsky.pirati.cz/assets/img/posts/martina2.png)
+---
