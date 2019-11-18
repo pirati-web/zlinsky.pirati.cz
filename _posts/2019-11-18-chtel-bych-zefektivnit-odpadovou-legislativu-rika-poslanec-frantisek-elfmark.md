@@ -55,7 +55,7 @@ Toho volného času poslední dobou moc není, protože když nepracuji, tak chc
 
 e-mail: [frantisek.elfmark@pirati.cz](frantisek.elfmark@pirati.cz){:target="_blank"}
 
-blog:[www.frantisekelfmark.cz](www.frantisekelfmark.cz){:target="_blank"}
+blog: [www.frantisekelfmark.cz](www.frantisekelfmark.cz){:target="_blank"}
 
 web: [www.obehovehospodarstvi.eu](www.obehovehospodarstvi.eu){:target="_blank"}
 
