@@ -5,6 +5,7 @@ fullname: František Elfmark, DiS.  	# jméno s tituly etc.
 category:                 # kategorie
 - psp
 - clenove
+- pks
 img: people/frantisek-elfmark.jpg   # 165 x 220
 description: pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
 mail:
@@ -13,7 +14,7 @@ profiles:
   facebook: https://www.facebook.com/FrantisekElfmark.DiS/
   linkedin: https://www.linkedin.com/in/frantisek-elfmark/
   twitter: http://twitter.com/ElfmarkF
-
+ordpks: 3
 ---
 
 František Elfmark (*19. 10. 1978, Uherské Hradiště) je pirátským poslancem PSP ČR za Zlínský kraj a člen Pirátů. Bydlí s rodinou v místní části Míkovice v Uherském Hradišti. Má dvě děti Štěpánka a Stellinku.
