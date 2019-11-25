@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 - pks
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
-description: Předseda KS Zlínský kraj, místostarosta Kroměříže, předseda MS KM, hrdý otec a optimista # kratký popis, max 160 znaků
+description: Předseda KS Zlínský kraj, místostarosta Kroměříže, předseda MS KM, hrdý otec # kratký popis, max 160 znaků
 mob:			  +420 731 501 650
 mail:
 - vratislav.krejcir@pirati.cz
