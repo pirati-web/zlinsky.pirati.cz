@@ -7,14 +7,14 @@ category:                 # kategorie
 - clenove
 - kontakt
 img: people/marek-houser.jpg   # 165 x 220
-description: předseda KS Zlínský kraj, marketingový specialista         	# kratký popis, max 160 znaků
+description: místopředseda KS Zlínský kraj, marketingový specialista         	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
 mob:			  +420 725 611 894
 profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
-ordpks: 1
+ordpks: 2
 ordkontakty: 2
 
 ---
