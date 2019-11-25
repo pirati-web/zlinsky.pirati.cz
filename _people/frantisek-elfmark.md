@@ -7,7 +7,7 @@ category:                 # kategorie
 - clenove
 - pks
 img: people/frantisek-elfmark.jpg   # 165 x 220
-description: pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
+description: pirátský poslanec za Zlínský kraj. 3. místopředseda KS Zlínský kraj          	# kratký popis, max 160 znaků
 mail:
 - frantisek.elfmark@pirati.cz
 profiles:
