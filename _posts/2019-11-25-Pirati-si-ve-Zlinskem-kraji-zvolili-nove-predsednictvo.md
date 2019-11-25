@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti si ve Zlínském kraji zvolili nové předsednictvok'
+title: 'Piráti si ve Zlínském kraji zvolili nové předsednictvo'
 date: 2019-11-25
 author: Jaromír Horký
 authorId: jaromir.horky
