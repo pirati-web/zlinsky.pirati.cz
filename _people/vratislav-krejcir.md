@@ -5,7 +5,7 @@ fullname: Vratislav Krejčíř  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pms
 - clenove
-- kandidat
+- pks
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 description: místostarosta Kroměříže, předseda MS KM, hrdý otec a optimista # kratký popis, max 160 znaků
@@ -15,6 +15,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/vratislav.krejcir
   instagram: https://www.instagram.com/veteiks
+ordpks: 1  
 ---
 
 Je mi 36 let a jsem celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
