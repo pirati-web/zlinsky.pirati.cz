@@ -9,7 +9,7 @@ image: /assets/img/posts/pks.png
 tags: 'zlinsky-kraj předsednistvo vratislav-krejcir marek-houser frantisek-elfmark jiri-jaros jaroslav-takac'
 ---
 
-Členská základna Pirátů Zlínského kraje si v těchto dnech zvolila nové předsednictvo krajského sdružení. Předsedou se nově stal **Vratislav Krejčíř** z Kroměříže. Dalšími místopředsedy byli zvoleni **Marek Houser** z Uherského Hradiště, **František Elfmark** z Uherského Hradiště, **Jiří Jaroš** ze Zlína a **Jaroslav Takáč** z Přílep u Holešova. Nové krajské předsednictvo nyní především provede místní sdružení volbami do krajského zastupitelstva.
+Členská základna Pirátů Zlínského kraje si v těchto dnech zvolila nové předsednictvo krajského sdružení. Předsedou se nově stal Vratislav Krejčíř z Kroměříže. Dalšími místopředsedy byli zvoleni Marek Houser z Uherského Hradiště, František Elfmark z Uherského Hradiště, Jiří Jaroš ze Zlína a Jaroslav Takáč z Přílep u Holešova. Nové krajské předsednictvo nyní především provede místní sdružení volbami do krajského zastupitelstva.
 
 Nový krajský předseda Pirátů Zlínského kraje **Vratislav Krejčíř** působí jako místostarosta Kroměříže a zároveň  je předsedou místního sdružení.
 
