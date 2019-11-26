@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 description: Předseda KS Zlínský kraj, místostarosta Kroměříže, předseda MS KM, hrdý otec # kratký popis, max 160 znaků
-mob:			  +420 731 501 650
+mob:			  +420 776 666 144
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
