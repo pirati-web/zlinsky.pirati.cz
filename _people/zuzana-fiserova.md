@@ -13,7 +13,7 @@ mail:
 mob:			  
 profiles:
   facebook: https://www.facebook.com/zuzana.fiserova77
-ordzas: 3
+ordzas: 4
 ---
 
 Ing. Mgr. Zuzana Fišerová, Ph.D. (*1979) se narodila v Moravské Třebové, vystudovala finance a mediální studia, strávila rok ve Finsku a poté se vdala do Zlína, kde dokončila doktorát z financí. Pracuje jako ekonom, publikuje rovněž odborné články na téma problematiky insolvencí a příležitostně přednáší. Od roku 2018 je neuvolněným  členem zastupitelstva Statutárního města Zlín. 
