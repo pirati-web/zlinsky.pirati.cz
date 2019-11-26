@@ -8,20 +8,20 @@ category:                   # kategorie: clenove
 - pks
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
-description: Předseda KS Zlínský kraj, místostarosta Kroměříže, předseda MS KM, hrdý otec # kratký popis, max 160 znaků
+description: Předseda KS Zlínský kraj, předseda MS Kroměříž, místostarosta Kroměříže, # kratký popis, max 160 znaků
 mob:			  +420 776 666 144
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/vratislav.krejcir
-  instagram: https://www.instagram.com/veteiks
+  facebook: https://facebook.com/vratislav.krejcir.kromeriz
+  instagram: https://instagram.com/vratislavjepirat
 ordpks: 1  
 ---
 
-Je mi 36 let a jsem celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
+Vratislav Krejčíř (2. 3. 1982 je celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
 
-Můj profesní život se celou dobu točí kolem moderních technologií, které mě baví a tak nějak mě “pronásledují”. V současné době jsem ředitel divize eMobility v jedné soukromé kroměřížské společnosti, která se snaží prostřednictvím rozvoje elektromobility v České republice přispět k lepšímu a čistšímu životnímu prostředí. V soukromí jsem tak trochu Jedi (hrdý otec) a spolu se svou ženou vychovávám 2 malé padavany (děti) ;-)
+Jeho profesní život se celou dobu točí kolem moderních technologií, které ho baví, a tak nějak “pronásledují”. V posledním zaměstnání byl šéfem divize eMobility v jedné soukromé kroměřížské společnosti, která se snaží prostřednictvím rozvoje elektromobility v České republice přispět k lepšímu a čistšímu životnímu prostředí. V soukromí je tak trochu Jedi (hrdý otec) a spolu se svou ženou vychovává 2 malé padavany (děti) ;-)
 
-Jsem rodilý Kroměřížák, který žil a pracoval v několika městech ČR. Kroměříž pro mě vždy byla tím jediným místem, kde jsem si dokázal představit žít. Proto chci udělat maximum pro to, aby naše město a jeho okolí bylo ještě lepším místem pro život, než bylo doteď. Proto jsem si řekl, že dostaneme Piráty na radnici, aby se zasadili o otevřený, transparentní a vřelý přístup vedení města vůči lidem, ať už to jsou voliči jakékoliv strany nebo uskupení. Vždy budeme stát za lidmi.
+Je rodilý Kroměřížák, který žil a pracoval v několika městech ČR. Kroměříž pro něj vždy byla tím jediným místem, kde si dokázal představit žít. Proto chce udělat maximum pro to, aby město a jeho okolí bylo ještě lepším místem pro život, než bylo doteď. Proto si řekl, že dostane Piráty na radnici, aby se zasadili o otevřený a vřelý přístup vedení města vůči lidem, ať už to jsou voliči jakékoliv strany nebo uskupení. A to se podařilo. Vratislav bude spolu s Piráty vždy stát za lidmi.
 
-Chceme žít ve městě, které je tu pro nás, reaguje na potřeby občanů a ne naopak.
+Chce žít ve městě, které je tu pro nás, reaguje na potřeby občanů a ne naopak.
