@@ -12,7 +12,7 @@ mail:
 - milan.klajn@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zbristvimejla
-  ordzas: 5
+ordzas: 5
 ---
 
 Milan Klajn (*23. března 1977, Český Brod) žije ve Zlíně, kde působí jako místopředseda místního sdružení.
