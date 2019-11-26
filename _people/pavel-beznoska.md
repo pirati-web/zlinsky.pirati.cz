@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - zastupitele 
 
 img: people/pavel-beznoska.png   # 165 x 220
-description: zastupitel Otrokovic, account manager                                            # kratký popis, max 160 znaků
+description: zastupitel Otrokovic, account manager v marketingové společnosti a sportovec              # kratký popis, max 160 znaků
 mail:
 - pavel.beznoska@pirati.cz
 profiles:
