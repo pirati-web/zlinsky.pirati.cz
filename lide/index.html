@@ -10,6 +10,24 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
+                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#psp" class="c-simple-accordion-title">Poslanci</a>
+                    <div id="psp" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
+                    <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#zastupitele" class="c-simple-accordion-title">Zastupitelé</a>
+                    <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'zastupitele'"  | sort:"ordzas" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#pks" class="c-simple-accordion-title">Krajské předsednictvo</a>
@@ -19,20 +37,11 @@ layout: default
                     </div>
                   </li>
                 </ul>
-                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                    <a href="#psp" class="c-simple-accordion-title">Poslanci</a>
-                    <div id="psp" class="c-simple-accordion-content" data-tab-content="">
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" %}
-                      {% include people/list-2col.html param=team %}
-                    </div>
-                  </li>
-                </ul>
                   <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
-                    <a href="#zastupitele" class="c-simple-accordion-title">Zastupitelé</a>
-                    <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'zastupitele'"  | sort:"ordzas" %}
+                    <a href="#pms" class="c-simple-accordion-title">Předsedové místních sdružení</a>
+                    <div id="pms" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
                       {% include people/list-2col.html param=team %}
                     </div>
                   </li>
