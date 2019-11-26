@@ -11,7 +11,7 @@ description: předseda MS Vsetín, student strojírenství a kvality výroby na 
 mail:
 - radek.nohavica@pirati.cz
 profiles:
-https://www.facebook.com/rnohavica
+facebook: https://www.facebook.com/rnohavica
 ordpms: 5
 ---
 
