@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - pms
 
 img: people/mirek-sirina.jpg   # 165 x 220
-description: Pirát # kratký popis, max 160 znaků
+description: předseda MS Zlín, OSVČ # kratký popis, max 160 znaků
 mob: +420 777 932 681 
 mail:
 - miroslav.sirina@pirati.cz
