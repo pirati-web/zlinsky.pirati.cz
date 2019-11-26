@@ -5,14 +5,14 @@ fullname: Ing. Bc. Irena Drofová 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 
-img: people/irena-drofova.jpg   # 165 x 220
+img: people/irena-drofova.png   # 165 x 220
 description: Polygraf a markeťačka # kratký popis, max 160 znaků
 mail:
 - irena.drofova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/duhovka.iris
 ---
-Narodila se ve Zlíně (*26. 9. 1982), kde na střední škole absolvovala grafiku. Poté navázala studiem Polygrafie v Brně. Své znalosti pak více prohloubila na Univerzitě Pardubice, kde na Fakultě chemicko-technologické vystudovala obor Polygrafie a fotofyzika a také Podnikovou ekonomiku.
+Irena Drofová se narodila ve Zlíně (*26. 9. 1982), kde na střední škole absolvovala grafiku. Poté navázala studiem Polygrafie v Brně. Své znalosti pak více prohloubila na Univerzitě Pardubice, kde na Fakultě chemicko-technologické vystudovala obor Polygrafie a fotofyzika a také Podnikovou ekonomiku.
 
 Již během studií se snažila uplatňovat své znalosti také v praxi. Získala cenné zkušenosti nejen ve fotografii, grafice či reklamních agenturách, ale především také v oblasti fungování firemních procesů. Další cenné poznatky získala v Irsku, ve fotoateliéru Dennis McSweeny a v Irsku také poprvé hlouběji pronikla do prostředí online vyhledávačů. Pracovní život ji následně zavedl do Prahy do mezinárodního vydavatelství, kde měla na starosti marketing a distribuci. S následným pozvolným rozvojem online marketingu přibyl také živnostenský list a mnoho zajímavých projektů, kde se mohla seberealizovat a dále rozvíjet. Zodpovědnost za velké projekty ji naučili propojovat lidi, budovat a rozšiřovat pracovní týmy, strategicky plánovat i flexibilně reagovat na nečekané události. A rovněž přijmout výzvy, které ji potkají. V současnosti se stále více věnuje digitálním procesům a IT oblasti.
 
