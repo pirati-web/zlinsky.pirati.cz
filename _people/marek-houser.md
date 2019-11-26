@@ -6,6 +6,7 @@ category:                 # kategorie
 - pks
 - clenove
 - kontakt
+- pms
 img: people/marek-houser.jpg   # 165 x 220
 description: 1. místopředseda KS Zlínský kraj, předseda MS Uherské Hradiště, marketingový specialista         	# kratký popis, max 160 znaků
 mail:
@@ -16,7 +17,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/marrahouser
 ordpks: 2
 ordkontakty: 2
-
+ordpms: 3
 ---
 
 Marek Houser (*6. prosince 1988, Zlín) je místopředsedou KS Zlínský kraj a předsedou MS Uherské Hradiště. Je ženatý a má syna. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.
