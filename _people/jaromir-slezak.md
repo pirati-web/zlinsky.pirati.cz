@@ -21,4 +21,4 @@ Mezi jeho koníčky patří procházky po nádherných kopcích v okolí Vizovic
 
 Když se vrátil zpět domů po několika letech, zjistil, že se toho moc nezměnilo a ve vedení města jsou stále stejní lidé, někteří skoro 20 let. Poté co viděl, jak to funguje v jiných zemích, tak věděl, že můžeme mnohé problémy řešit jinak a změnit věci k lepšímu. Z toho důvodu se stal Pirátem a dal dohromady tým mladých vizovjanů, jimž věří, že společně můžou vytvořit přívětivý a vstřícný úřad pro všechny občany. 
 
-V roce 2018 byl zvolen zastupitelem Vizovic a také se stal členm kontrolního výboru.
+V roce 2018 byl zvolen zastupitelem Vizovic a také se stal členem kontrolního výboru.
