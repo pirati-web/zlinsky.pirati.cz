@@ -7,6 +7,7 @@ category:                   # kategorie: clenove
 - pks
 img: people/jaroslav-takac.jpg   # 165 x 220
 description: 4. místopředseda KS Zlínský kraj, stavbyvedoucí # kratký popis, max 160 znaků
+  ob:			  +420 775 047 374
 mail:
 - jaroslav.takac@pirati.cz
 profiles:
