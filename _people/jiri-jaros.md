@@ -7,7 +7,8 @@ category:                   # kategorie: clenove
 - clenove
 
 img: people/jiri-jaros.png   # 165 x 220
-description: radní Zlína, 3. místopředseda KS Zlínský kraj, IT technik # kratký popis, max 160 znaků
+description: 3. místopředseda KS Zlínský kraj, radní Zlína, IT technik # kratký popis, max 160 znaků
+mob:			  +420 724 646 710
 mail:
 - jiri.jaros@pirati.cz
 profiles:
