@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - zastupitele
 
 img: people/jaromir-slezak.png   # 165 x 220
-description: Zastupitel Vizovic,  # kratký popis, max 160 znaků
+description: Zastupitel Vizovic, disponent zahraniční kamionové dopravy  # kratký popis, max 160 znaků
 mail:
 - jaromir.slezak@pirati.cz
 profiles:
