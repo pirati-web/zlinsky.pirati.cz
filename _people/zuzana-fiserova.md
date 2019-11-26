@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - zastupitele
 
-img: people/zuzana-fiserova.jpg   # 165 x 220
+img: people/zuzana-fiserova.png   # 165 x 220
 description: zastupitelka Zlína, ekonomka # kratký popis, max 160 znaků
 mail:
 - zuzana.fiserova@pirati.cz
