@@ -32,7 +32,7 @@ layout: default
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#zastupitele" class="c-simple-accordion-title">Zastupitelé</a>
                     <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
-                      {% assign team = site.people | where_exp:"item","item.categories contains 'zastupitele'" %}
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'zastupitele'"  | sort:"ordzas" %}
                       {% include people/list-2col.html param=team %}
                     </div>
                   </li>
