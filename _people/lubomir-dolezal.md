@@ -7,7 +7,7 @@ category:                   # kategorie: celnove
 - zastupitele
 
 img: people/lubomir-dolezal.jpg   # 165 x 220
-description: Zastupitel Stupavy, rozpočtář # kratký popis, max 160 znaků
+description: zastupitel Stupavy, rozpočtář # kratký popis, max 160 znaků
 mail:
 - lubomir.dolezal@pirati.cz
 profiles:
