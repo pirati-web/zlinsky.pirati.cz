@@ -28,6 +28,15 @@ layout: default
                     </div>
                   </li>
                 </ul>
+                  <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#zastupitele" class="c-simple-accordion-title">Zastupitelé</a>
+                    <div id="zastupitele" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'zastupitele'" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#clenove" class="c-simple-accordion-title">Všichni členové</a>
@@ -37,6 +46,7 @@ layout: default
                     </div>
                   </li>
                 </ul>
+               
               </div>
             </div>
           </div>
