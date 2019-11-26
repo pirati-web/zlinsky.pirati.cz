@@ -4,13 +4,15 @@ name:     Lucie Malíková  	# běžně používáné jméno
 fullname: Lucie Malíková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pms
 
 img: people/lucie-malikova.jpg   # 165 x 220
-description: student ekonomiky a podnikání # kratký popis, max 160 znaků
+description: předsedkyně MS Valašské Mezičíří, student ekonomiky a podnikání # kratký popis, max 160 znaků
 mail:
 - lucie.malikova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/ghostinafuego.malikova
+ordpms: 4  
 ---
 
 Lucie Malíková (*3. června 1998, Olomouc) je momentálně na mateřské dovolené a přípravuje se na studium Ekonomiky a podnikání.
