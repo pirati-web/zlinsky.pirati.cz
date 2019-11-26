@@ -5,6 +5,7 @@ fullname: Jiří Jaroš  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - pks
 - clenove
+- zastupitele
 
 img: people/jiri-jaros.png   # 165 x 220
 description: 3. místopředseda KS Zlínský kraj, radní Zlína, IT technik # kratký popis, max 160 znaků
