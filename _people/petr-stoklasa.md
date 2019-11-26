@@ -12,7 +12,7 @@ mail:
 - petr.stoklasa@pirati.cz
 profiles:
   facebook: https://www.facebook.com/petr.stoklasa.7
-ordzas: 1    		  
+ordzas: 2    		  
 ---
 
 Petr Stoklasa (*18. srpna 1980, Přílepy) je Pirátem celý život. Má rodinu, pro kterou by chtěl lepší budoucnost v zemi, kde budou rádi žít. V roce 2018 byl zvolen zastupitelem města Kroměříž.
