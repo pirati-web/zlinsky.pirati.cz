@@ -18,7 +18,7 @@ profiles:
 ordpks: 1  
 ---
 
-Vratislav Krejčíř (2. 3. 1982 je celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
+Vratislav Krejčíř (*2. 3. 1982, Kroměříž) je celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
 
 Jeho profesní život se celou dobu točí kolem moderních technologií, které ho baví, a tak nějak “pronásledují”. V posledním zaměstnání byl šéfem divize eMobility v jedné soukromé kroměřížské společnosti, která se snaží prostřednictvím rozvoje elektromobility v České republice přispět k lepšímu a čistšímu životnímu prostředí. V soukromí je tak trochu Jedi (hrdý otec) a spolu se svou ženou vychovává 2 malé padavany (děti) ;-)
 
