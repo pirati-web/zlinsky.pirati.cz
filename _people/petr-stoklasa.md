@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - zastupitele
 
 img: people/petr-stoklasa.jpg   # 165 x 220
-description: zastupitel Kroměříže, obchodník a hrdý otec # kratký popis, max 160 znaků
+description: zastupitel Kroměříže, obchodník a hrdý otec           # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
 profiles:
