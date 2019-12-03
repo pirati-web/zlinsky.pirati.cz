@@ -5,7 +5,7 @@ title: 'Dvě ženy a tři muži, Piráti ve Zlínském kraji znají čelo krajsk
 date: 2019-12-03
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/ČELO.jpg 
+image: /assets/img/posts/ČELO.png
 tags: 'zlinsky-kraj krajke-volby hana-ancincova jiri-jaros denis-rychtar jakub-zach zuzana-fiserova'
 ---
 
