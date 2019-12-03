@@ -15,7 +15,7 @@ Piráti si prostřednictvím internetového hlasování vybrali z více než pat
 
 Nově vzniklý tým pro krajské volby pozitivně zhodnotila také již dříve zvolená lídryně **Hana Ančincová**: *„Jsou to kvalitní kandidáti a lidé na pravém místě. Věřím, že práce s tímto odborným týmem nám otevírá cestu ke spolupráci napříč všemi důležitými tématy.“*
 
-Dvojkou pirátské kandidátky se stal **Jiří Jaroš**. *„Jako garant krajského expertního týmu pro oblast se chci zejména zabývat otázkou digitalizace a přebytečnou byrokracií. V krajském zastupitelstvu se chci zaměřit také na lepší čerpání dotací z Evropské Unie,“* uvedl po svém zvolení zlínský radní.
+Dvojkou pirátské kandidátky se stal **Jiří Jaroš**. *„Jako garant krajského expertního týmu pro oblast IT se chci zejména zabývat otázkou digitalizace a přebytečnou byrokracií. V krajském zastupitelstvu se chci zaměřit také na lepší čerpání dotací z Evropské Unie,“* uvedl po svém zvolení zlínský radní.
 
 Z třetího místa bude kandidovat zastupitel z Valašského Meziříčí **Denis Rychtar**, který ke své kandidatuře dodává: *„Díky mé dlouholeté práci v oblasti životního prostředí se chci zasadit zejména o lepší adaptaci na změnu klimatu a boj se suchem, například prostřednictvím obnovy lužních lesů. Důležitá bude pro mě také práce ve výboru pro rozvoj venkova.“*
 
