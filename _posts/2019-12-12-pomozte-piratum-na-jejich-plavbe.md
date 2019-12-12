@@ -14,6 +14,6 @@ Demokracie zažívá těžké časy. Aby mohla uspět, nepotřebuje spasitele a 
 
 Nejlepším způsobem darování je převod přímo na transparentní účet. Veškeré platby převodem je dle zákona nutné zasílat na zvláštní účet Pirátů č. **2100048174/2010** (Fio banka), registrovaný u ÚDHPSH, se specifickým symbolem **110500**.
 
-Pokud jste fyzická osoba nepodnikatel prosíme vás o uvedení **jména, příjmení, data narození a obce trvalého bydliště**. Pakliže jste podnikatel či právnická osoba uveďte název firmy nebo IČO. POZOR! **Při neuvedení** těchto **údajů** jsme povinni váš dar **převést státu!**
+Pokud jste fyzická osoba nepodnikatel, prosíme vás o uvedení **jména, příjmení, data narození a obce trvalého bydliště**. Pakliže jste podnikatel či právnická osoba uveďte název firmy nebo IČO. POZOR! **Při neuvedení** těchto **údajů** jsme povinni váš dar **převést státu!**
 
 Dar přesahující 1000 Kč můžeme přijmout pouze na základě písemné darovací smlouvy. V takovém případě, prosím, zašlete vaše údaje na [yveta.martinkova@pirati.cz](yveta.martinkova@pirati.cz) a my vám nejprve pošleme návrh darovací smlouvy.
