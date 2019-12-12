@@ -8,7 +8,7 @@ authorId: jaromir.horky
 image: /assets/img/posts/vanoce.jpg
 tags: 'zlinsky-kraj krajske-volby dary'
 ---
-Demokracie zažívá těžké časy. Aby mohla uspět, nepotřebuje spasitele a lhostejnou veřejnost, ale především občany, kteří se zajímají a účastní politiky. Zapojte se i vy! Pokud chcete přímo ovlivňovat politiku Pirátů, můžete se stát příznivcem nebo členem. Pokud nemáte čas nebo chuť, můžete nás podpořit alespoň finančně. S každou stokorunou, kterou nám pošlete, naložíme hospodárně jako nikdo jiný. A navíc nám pomůžete porazit holding v krajských volbách. Nadělte si dobrý pocit a přispějte proti načerpaným dotačním miliardám pár poctivými stokorunami. Svoboda se nedá koupit, ale udržet ji něco stojí. Děkujeme! Vaši Piráti.
+Demokracie zažívá těžké časy. Aby mohla uspět, nepotřebuje spasitele a lhostejnou veřejnost, ale především občany, kteří se zajímají a účastní politiky. Zapojte se i vy! Pokud chcete přímo ovlivňovat politiku Pirátů, můžete se stát příznivcem nebo členem. Pokud nemáte čas nebo chuť, můžete nás podpořit alespoň finančně. S každou stokorunou, kterou nám pošlete, naložíme hospodárně jako nikdo jiný. A navíc nám pomůžete prorazit krajských volbách. Nadělte si dobrý pocit a přispějte proti načerpaným dotačním miliardám pár poctivými stokorunami. Svoboda se nedá koupit, ale udržet ji něco stojí. Děkujeme! Vaši Piráti.
 
 **Jak přispět:**
 
