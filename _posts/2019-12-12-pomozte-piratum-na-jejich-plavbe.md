@@ -12,6 +12,6 @@ Demokracie zažívá těžké časy. Aby mohla uspět, nepotřebuje spasitele a 
 
 **Jak přispět:**
 
-okud jste fyzická osoba nepodnikatel prosíme vás o uvedení **jména, příjmení, data narození a obce trvalého bydliště**. Pakliže jste podnikatel či právnická osoba uveďte název firmy nebo IČO. POZOR! **Při neuvedení** těchto **údajů** jsme povinni váš dar **převést státu!**
+Pokud jste fyzická osoba nepodnikatel prosíme vás o uvedení **jména, příjmení, data narození a obce trvalého bydliště**. Pakliže jste podnikatel či právnická osoba uveďte název firmy nebo IČO. POZOR! **Při neuvedení** těchto **údajů** jsme povinni váš dar **převést státu!**
 
 Dar přesahující 1000 Kč můžeme přijmout pouze na základě písemné darovací smlouvy. V takovém případě, prosím, zašlete vaše údaje na [yveta.martinkova@pirati.cz](yveta.martinkova@pirati.cz) a my vám nejprve pošleme návrh darovací smlouvy.
