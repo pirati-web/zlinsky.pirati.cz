@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pomozte Pirátům na jejich platbě'
+title: 'Pomozte Pirátům na jejich plavbě'
 date: 2019-12-12
 author: Jaromír Horký
 authorId: jaromir.horky
