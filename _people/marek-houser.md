@@ -5,7 +5,6 @@ fullname: Marek Houser  	# jméno s tituly etc.
 category:                 # kategorie
 - pks
 - clenove
-- kontakt
 - pms
 img: people/marek-houser.jpg   # 165 x 220
 description: 1. místopředseda KS Zlínský kraj, předseda MS Uherské Hradiště, marketingový specialista         	# kratký popis, max 160 znaků
