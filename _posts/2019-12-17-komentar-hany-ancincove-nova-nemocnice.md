@@ -5,7 +5,7 @@ title: 'Komentář Hany Ančincové: Nová krajská nemocnice'
 date: 2019-12-17
 author: Hana Ančincová
 authorId: hana.ancincova
-image: /assets/img/posts/nemonicezlin.jpg
+image: /assets/img/posts/nemonicnicezlin.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova nemocnice'
 ---
 
