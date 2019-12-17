@@ -7,16 +7,14 @@ category:                   # kategorie: clenove
 
 
 img: people/hana-ancincova.jpg   # 165 x 220
-description: finanční kontrolor # kratký popis, max 160 znaků
+description: finanční kontrolor, lídr pro krajské volby # kratký popis, max 160 znaků
 mail:
 - hana.ancincova@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/hanka.ancincova
+  facebook: https://www.facebook.com/hana.ancincova.piratka/
 ---
 
-Hana Ančincová (*18. srpna 1989, Vimperk) je členkou krajského sdružení Zlínského kraje. Velkou část svého života bydlela v Kroměříži, ale od roku 2015 přesídlila do Hulína. V místním sdružení Piráti Kroměříž se stará o administrativní záležitosti.
-
-Vystudovala obor Finance a právo na Ekonomicko-správní fakultě v Brně. V současné době studuje obor Bezpečnostní technologie, systémy a management na Fakultě aplikované informatiky Univerzity Tomáše Bati ve Zlíně.
+Hana Ančincová (*18. srpna 1989, Vimperk) je členkou kontrolního výboru města Kroměříže. Profesně se  zabývá racionalizací a optimalizací finančních procesů a finančním controllingem. Po absolvování studia v oboru Finance a právo si rozšiřuje své vzdělání magisterským studiem na UTB ve Zlíně v oboru  Bezpečnostní technologie, systémy a management a také v rámci studia Veřejná správa na Právnické fakultě MUNI. Ve volném čase se věnuje pořádání osvětových činností v rámci životního prostředí a vzhledem ke své profesní specializaci i v oblasti finanční gramotnosti. Za klíčové považuje řešit oblast zdravotnictví s ohledem na transparentní hospodaření nemocnic, stabilní personální politiku a sjednocení informačních systémů. Plánuje se zaměřit také na finanční hospodaření, životní prostředí a neziskový sektor. Jejím cílem je propojení všech segmentů kraje v dobře fungující celek, snižování asymetrie informací mezi krajem a občanem. Chce vybudovat ze Zlínského kraje kraj nové generace.
 
 Jako milovnice přírody se snaží bojovat za její ochranu, aktivně se snaží o zero waste přístup. Finančně podporuje http://zatoulanestesti.cz/
 
