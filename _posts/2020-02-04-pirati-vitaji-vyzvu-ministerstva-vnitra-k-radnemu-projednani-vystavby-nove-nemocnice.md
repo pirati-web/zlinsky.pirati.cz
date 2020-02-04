@@ -8,7 +8,7 @@ authorId: jaromir.horky
 image: /assets/img/posts/nemonicnicezlin.jpg
 tags: 'zlinsky-kraj nemocnice hana-ancincova frantisek-elfmark kromeriz vratislav-krejcir'
 ---
-Ministerstvo Vnitra v pondělí 3. února na základě stížnosti města Kroměříže vyzvalo Zlínský kraj k novému a řádnému projednání bodu výstavby nové nemocnice v Malenovicích. Piráti vítají rozhodnutí návratu obou varianta považují za důležité dodržovat politické dohody a předem dané procedury.
+Ministerstvo Vnitra v pondělí 3. února na základě stížnosti města Kroměříže vyzvalo Zlínský kraj k novému a řádnému projednání bodu výstavby nové nemocnice v Malenovicích. Piráti vítají rozhodnutí návratu obou variant a považují za důležité dodržovat politické dohody a předem dané procedury.
 
 Poté,co zcela nečekaně zařadil hejtman bod plánované nové krajské nemocnice se zvedla vlna nevole a strach, aby se tato situace nestalo modelovým příkladem pro další hlasování.
 *“Kvituji rozhodnutí Ministerstva vnitra. A to i z toho důvodu, že zařazení tak významného bodu, který vede k mnoha miliardové nemocnici by mohlo vytvořit  nepřijatelný precedent. A to prohlasovat takříkajíc cokoliv bez možnosti občanů vyjádřit se. Nyní se dostáváme zpět do fáze, kdy bychom měli dostat relevantní informace ke kvalifikovanému rozhodnutí - opravit, či stavět,”* říká kandidátka na hejtmanku Zlínského kraje za Piráty Hana Ančincová.
