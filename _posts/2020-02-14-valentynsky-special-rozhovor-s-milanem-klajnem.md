@@ -33,7 +33,7 @@ Nevím, co se počítá za nezvyklé místo. Převážně v letních měsících
 
 **A utekla někdy nevěsta od oltáře? :)**
 
-To naštěstí ne. Ani náznaky něčeho podobného jsem nezaregistroval. Většina obřadů proběhne v milé a pohodové atmosféře. Pravda, nevěsty bývají nervózní a dvě už jsem tak trochu křísil, ale vše (snad :-D) nakonec dobře dopadlo. Chápu je. Je to den D a pro mne je vždy ctí, že mohu být, byť krátce, součástí tak důležitého okamžiku. Musím přiznat, že jednou jsem měl dilema, zda dotyčný pár oddat. Byly to údajně mladí lidé bez domova. Vše, včetně svatebních hostů a svědků tomu nasvědčovalo. Vstup do manželství není jen změna stavu a někdy i příjmení. Manželství je mimo jiné i společenským a právním závazkem. Proto přeji všem manželům, které jsem měl tu čest oddat, aby měli na jejich svatební obřad ty nejlepší vzpomínky a nikdy rozhodnutí vstoupit do manželství nelitovali.
+To naštěstí ne. Ani náznaky něčeho podobného jsem nezaregistroval. Většina obřadů proběhne v milé a pohodové atmosféře. Pravda, nevěsty bývají nervózní a dvě už jsem tak trochu křísil, ale vše (snad :-D) nakonec dobře dopadlo. Chápu je. Je to den D a pro mne je vždy ctí, že mohu být, byť krátce, součástí tak důležitého okamžiku. Musím přiznat, že jednou jsem měl dilema, zda dotyčný pár oddat. Byli to údajně mladí lidé bez domova. Vše, včetně svatebních hostů a svědků tomu nasvědčovalo. Vstup do manželství není jen změna stavu a někdy i příjmení. Manželství je mimo jiné i společenským a právním závazkem. Proto přeji všem manželům, které jsem měl tu čest oddat, aby měli na jejich svatební obřad ty nejlepší vzpomínky a nikdy rozhodnutí vstoupit do manželství nelitovali.
 
 ![Milan Klajn](https://zlinsky.pirati.cz/assets/img/posts/valentyn3.jpg)
 
