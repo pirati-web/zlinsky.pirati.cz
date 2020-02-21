@@ -4,6 +4,7 @@ name:     Michal Štěpaník  	# běžně používáné jméno
 fullname: Michal Štěpaník  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- zastupitele
 
 img: people/michal-stepanik.jpg   # 165 x 220
 description: elektrotechnik # kratký popis, max 160 znaků
@@ -12,7 +13,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/stepanik.michal
 ---
-Michal Štěpaník (*27. října 1978, Zlín) je členem Kontrolního výboru města Napajedla, členem MS Piráti Zlín.
+Michal Štěpaník (*27. října 1978, Zlín) je členem Kontrolního výboru města Napajedla, členem MS Piráti Zlín a od února 2020 zastupitelem Napajedel.
 
 Žije v Napajedlích, vystudoval ISŠ Otrokovice obor mechanik-elektronik. Od roku 2000 je zaměstnán v Continental Barum jako elektrotechnik.
 
