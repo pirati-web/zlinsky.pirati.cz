@@ -9,7 +9,7 @@ category:                 # kategorie
 - zastupitele
 
 img: people/frantisek-elfmark.png   # 165 x 220
-description: 2. místopředseda KS Zlínský kraj, pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
+description: 1. místopředseda KS Zlínský kraj, pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
 mob:			  +420 604 171 281
 mail:
 - frantisek.elfmark@pirati.cz
@@ -17,7 +17,7 @@ profiles:
   facebook: https://www.facebook.com/FrantisekElfmark.DiS/
   linkedin: https://www.linkedin.com/in/frantisek-elfmark/
   twitter: http://twitter.com/ElfmarkF
-ordpks: 3
+ordpks: 2
 ordzas: 12
 ---
 
