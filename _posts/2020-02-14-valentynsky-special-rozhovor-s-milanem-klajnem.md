@@ -37,4 +37,6 @@ To naštěstí ne. Ani náznaky něčeho podobného jsem nezaregistroval. Větš
 
 ![Milan Klajn](https://zlinsky.pirati.cz/assets/img/posts/valentyn3.jpg)
 
+*autorem fotografie je https://www.facebook.com/Jiri.zPolnaku.cz
+
 ---
