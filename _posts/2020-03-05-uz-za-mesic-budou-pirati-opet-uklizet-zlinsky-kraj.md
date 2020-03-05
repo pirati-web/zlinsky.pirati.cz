@@ -18,7 +18,7 @@ Hlavní termín letošní akce je v sobotu 4. dubna, řada úklidů se však usk
  
 **[Zlín](https://www.facebook.com/events/128043768550102/){:target="_blank"}**:
 
-Ve Zlíně se tentokrát bude uklízet ve velkém! Piráti spolu s komunitní zahradou KOZA z. s. budou uklízet v centrálním parku na Jižních Svazích a v jeho okolí. Sraz mají v 9 hodin v hlavní úklidový den 4. dubna před Komunitní zahradou v centrálním parku. *„Úklidových akcí se jako Piráti účastníme již tradičně. Komunitní zahrada se letos účastní poprvé. Jako člen komunitní zahrady a Pirát jsem měl dilema, které se naštěstí podařilo vyřešit spojením dvou týmů úklidu. Cílem akce je kromě společného úklidu i setkání lidí z (nejen) Jižních Svahů ve Zlíně, ale také snaha o navázání dobrých lidských a sousedských vztahů,”* říká pirátský zastupitel **Milan Klajn**, který tento úklid zaštiťuje.
+Ve Zlíně se tentokrát bude uklízet ve velkém! Piráti budou uklízet v centrálním parku na Jižních Svazích a v jeho okolí. Sraz mají v 9 hodin v hlavní úklidový den 4. dubna před Komunitní zahradou v centrálním parku. *„Úklidových akcí se jako Piráti účastníme již tradičně. Komunitní zahrada se letos účastní poprvé. Cílem akce je kromě společného úklidu i setkání lidí z (nejen) Jižních Svahů ve Zlíně, ale také snaha o navázání dobrých lidských a sousedských vztahů,”* říká pirátský zastupitel **Milan Klajn**, který tento úklid zaštiťuje.
 
 **[Kroměříž](https://www.facebook.com/events/544968026119416/){:target="_blank"}**:
 
