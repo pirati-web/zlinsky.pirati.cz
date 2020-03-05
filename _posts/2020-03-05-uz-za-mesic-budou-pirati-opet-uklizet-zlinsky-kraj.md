@@ -40,7 +40,7 @@ Ve Vizovicích se Piráti setkají v hlavním úklidovém termínu v 9 hodin na 
 
 Poslední jarní úklidová akce se uskuteční 18. dubna ve Valašském Meziříčí, kde se Piráti po konzultaci s občany vydají uklízet okolí řeky Bečvy a Huťského lesíku. *„V 10 hodin ráno se sejdeme u Kapličky sv. Rocha hned vedle hospůdky Přístav. Zúčastněné bych po úklidu rád pozval někam na oběd za odměnu,”* dodal k úklidu zastupitel z Valašského Meziříčí **Denis Rychtar**, který má úklid na starost.
 
-Mapu všech úklidů naleznete zde: https://www.uklidmecesko.cz/map/
+Mapu všech úklidů naleznete [zde](https://www.uklidmecesko.cz/map/){:target="_blank"}
 
-Rozcestník pirátských úklidů zde: https://www.facebook.com/events/3174972639394983/
+Rozcestník pirátských úklidů [zde](https://www.facebook.com/events/3174972639394983/){:target="_blank"}
 
