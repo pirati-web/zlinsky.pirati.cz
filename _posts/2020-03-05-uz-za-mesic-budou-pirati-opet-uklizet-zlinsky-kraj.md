@@ -24,7 +24,7 @@ Ve Zlíně se tentokrát bude uklízet ve velkém! Piráti spolu s komunitní za
 
 Piráti v Kroměříži vsadili na hlas lidu, sami totiž navrhovali a rozhodovali o místě úklidu. *„Zvítězila varianta úklidu cyklostezky u Kotojed ve směru na letiště a okolní cesty, potkáme se v 4. dubna v 9 hodin na začátku cyklostezky za Bagrákem ze směru od Kotojed,”* říká **kandidátka na hejtmanku Hana Ančincová**, která se organizaci úklidů pravidelně věnuje a dodává: „Motivace na úklid není třeba, beru to jako samozřejmost. Myslím si, že je to to nejmenší, co můžeme pro životní prostředí ve svém okolí udělat. Neustále od přírody bereme, alespoň někdy ji můžeme něco málo vrátit.”
 
-**Uherské Hradiště**:
+**[Uherské Hradiště](https://www.facebook.com/events/205870430495245/){:target="_blank"}**:
 
 Na úklid v čele s poslancem! Piráti z Uherského Hradiště se vydají uklízet na Výšinu svatého Metoděje přímo v centru města. *„Úklidu se v Uherském Hradišti účastním pravidelně a jsem velmi rád, že i díky naší osvětě, kterou se snažíme provádět, vnímá své okolí a čistotu okolí čím dál více lidí. Je to velmi pozitivní. Uklízet budeme okolí "Vykopávek", kde najdete jednu z nejhezčích vyhlídek na naše krásné město,”* říká poslanec **František Elfmark**, jenž se organizace úklidu zhostil. 
 
