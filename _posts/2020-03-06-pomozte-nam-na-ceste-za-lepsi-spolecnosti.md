@@ -28,7 +28,7 @@ Možností, jak se zapojit, je celá řada, můžete například:
 *	podpořit místní sdružení Pirátů v místě bydliště,
 *	stát se jednou/jedním z nás.
 
-##
+
 # Proč vlastně Pirátům pomáhat?
 * Protože jsme jediná moderní strana v republice.
 * Protože máme všichni stejný cíl.
