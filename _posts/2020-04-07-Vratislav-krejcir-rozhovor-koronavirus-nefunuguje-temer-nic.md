@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Vratislav Krejčíř: Nefunguje téměř nic. Dá se říct, že stát a kraj vše přehodil na města'
+title: 'Místostarosta Vratislav Krejčíř: Nefunguje téměř nic. Dá se říct, že stát a kraj vše přehodil na města'
 date: 2020-04-07
 author: Josef Indra
 authorId: josef.indra
