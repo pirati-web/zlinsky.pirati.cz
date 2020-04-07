@@ -5,7 +5,7 @@ title: 'Vratislav Krejčíř: Nefunguje téměř nic. Dá se říct, že stát a
 date: 2020-04-07
 author: Josef Indra
 authorId: josef.indra
-image: /assets/img/posts/rozhovorvrata.jpg
+image: /assets/img/posts/rozhovorvrata.png
 tags: 'zlinsky-kraj kromeriz vratislav-krejcir koronavirus'
 ---
 Piráti mají v Kroměříži svého místostarostu. Mohou tak bezprostředně zasahovat do dění a z první ruky hodnotit akceschopnost vlády či kraje. Zeptali jsme se proto místostarosty Vratislava Krejčíře, jak si město Kroměříž v době koronavirové pandemie stojí? Jak hodnotí práci vlády a Zlínského kraje?
