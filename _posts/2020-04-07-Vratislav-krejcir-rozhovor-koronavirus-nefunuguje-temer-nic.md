@@ -8,7 +8,7 @@ authorId: josef.indra
 image: /assets/img/posts/rozhovorvrata.png
 tags: 'zlinsky-kraj kromeriz vratislav-krejcir koronavirus'
 ---
-Piráti mají v Kroměříži svého místostarostu. Mohou tak bezprostředně zasahovat do dění a z první ruky hodnotit akceschopnost vlády či kraje. Zeptali jsme se proto místostarosty Vratislava Krejčíře, jak si město Kroměříž v době koronavirové pandemie stojí? Jak hodnotí práci vlády a Zlínského kraje?
+Vláda ČR pod vedením Andreje Babiše každý den v médiích ubezpečuje, jak je situace v naší zemi pod kontrolou a jak se jejím přičiněním podařilo všechny počáteční komplikace eliminovat. Opak je pravdou. O tom, jak se ministerstva zbavují jakékoliv zodpovědnosti za žalostný stav v regionech, ví své i pirátský místostarosta Kroměříže Vratislav Krejčíř. V rozhovoru mluví o tom, jak může město efektivně bojovat s pandemií, jakou cenu má v době krize lidský charakter a jakých úspěchů lze dosáhnout, když na radnici funguje schopný tým.
 
 **Mohl bys nám popsat, jaké kroky město Kroměříž podniklo na počátku boje proti koronaviru?**
 
