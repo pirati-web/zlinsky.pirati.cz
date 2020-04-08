@@ -13,5 +13,4 @@ mail:
 - miroslav.sirina@pirati.cz
 profiles:
   facebook: https://www.facebook.com/mireko
-ordpms: 1
 ---
