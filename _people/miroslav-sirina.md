@@ -4,7 +4,6 @@ name:     Miroslav Šiřina  	# běžně používáné jméno
 fullname: Miroslav Šiřina  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
-- pms
 
 img: people/mirek-sirina.jpg   # 165 x 220
 description: předseda MS Zlín, OSVČ # kratký popis, max 160 znaků
