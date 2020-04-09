@@ -25,6 +25,6 @@ Podání žádosti je velmi jednoduché a bude probíhat online. Stačí ji vypl
 
 *„Aby bylo podání co nejjednodušší pořídili jsme na přechodnou dobu systém pro sběr a vyhodnocování těchto žádostí, který později můžeme využít pro jiné dotační výzvy a podporu. Nechceme nikoho nutit chodit na úřad, vše si může tedy vyřídit z pohodlí domova,“* říká **Vratislav Krejčíř**. Kandidátka na hejtmanku a členka kontrolního výboru města **Hana Ančincová** dodává: *„Aktivita města Kroměříže je v tomto ohledu více než chvályhodná. Nicméně bych byla nerada, aby obce a města suplovaly role vyšších územních samosprávných celků a státu, jelikož jim kvůli vyšším výdajům v době krize pochybí peníze na další projekty.”* 
 
-Podání žádostí bude probíhat online na této adrese:https://kromeriz.grantys.cz od 20. 4. do 4. 5. 2020 k dispozici bude technická podpora po telefonu v obvyklé pracovní době.
+Podání žádostí bude probíhat online od 20. 4. do 4. 5. 2020 k dispozici bude technická podpora po telefonu v obvyklé pracovní době.
 
 ---
