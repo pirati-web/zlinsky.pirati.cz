@@ -13,14 +13,6 @@ S ohledem na aktuální krizovou situaci vyvolanou šířením koronaviru SARS-C
 Poté co město Kroměříž odložilo nájem podnikatelům, kteří mají svou provozovnu v nebytových prostorech města, přišli radní s programem na podporu i ostatních živnostníků. *„Nebylo by férové nepodpořit ostatní podnikatele jen proto, že mají svůj prostor v pronájmu od soukromníka. Problémy teď mají všichni. Chceme proto jako město dokázat, že si našich podnikatelů vážíme a pomůžeme jim,“* říká místostarosta **Vratislav Krejčíř**.
 V souvislosti s opatřeními vlády, která znemožňují řadě podnikatelů vykonávání jejich profese, navrhl pirátský místostarosta ve spolupráci s radou města program na podporu živnostníků. Každý zasažený podnikatel si bude moci zažádat jednorázově o podporu ve výši 20 tisíc korun.
 
-### Podmínky pro dosáhnutí žádosti:
-*	Nájem v provozovně na území Kroměříže a městských částí.
-*	Nájemní smlouva musí být uzavřena minimálně na rok a před datem 14. 3. 2020.      
-*	Náklady na nájemné se počítají bez záloh na energie a ostatní služby.
-*	Žadatel nesmí mít provozovnu v nebytových prostorách města Kroměříže nebo jeho organizací. 
-*	Žadatel nesmí mít nesplacené závazky vůči městu Kroměříž. 
-*	Podnikatelskou činnost musí provozovat před 14. 3. 2020.
-
 Podání žádosti je velmi jednoduché a bude probíhat online. Stačí ji vyplnit, potvrdit čestné prohlášení a přiložit kopii nájemní smlouvy s dokladem o zaplacení nájemného před 30. 3. 2020. 
 
 *„Aby bylo podání co nejjednodušší pořídili jsme na přechodnou dobu systém pro sběr a vyhodnocování těchto žádostí, který později můžeme využít pro jiné dotační výzvy a podporu. Nechceme nikoho nutit chodit na úřad, vše si může tedy vyřídit z pohodlí domova,“* říká **Vratislav Krejčíř**. Kandidátka na hejtmanku a členka kontrolního výboru města **Hana Ančincová** dodává: *„Aktivita města Kroměříže je v tomto ohledu více než chvályhodná. Nicméně bych byla nerada, aby obce a města suplovaly role vyšších územních samosprávných celků a státu, jelikož jim kvůli vyšším výdajům v době krize pochybí peníze na další projekty.”* 
