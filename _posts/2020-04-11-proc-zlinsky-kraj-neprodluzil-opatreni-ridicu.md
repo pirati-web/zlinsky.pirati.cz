@@ -18,7 +18,6 @@ Zlínský spolek přátel dopravy se vůči tomuto kroku kraje [ohradil](https:/
 
 * nástup do vozidla středními či zadními dveřmi, nástup předními dveřmi je zakázán. 
 * při vstupu a při průběhu jízdy bude mít cestující zakrytá ústa a nos ochrannými prostředky (rouška/šála/šátek, apod.)
-* cestující vystupuje středními či zadními dveřmi.
 
 Zdraví našich řidičů a cestujících musí být prioritou, proto by nejpřísnější opatření na jejich ochranu měla trvat po dobu nouzového stavu.
 Pevně věřím tomu, že pozitivem, které ze současného stavu vytěžíme, bude elektronická jízdenka a bezhotovostní úhrady za jízdné. 
