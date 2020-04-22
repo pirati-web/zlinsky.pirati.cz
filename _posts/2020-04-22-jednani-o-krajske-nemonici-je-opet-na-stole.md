@@ -5,7 +5,7 @@ title: 'Jednání o nové krajské nemocnici je opět na stole. Mezi odbory a ve
 date: 2020-04-11
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/nemocnicezlin.jpg
+image: /assets/img/posts/kntb.jpg
 tags: 'zlinsky-kraj nemocnice  hana-ancincova'
 ---
 
