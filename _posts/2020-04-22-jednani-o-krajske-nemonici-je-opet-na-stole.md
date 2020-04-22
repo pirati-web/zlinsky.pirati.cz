@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Jednání o nové krajské nemocnici je opět na stole. Mezi odbory a vedením to vře.'
+title: 'Jednání o nové krajské nemocnici je opět na stole. Mezi odbory a vedením to vře'
 date: 2020-04-11
 author: Jaromír Horký
 authorId: jaromir.horky
