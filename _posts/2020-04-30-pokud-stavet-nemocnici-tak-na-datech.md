@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Pokud stavět nemocnici, tak na datech!'
-date: 2020-04-31
+date: 2020-04-30
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/stavet.png
