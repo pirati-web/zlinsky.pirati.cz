@@ -8,7 +8,7 @@ authorId: Hana Ančincová
 image: /assets/img/posts/prehrady.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova sucho'
 ---
-Poslední roky trápí Českou republiku extrémní sucho, které tady už 500 let nebylo. Jakmile se problém s nedostatkem vody vynoří, začnou jako houby po dešti růst i plány na budování nových přehrad. Srážek však rapidně ubývá, a takse  bez vody ocitá i řada nádrží.
+Poslední roky trápí Českou republiku extrémní sucho, které tady už 500 let nebylo. Jakmile se problém s nedostatkem vody vynoří, začnou jako houby po dešti růst i plány na budování nových přehrad. Srážek však rapidně ubývá, a tak se  bez vody ocitá i řada nádrží.
 
 Stavba velkých vodních děl se v budoucnu bohužel dotkne i Zlínského kraje.  Zelenou už dostala stavba přehrady ve Vlachovicích a Ministerstvo zemědělství v pondělí oznámilo dalších [31 míst](https://www.idnes.cz/ekonomika/domaci/toman-sucho-voda-nadrze.A200511_100244_ekonomika_ven/foto/VEN834c00_mapa1.PNG){:target="_blank"} po celé republice, kde se mají přehrady stavět. V současnosti je v tzv. generelu lokalit pro akumulaci povrchových vod 65 míst. U přehrad to však nekončí. Zlínského kraje by se dotkl i plánovaný kanál Dunaj-Odra-Labe. Jsou místa, kde má budování přehrad smysl, ale musí se opravdu důsledně zvážit dopady tak velkého zásahu do krajiny. 
 
