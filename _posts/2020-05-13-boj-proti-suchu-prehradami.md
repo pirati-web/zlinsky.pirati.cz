@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Bojovat proti suchu přehradami? Ne, raději zadržujme vodu v krajině, říká v komentáři Hana Ančincová'
 date: 2020-05-13
-author: hana Ančincová
+author: Hana Ančincová
 authorId: Hana Ančincová
 image: /assets/img/posts/prehrady.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova sucho'
@@ -14,7 +14,7 @@ Stavba velkých vodních děl se v budoucnu bohužel dotkne i Zlínského kraje.
 
 Voda je zapotřebí v krajině, ne v nádržích. Naše toky jsme si sami za posledních 100 let zkrátili o plnou třetinu. Přirozeně meandrující řeky se přeměnily v napřímené kanály. Voda rychle protéká, aniž by měla čas se do okolní krajiny vsáknout. Tři poslední zbytky lužních lesů a luk na Moravě při záplavách v roce 1997 zadržely podle ekologů [třikrát víc vody než všechny přehrady v povodí Moravy a Odry dohromady](https://ekolist.cz/cz/publicistika/priroda/letosni-rok-ukazal-ze-prehrady-a-rybniky-jako-ochrana-pred-suchem-nefunguji){:target="_blank"}.
 
-Meliorací, zrušením remízků, mezí a špatným hospodařením s půdou vodu ženeme rovnými betonovými či kamennými koryty co nejrychleji pryč od nás. Masivní zásahy do krajiny jsou jednou z příčin současné situace. Přehrady nejsou řešením problému, jsou jeho součástí. Vodu je třeba zadržet v krajině, to žádná další betonová monstra nespasí.
+Meliorací, zrušením remízků, mezí a špatným hospodařením s půdou, vodu ženeme rovnými betonovými či kamennými koryty, co nejrychleji pryč od nás. Masivní zásahy do krajiny jsou jednou z příčin současné situace. Přehrady nejsou řešením problému, jsou jeho součástí. Vodu je třeba zadržet v krajině, to žádná další betonová monstra nespasí.
 
 Jako Piráti podporujeme retenční schopnost krajiny přirozenou cestou tj. zadržení vody v krajině pomocí remízků, lužních lesů, slepých ramen, tůní a suchých poldrů. Našim cílem je vytvořit dostatek nových drobných vodních prvků, které nám do budoucna významně pomohou v boji se suchem. 
 
