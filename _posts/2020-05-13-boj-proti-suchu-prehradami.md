@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Bojovat proti suchu přehradami? Ne, raději zadržujme vodu v krajině, říká v komentáři Hana Ančincová'
-date: 2020-04-30
+date: 2020-05-13
 author: hana Ančincová
 authorId: Hana Ančincová
 image: /assets/img/posts/prehrady.jpg
