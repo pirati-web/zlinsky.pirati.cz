@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Bojovat proti suchu přehradami? Ne, raději zadržujme vodu v krajině, říká v komentáři Hana Ančincová'
 date: 2020-05-13
 author: Hana Ančincová
-authorId: Hana Ančincová
+authorId: hana.ancincova
 image: /assets/img/posts/prehrady.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova sucho'
 ---
