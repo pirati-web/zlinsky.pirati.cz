@@ -5,7 +5,7 @@ title: 'Riziková těžba štěrkopísku na Uherskoostrožsku navzdory občanům
 date: 2020-05-20
 author: Jaromír Horký
 authorId: jaromir.hroky
-image: /assets/img/posts/tezbapisku.jpg
+image: /assets/img/posts/tezbapiskusterku.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova tezba'
 ---
 
