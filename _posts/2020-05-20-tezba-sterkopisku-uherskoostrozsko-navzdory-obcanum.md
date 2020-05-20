@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Riziková těžba štěrkopísku na Uherskoostrožsku navzdory občanům a obavám o pitnou vodu'
 date: 2020-05-20
 author: Jaromír Horký
-authorId: jaromir.hroky
+authorId: jaromir.horky
 image: /assets/img/posts/tezbapiskusterku.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova tezba'
 ---
