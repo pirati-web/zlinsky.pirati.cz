@@ -15,7 +15,7 @@ ordpks: 5
   
 ---
 
-Zdeněk Třos (*15. prosince 1981, Valašské Meziříčí) je členem Pirátské strany od roku 2017. Zdeněk pochází z Rožnova p.R., kde bydlí takřka celý život.
+Zdeněk Třos (*15. prosince 1981, Valašské Meziříčí) je členem Pirátské strany od roku 2017 a od jara 2020 4. místopředsedou Zlínského kraje. Zdeněk pochází z Rožnova p.R., kde bydlí takřka celý život.
 
 Vystudoval Hotelovou školu ve Frenštátě p.R. s ukončením maturitní zkoušky. V průběhu studia absolvoval různé gastronomické kurzy a úspěšně reprezentoval školu v sommeliérských, barmanských či číšnických soutěžích. Po střední škole studoval na jazykové škole Lion ve Frenštátě p.R. angličtinu. Poté na 3 měsíce odcestoval do UK na vzdělávací pobyt přes Totnes european school a pracoval tam i jako číšník.
 
