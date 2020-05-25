@@ -9,7 +9,7 @@ image: /assets/img/posts/hankabb.png
 tags: 'zlinsky-kraj hana-ancincova'
 ---
 
-Kandidátka na hejtmanku Zlínského kraje za Piráty Hana Ančincová se v otevřeným dopisem obrací na poslance ze Zlínského kraje kvůli hlasování o kompenzačním bonusu. Obává se, že by kvůli hlasování poslanců mohl přijít kraj a obce o miliardy korun. Spousta poslanců ze Zlínského kraje je zároveň komunálními či krajskými zastupiteli a zadlužené. Na dopady zákona o kompenzačním bonusu upozorňuje také sdružení měli by brát zřetel na obecní či krajské rozpočty, které jsou už nyní místních samospráv.
+Kandidátka na hejtmanku Zlínského kraje za Piráty Hana Ančincová se v otevřeným dopisem obrací na poslance ze Zlínského kraje kvůli hlasování o kompenzačním bonusu. Obává se, že by kvůli hlasování poslanců mohl přijít kraj a obce o miliardy korun. Spousta poslanců ze Zlínského kraje je zároveň komunálními či krajskými zastupiteli a měli by brát zřetel na obecní či krajské rozpočty, které jsou už nyní zadlužené. Na dopady zákona o kompenzačním bonusu upozorňuje také sdružení místních samospráv.
 
 Pokud poslanci schválí tuto právní kličku, tak město Zlín přijdepodle odhadů až o 66 milionů, Kroměříž bezmála 24 milionů, Uherské Hradiště 21milionů, Valašské Meziříčí 19 milionů a Zlínský kraj až 211 milionů korun.
 
