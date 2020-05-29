@@ -5,7 +5,7 @@ title: 'Poslanecké okénko: Květnová sněmovna očima Františka Elfmarka'
 date: 2020-05-29
 author: František Elfmark
 authorId: frantisek.elfmark
-image: /assets/img/posts/frantisekelf.jpg
+image: /assets/img/posts/poslaneckeokenko.jpg
 tags: 'zlinsky-kraj snemovna frantisek-elfmark'
 ---
 
