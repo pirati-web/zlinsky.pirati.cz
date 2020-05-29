@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Otevřený dopis Hany Ančincové poslancům Zlínského kraje- Neberte miliardy obcím a krajům'
+title: 'Otevřený dopis Hany Ančincové poslancům Zlínského kraje - Neberte miliardy obcím a krajům'
 date: 2020-05-25
 author: Jaromír Horký
 authorId: jaromir.horky
@@ -13,17 +13,17 @@ Kandidátka na hejtmanku Zlínského kraje za Piráty Hana Ančincová se v otev
 
 Pokud poslanci schválí tuto právní kličku, tak město Zlín přijdepodle odhadů až o 66 milionů, Kroměříž bezmála 24 milionů, Uherské Hradiště 21milionů, Valašské Meziříčí 19 milionů a Zlínský kraj až 211 milionů korun.
 
-Znění dopisu adresováno všem poslancům Zlínského kraje reaguje na hlasování osenátní vratce, které se bude projednávat v příštím týdnu na 49. schůziPoslanecké sněmovny Parlamentu České republiky:
+Znění dopisu adresováno všem poslancům Zlínského kraje reaguje na hlasování o senátní vratce, které se bude projednávat v příštím týdnu na 49. schůzi Poslanecké sněmovny Parlamentu České republiky:
 
 *Vážené poslankyně, vážení poslanci,*
 
-*ve zrychleném režimu byl prosazen kompenzační bonus,který slouží živnostníkům ke zmírnění dopadů koronavirové krize. Příspěvek jekoncipován jako vratka daně z příjmů fyzických osob ze závislé činnosti, kterápatří mezi sdílené daně. Výnosy ze sdílených daní putují nejen do státníhorozpočtu, ale i do rozpočtů obcí a krajů, ze které obce dostávají bezmála 24procent a kraje skoro 9.*
+*ve zrychleném režimu byl prosazen kompenzační bonus, který slouží živnostníkům ke zmírnění dopadů koronavirové krize. Příspěvek je koncipován jako vratka daně z příjmů fyzických osob ze závislé činnosti, která patří mezi sdílené daně. Výnosy ze sdílených daní putují nejen do státního rozpočtu, ale i do rozpočtů obcí a krajů, ze které obce dostávají bezmála 24 procent a kraje skoro 9.*
 
-*Dopady kompenzací by mohl změnit senátní návrh, kterýbudete Vy, vážené poslankyně a poslanci v následujícím týdnu ve sněmovněprojednávat. Tyto kompenzace jsou krokem správným směrem, ale měl by je platitstát nikoliv obce. A právě podle senátorského návrhu by se příspěvky živnostníkůmvyplácely ze státního rozpočtu.*
+*Dopady kompenzací by mohl změnit senátní návrh, který budete Vy, vážené poslankyně a poslanci v následujícím týdnu ve sněmovně projednávat. Tyto kompenzace jsou krokem správným směrem, ale měl by je platit stát nikoliv obce. A právě podle senátorského návrhu by se příspěvky živnostníkům vyplácely ze státního rozpočtu.*
 
-*Ministryně financí Alena Schillerová slíbila obcímpodporu masivními dotacemi, ale pokládám si otázku, zda není smysluplnějšínechat obcím tyto prostředky, ať je investují podle sebe? Stát vezme financeobcím a následně je bude vracet formou dotací, což je samo o sobě finančněnáročné a neefektivní. Jelikož nejdříve vláda ubezpečovala obce i kraje, že najejich rozpočty nedolehnou žádné restrikce a určené peníze jim zůstanou.Příspěvek jako takový považuji za správný nástroj, nesmí ale být na úkorsamospráv.*
+*Ministryně financí Alena Schillerová slíbila obcím podporu masivními dotacemi, ale pokládám si otázku, zda není smysluplnější obcím tyto prostředky, ať je investují podle sebe? Stát vezme finance obcím a následně je bude vracet formou dotací, což je samo o sobě finančněnáročné a neefektivní. Jelikož nejdříve vláda ubezpečovala obce i kraje, že na jejich rozpočty nedolehnou žádné restrikce a určené peníze jim zůstanou. Příspěvek jako takový považuji za správný nástroj, nesmí ale být na úkor samospráv.*
 
-*Mnozí z Vás jste nejenom poslanci, ale také obecní nebokrajští zastupitelé Zlínského kraje. Každý příjem je tak pro tyto samosprávy velmi důležitý a Vy tutoskutečnost jistě víte. Proto Vás touto formou vyzývám a prosím o odpověď nanásledující otázku:Podpoříte senátní verzi, která by ušetřila obcímmiliardy korun?*
+*Mnozí z Vás jste nejenom poslanci, ale také obecní nebo krajští zastupitelé Zlínského kraje. Každý příjem je tak pro tyto samosprávy velmi důležitý a Vy tutoskutečnost jistě víte. Proto Vás touto formou vyzývám a prosím o odpověď na následující otázku: Podpoříte senátní verzi, která by ušetřila obcím miliardy korun?*
 
 *Děkuji předem za odpověď.*
 
