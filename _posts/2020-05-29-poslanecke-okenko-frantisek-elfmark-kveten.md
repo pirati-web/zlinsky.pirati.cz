@@ -20,24 +20,6 @@ Bohužel moje pozměňovací návrhy na půdě Výboru pro životní prostředí
 Aktuálně nás trápí velký problém [sucha](https://www.frantisekelfmark.cz/prace-opatreni-eu-usnadni-vyuzivani-recyklovane-odpadni-vody-pro-zavlazovani-v-zemedelstvi/){:target="_blank"}. V týmu resortu životního prostředí, a také společně s týmem zemědělství, se tomuto tématu intenzivně věnujeme. Něco chystáme :)
 
 Mějte hezké dny! Můžete sledovat můj blog [frantisekelfmark.cz](https://www.frantisekelfmark.cz/){:target="_blank"}
- a [Facebookový profil](https://www.facebook.com/FrantisekElfmark.DiS/){:target="_blank"}
-.
-
-František Elfmark
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ a [Facebookový profil](https://www.facebook.com/FrantisekElfmark.DiS/){:target="_blank"}.
+ 
 ---
