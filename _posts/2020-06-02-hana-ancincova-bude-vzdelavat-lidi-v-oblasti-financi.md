@@ -13,6 +13,6 @@ Hana Ančincová uspěla v participativním rozpočtování České pirátské s
 
 *„Vzdělávání ve finanční oblasti je klíčovým nástrojem pro boj se zadlužením spotřebitelů a domácností. Je potřeba eliminovat jejich předlužení, snížit počet exekucí a insolvenčních řízení. Cílem mého projektu je zvýšit povědomí o nutnosti vzdělávání v této oblasti. Čím více se lidé naučí financím rozumět, tím spíše předejdou problémům a rizikům,”* shrnula iniciátorka projektu **Hana Ančincová**.
 
-Česká pirátská strana každoročně pořádá vnitrostranicky participativní rozpočet, ve kterém mohou členové rozhodnout na jaké projekty poputují finance. V letošním ročníku se rozdalo na projekty více než 270 tisíc korun.
+Česká pirátská strana každoročně pořádá vnitrostranický participativní rozpočet, ve kterém mohou členové rozhodnout na jaké projekty poputují finance. V letošním ročníku se rozdalo na projekty více než 270 tisíc korun.
 
 ---
