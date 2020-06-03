@@ -12,7 +12,7 @@ mail:
 - jaroslav.sevcik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/sevcikjar/
-ordzas: 11
+
 
 ---
 
