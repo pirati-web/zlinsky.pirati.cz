@@ -5,6 +5,7 @@ fullname: Lubomír Doležal  	# jméno s tituly etc.
 category:                   # kategorie: celnove
 - clenove
 - zastupitele
+- kandidat
 
 img: people/lubomir-dolezal.jpg   # 165 x 220
 description: zastupitel Stupavy, rozpočtář # kratký popis, max 160 znaků
@@ -13,6 +14,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100009572960895
 ordzas: 9
+ordkandidat: 8
 ---
 
 Lubomír Doležal (*30. dubna 1984, Kyjov) odmaturoval v roce 2004 na Střední škole automobilní v Kyjově a od roku 2005 podniká. Momentálně pracuje v Brně, kde se věnuje tvorbě rozpočtů a realizaci zakázek ve stavebnictví. Kromě toho příležitostně pracuje s kamarádem na návrzích tzv. chytrých zrcadel.
