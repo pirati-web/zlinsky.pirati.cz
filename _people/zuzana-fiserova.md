@@ -14,7 +14,6 @@ mail:
 mob:			  
 profiles:
   facebook: https://www.facebook.com/zuzana.fiserova77
-ordzas: 4
 ordkandidat: 5
 ---
 
