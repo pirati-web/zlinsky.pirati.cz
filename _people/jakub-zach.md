@@ -4,6 +4,7 @@ name:     Jakub Zach  	# běžně používáné jméno
 fullname: Ing. arch. Jakub Zach 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
 img: people/jakub-zach.jpg   # 165 x 220
 description: architekt # kratký popis, max 160 znaků
@@ -11,6 +12,8 @@ mail:
 - jakub.zach@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zachjakub
+ 
+ordkandidat: 4 
 ---
 
 Ing. arch. Jakub Zach (*6. července 1984, Kroměříž) je členem KS Zlínský kraj a MS Kroměříž. Je rodák a obyvatel Kroměříže.
