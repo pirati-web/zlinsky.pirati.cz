@@ -7,12 +7,11 @@ category:                   # kategorie: clenove
 - zastupitele
 
 img: people/michal-stepanik.jpg   # 165 x 220
-description: zastupitel města Napajedla<br>elektrotechnik # kratký popis, max 160 znaků
+description: zastupitel města Napajedla, elektrotechnik # kratký popis, max 160 znaků
 mail:
 - michal.stepanik@pirati.cz
 profiles:
   facebook: https://www.facebook.com/stepanik.michal
-
 ---
 Michal Štěpaník (*27. října 1978, Zlín) je členem Kontrolního výboru města Napajedla, členem MS Piráti Zlín a od února 2020 zastupitelem Napajedel.
 
