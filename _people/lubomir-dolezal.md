@@ -13,7 +13,6 @@ mail:
 - lubomir.dolezal@pirati.cz
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100009572960895
-ordzas: 9
 ordkandidat: 8
 ---
 
