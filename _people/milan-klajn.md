@@ -13,7 +13,7 @@ mail:
 - milan.klajn@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zbristvimejla
-ordzas: 5
+
 odrpms: 1
 ---
 
