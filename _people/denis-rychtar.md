@@ -13,7 +13,6 @@ mail:
 - denis.rychtar@pirati.cz
 profiles:
   facebook: https://www.facebook.com/JokerTekk
-ordzas: 7
 ordkandidat: 3
 ---
 
