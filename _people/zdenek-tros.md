@@ -4,6 +4,7 @@ name:     Zdeněk Třos  	# běžně používáné jméno
 fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- pks
 
 img: people/zdenek-tros.jpg   # 165 x 220
 description: 4. místopředseda KS Zlínský kraj, OSVČ, jednatel # kratký popis, max 160 znaků
