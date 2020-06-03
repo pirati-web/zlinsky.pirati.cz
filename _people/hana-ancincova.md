@@ -4,7 +4,9 @@ name:     Hana Ančincová  	# běžně používáné jméno
 fullname: Hana Ančincová 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
 
+ordkandidat: 1
 
 img: people/hana-ancincova.jpg   # 165 x 220
 description: finanční kontrolor, lídr pro krajské volby # kratký popis, max 160 znaků
