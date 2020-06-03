@@ -5,6 +5,7 @@ fullname: Denis Rychtar  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - zastupitele
+- kandidat
 
 img: people/denis-rychtar.jpg   # 165 x 220
 description: zastupitel Valašského Meziříčí, chemik-velinář # kratký popis, max 160 znaků
@@ -13,6 +14,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/JokerTekk
 ordzas: 7
+ordkandidat: 3
 ---
 
 Denis Rychtar (*14. srpna 1990, Nový Jičín) je podporovatel Pirátů od roku 2009 a členem od roku 2015. V roce 2018  byl zvolen zastupitele města Valašské Meziříčí. Působí jako předseda dozorčí rady městských lesů a zeleně ve Valašském Meziříčí, a místopředseda Odborového svazu ECHO za CS Cabot. 
