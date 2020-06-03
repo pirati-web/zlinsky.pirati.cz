@@ -19,7 +19,6 @@ profiles:
   facebook: https://facebook.com/vratislav.krejcir.kromeriz
   instagram: https://instagram.com/vratislavjepirat
 ordpks: 1
-ordzas: 1
 ordpms: 2
 ordkandidat: 7
 ---
