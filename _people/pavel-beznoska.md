@@ -12,5 +12,5 @@ mail:
 - pavel.beznoska@pirati.cz
 profiles:
   facebook: https://www.facebook.com/pavel.beznoska
-ordzas: 9
+
 ---
