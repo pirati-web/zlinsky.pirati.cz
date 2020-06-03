@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - clenove
 - zastupitele
 
-img: people/jiri-jaros.png   # 165 x 220
+img: people/jiri-jaros.jpg   # 165 x 220
 description: 2. místopředseda KS Zlínský kraj, radní Zlína, IT technik # kratký popis, max 160 znaků
 mob:			  +420 724 646 710
 mail:
