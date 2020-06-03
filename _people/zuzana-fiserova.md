@@ -5,6 +5,7 @@ fullname: Ing. Mgr. Zuzana Fišerová, Ph.D.  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - zastupitele
+- kandidat
 
 img: people/zuzana-fiserova.jpg   # 165 x 220
 description: zastupitelka Zlína, ekonomka # kratký popis, max 160 znaků
@@ -14,6 +15,7 @@ mob:
 profiles:
   facebook: https://www.facebook.com/zuzana.fiserova77
 ordzas: 4
+ordkandidat: 5
 ---
 
 Ing. Mgr. Zuzana Fišerová, Ph.D. (*1979) se narodila v Moravské Třebové, vystudovala finance a mediální studia, strávila rok ve Finsku a poté se vdala do Zlína, kde dokončila doktorát z financí. Pracuje jako ekonom, publikuje rovněž odborné články na téma problematiky insolvencí a příležitostně přednáší. Od roku 2018 je neuvolněným  členem zastupitelstva Statutárního města Zlín. 
