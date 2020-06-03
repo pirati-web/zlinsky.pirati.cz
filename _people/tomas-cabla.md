@@ -12,7 +12,6 @@ mail:
 - tomas.cabla@pirati.cz
 profiles:
   facebook: https://www.facebook.com/tomas.cabla
-ordzas: 14
 ---
 
 Tomáš Čabla (*25. března 1979, Zlín) je zastupitelem Napajedel.
