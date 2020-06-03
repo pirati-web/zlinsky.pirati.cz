@@ -12,7 +12,6 @@ mail:
 - libor.adamek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/adamek.libor
-ordzas: 6
 ---
 
 Libor Adámek (*26. září 1972, Valašské Meziříčí) je rodilý valach a trvalý občan města Rožnov pod Radhoštěm.
