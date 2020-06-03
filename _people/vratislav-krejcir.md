@@ -8,6 +8,7 @@ category:                   # kategorie: clenove
 - pks
 - zastupitele
 - pms
+- kandidat
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 description: Předseda KS Zlínský kraj, předseda MS Kroměříž, místostarosta Kroměříže # kratký popis, max 160 znaků
@@ -20,6 +21,7 @@ profiles:
 ordpks: 1
 ordzas: 1
 ordpms: 2
+ordkandidat: 7
 ---
 
 Vratislav Krejčíř (*2. 3. 1982, Kroměříž) je celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.
