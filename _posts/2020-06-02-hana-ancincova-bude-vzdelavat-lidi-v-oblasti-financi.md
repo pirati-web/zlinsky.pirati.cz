@@ -6,7 +6,7 @@ date: 2020-06-02
 author: Jaromír Horký
 authorId: jaromir.horky
 image: /assets/img/posts/hankaparo.png
-tags: 'zlinsky-kraj financo hana-ancincova'
+tags: 'zlinsky-kraj finance hana-ancincova'
 ---
 
 Hana Ančincová uspěla v participativním rozpočtování České pirátské strany se svým projektem Vzdělávání v oblasti finanční gramotnosti, umístila se na prvním místě. Získané finance použije na vznik animovaných videí, které pomohou veřejnosti zorientovat se v oblasti financí.
