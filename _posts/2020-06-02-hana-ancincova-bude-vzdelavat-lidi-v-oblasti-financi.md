@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Lídryně Pirátů ve Zlínském kraji uspěla s projektem finančního vzdělávání. Bude lidi učit rozumět penězům.'
+title: 'Lídryně Pirátů ve Zlínském kraji uspěla s projektem finančního vzdělávání. Bude lidi učit rozumět penězům'
 date: 2020-06-02
 author: Jaromír Horký
 authorId: jaromir.horky
