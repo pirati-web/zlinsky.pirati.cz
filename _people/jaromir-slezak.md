@@ -5,9 +5,10 @@ fullname: Jaromír Slezák 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - zastupitele
-
+- kandidat
+ordkandidat: 26
 img: people/jaromir-slezak.png   # 165 x 220
-description: zastupitel Vizovic, disponent zahraniční kamionové dopravy  # kratký popis, max 160 znaků
+description: zastupitel Vizovic, disponent zahraniční kamionové dopravy <br>Vizovice  # kratký popis, max 160 znaků
 mail:
 - jaromir.slezak@pirati.cz
 profiles:
