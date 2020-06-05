@@ -4,9 +4,11 @@ name:     Andrea Marečková  	# běžně používáné jméno
 fullname: Ing. Andrea Marečková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
+ordkandidat: 30
 
 img: people/andrea-mareckova.jpg   # 165 x 220
-description: obchodník ve strojírenském průmyslu # kratký popis, max 160 znaků
+description: obchodník ve strojírenském průmyslu <br>Bystřice pod Hostýnem # kratký popis, max 160 znaků
 mail:
 - andrea.mareckova@pirati.cz
 profiles:
