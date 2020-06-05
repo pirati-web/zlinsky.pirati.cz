@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 ordkandidat: 1
 
 img: people/hana-ancincova.jpg   # 165 x 220
-description: finanční kontrolor, lídr pro krajské volby # kratký popis, max 160 znaků
+description: finanční kontrolor, lídr pro krajské volby <br>Hulín # kratký popis, max 160 znaků
 mail:
 - hana.ancincova@pirati.cz
 profiles:
