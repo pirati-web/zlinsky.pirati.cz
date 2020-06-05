@@ -5,9 +5,11 @@ fullname: Zdeněk Třos  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - pks
+- kandidat
+ordkandidat: 14
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: 4. místopředseda KS Zlínský kraj, OSVČ, jednatel # kratký popis, max 160 znaků
+description: 4. místopředseda KS Zlínský kraj, OSVČ, jednatel<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - zdenek.tros@pirati.cz
 profiles:
