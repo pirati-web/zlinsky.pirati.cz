@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/jakub-zach.jpg   # 165 x 220
-description: architekt # kratký popis, max 160 znaků
+description: architekt <br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - jakub.zach@pirati.cz
 profiles:
