@@ -4,9 +4,11 @@ name:    Dominik Zavadil 	# běžně používáné jméno
 fullname: Dominik Zavadil 	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
+ordkandidat: 23
 
 img: people/dominik-zavadil.jpg   # 165 x 220
-description: strojvedoucí # kratký popis, max 160 znaků
+description: strojvedoucí <br>Kroměříž # kratký popis, max 160 znaků
 
 profiles:
   facebook: https://www.facebook.com/ingo.knito.182
