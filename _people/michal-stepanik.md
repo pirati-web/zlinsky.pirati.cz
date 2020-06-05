@@ -5,9 +5,11 @@ fullname: Michal Štěpaník  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - zastupitele
+- kandidat
+ordkandidat: 16
 
 img: people/michal-stepanik.jpg   # 165 x 220
-description: zastupitel města Napajedla, elektrotechnik # kratký popis, max 160 znaků
+description: zastupitel města Napajedla, elektrotechnik<br>Napajedla # kratký popis, max 160 znaků
 mail:
 - michal.stepanik@pirati.cz
 profiles:
