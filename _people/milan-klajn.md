@@ -6,15 +6,17 @@ category:                   # kategorie: clenove
 - clenove
 - zastupitele
 - pms
+- kandidat
 
 img: people/milan-klajn.jpg   # 165 x 220
-description: zastupitel Zlína, plavčík, terapeut # kratký popis, max 160 znaků
+description: zastupitel Zlína, plavčík, terapeut<br>Zlín # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zbristvimejla
 
 odrpms: 1
+ordkandidat: 17
 ---
 
 Milan Klajn (*23. března 1977, Český Brod) žije ve Zlíně, kde působí jako místopředseda místního sdružení.
