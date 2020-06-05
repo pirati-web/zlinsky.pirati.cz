@@ -4,9 +4,11 @@ name:     Tomáš Holomel  	# běžně používáné jméno
 fullname: Tomáš Holomel  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
+ordkandidat: 19
 
 img: people/tomas-holomel.jpg   # 165 x 220
-description: zákaznický technolog # kratký popis, max 160 znaků
+description: zákaznický technolog<br>Hulín # kratký popis, max 160 znaků
 mail:
 - tomas.holomel@pirati.cz
 profiles:
