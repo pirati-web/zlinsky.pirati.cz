@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 ordkandidat: 29
 
 img: people/libor-adamek.jpg   # 165 x 220
-description: zastupitel Rožnova pod Radhošťem, prodejce kancelářské techniky<br>Rožnov p.R. # kratký popis, max 160 znaků
+description: zastupitel Rožnova pod Radhoštěm<br>prodejce kancelářské techniky<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz
 profiles:
