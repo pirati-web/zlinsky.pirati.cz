@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/renata-gehringer.jpg   # 165 x 220
-description: nezávislý příznivec Pirátů<br>středoškolský pedagog<br>Valašské Meziříčí # kratký popis, max 160 znaků
+description: registrovaný příznivec Pirátů<br>středoškolský pedagog<br>Valašské Meziříčí # kratký popis, max 160 znaků
 mail:
 
 profiles:
