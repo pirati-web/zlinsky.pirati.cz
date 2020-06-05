@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - kandidat
 
-img: people/jana-skopalova.jpg.jpg   # 165 x 220
+img: people/jana-skopalova.jpg   # 165 x 220
 description: specialista poprodejní péče<br>auditor vnitřních procesů<br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - janaan@post.cz
