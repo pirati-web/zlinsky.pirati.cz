@@ -4,8 +4,10 @@ name:     Dušan Jurčík  	# běžně používáné jméno
 fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - clenove
+- kandidat
+ordkandidat: 34
 img: people/dusan-jurcik.jpg   # 165 x 220
-description: pracovník v logistice          	# kratký popis, max 160 znaků
+description: strojvedoucí <br>Uherské Hradiště         	# kratký popis, max 160 znaků
 mail:
 - dusan.jurcik@pirati.cz
 profiles:
