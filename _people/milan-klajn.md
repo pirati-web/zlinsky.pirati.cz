@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 - kandidat
 
 img: people/milan-klajn.jpg   # 165 x 220
-description: zastupitel Zlína, plavčík, terapeut<br>Zlín # kratký popis, max 160 znaků
+description: zastupitel Zlína<br>plavčík, terapeut<br>Zlín # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
