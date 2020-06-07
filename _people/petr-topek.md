@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 ordkandidat: 33
 
 img: people/ppp.jpg   # 165 x 220
-description: registrovaný příznivec Pirátů<br>obchodní manažer, 2. místostarosta Otrokovic<br>Otrokovice # kratký popis, max 160 znaků
+description: registrovaný příznivec Pirátů<br>obchodní manažer<br>2. místostarosta Otrokovic<br>Otrokovice # kratký popis, max 160 znaků
 mail:
 
 profiles:
