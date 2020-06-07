@@ -1,12 +1,14 @@
 ---
 uid: petr.lusovsky
-name:     Ing. Petr Lušovský  	# běžně používáné jméno
+name:     Petr Lušovský  	# běžně používáné jméno
 fullname: Ing. Petr Lušovský  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
+ordkandidat: 43
 
 img: people/petr-lusovsky.jpg   # 165 x 220
-description: člen Pirátů MS ValMez<br>člen Komise 'Zdravého města a MA 21' # kratký popis, max 160 znaků
+description: správce e-shopu<br>člen Komise 'Zdravého města a MA 21'<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz
 profiles:
