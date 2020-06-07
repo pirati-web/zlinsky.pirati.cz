@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 ordkandidat: 28
 
 img: people/petr-stoklasa.jpg   # 165 x 220
-description: zastupitel Kroměříže, 1. místopředseda MS Kroměříž, obchodník a hrdý otec <br>Kroměříž # kratký popis, max 160 znaků
+description: zastupitel Kroměříže<br>1. místopředseda MS Kroměříž<br>obchodník a hrdý otec <br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz
 profiles:
