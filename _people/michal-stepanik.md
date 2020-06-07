@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 ordkandidat: 16
 
 img: people/michal-stepanik.jpg   # 165 x 220
-description: zastupitel města Napajedla, elektrotechnik<br>Napajedla # kratký popis, max 160 znaků
+description: zastupitel města Napajedla<br>elektrotechnik<br>Napajedla # kratký popis, max 160 znaků
 mail:
 - michal.stepanik@pirati.cz
 profiles:
