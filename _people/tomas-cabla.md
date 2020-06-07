@@ -5,9 +5,11 @@ fullname: Tomáš Čabla  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - zastupitele
+- kandidat
+ordkandidat: 39
 
 img: people/tomas-cabla.jpg   # 165 x 220
-description: zastupitel města Napajedla<br>kuchař # kratký popis, max 160 znaků
+description: zastupitel města Napajedla<br>kuchař<br>Napajedla # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
 profiles:
