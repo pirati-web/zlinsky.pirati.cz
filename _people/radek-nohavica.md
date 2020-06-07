@@ -8,7 +8,7 @@ category:                   # kategorie: clen
 ordkandidat: 36
 
 img: people/radek-nohavica.jpg   # 165 x 220
-description: čerstvý absolvent VUT v Brně, komentátor, trenér<br>Vsetín # kratký popis, max 160 znaků
+description: čerstvý absolvent VUT v Brně<br>komentátor, trenér<br>Vsetín # kratký popis, max 160 znaků
 mail:
 - radek.nohavica@pirati.cz
 profiles:
