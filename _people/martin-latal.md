@@ -4,9 +4,11 @@ name:     Martin Látal  	# běžně používáné jméno
 fullname: Martin Látal  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
+ordkandidat: 37
 
 img: people/martin-latal.jpg   # 165 x 220
-description: autoelektrikář # kratký popis, max 160 znaků
+description: autoelektrikář<br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - martin.latal@pirati.cz
 profiles:
