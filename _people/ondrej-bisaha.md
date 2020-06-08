@@ -5,7 +5,7 @@ fullname: Ing. Ondřej Bisaha  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 
 - kandidat
-ordkandidat: 38
+ordkandidat: 33
 
 img: people/ppp.jpg   # 165 x 220
 description: ekonom, sportovec<br>Želechovice nad Dřevnicí # kratký popis, max 160 znaků
