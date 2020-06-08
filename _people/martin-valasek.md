@@ -5,7 +5,7 @@ fullname: Martin Valášek  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat
-ordkandidat: 25
+ordkandidat: 29
 
 img: people/martin-valasek.jpg   # 165 x 220
 description: hudební dramaturg v kulturní agentuře <br>Valašská Bystřice # kratký popis, max 160 znaků
