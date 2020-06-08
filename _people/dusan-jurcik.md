@@ -5,7 +5,7 @@ fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - clenove
 - kandidat
-ordkandidat: 34
+ordkandidat: 39
 img: people/dusan-jurcik.jpg   # 165 x 220
 description: strojvedoucí <br>Uherské Hradiště         	# kratký popis, max 160 znaků
 mail:
