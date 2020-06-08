@@ -5,7 +5,7 @@ fullname: Ing. Andrea Marečková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat
-ordkandidat: 30
+ordkandidat: 32
 
 img: people/andrea-mareckova.jpg   # 165 x 220
 description: obchodník ve strojírenském průmyslu <br>Bystřice pod Hostýnem # kratký popis, max 160 znaků
