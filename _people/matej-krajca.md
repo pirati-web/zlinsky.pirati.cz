@@ -4,9 +4,11 @@ name:     Matěj Krajča  	# běžně používáné jméno
 fullname: Matěj Krajča  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
+- kandidat
+ordkandidat: 42
 
 img: people/matej-krajca.jpg   # 165 x 220
-description: obchodní zástupce # kratký popis, max 160 znaků
+description: bankovní specialista<br>Zlín # kratký popis, max 160 znaků
 mail:
 - matej.krajca@pirati.cz
 profiles:
