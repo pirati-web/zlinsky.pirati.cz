@@ -5,7 +5,7 @@ fullname: Ing. Petr Havlík  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat
-ordkandidat: 27
+ordkandidat: 36
 
 img: people/petr-havlik.jpg   # 165 x 220
 description: Správce sítě IT <br>Kroměříž # kratký popis, max 160 znaků
