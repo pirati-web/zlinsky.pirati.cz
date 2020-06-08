@@ -5,7 +5,7 @@ fullname: Martin Látal  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
 - kandidat
-ordkandidat: 37
+ordkandidat: 28
 
 img: people/martin-latal.jpg   # 165 x 220
 description: autoelektrikář<br>Kroměříž # kratký popis, max 160 znaků
