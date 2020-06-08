@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - zastupitele
 - kandidat
-ordkandidat: 39
+ordkandidat: 30
 
 img: people/tomas-cabla.jpg   # 165 x 220
 description: zastupitel města Napajedla<br>kuchař<br>Napajedla # kratký popis, max 160 znaků
