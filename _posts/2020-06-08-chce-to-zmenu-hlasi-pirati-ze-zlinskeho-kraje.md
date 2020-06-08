@@ -2,14 +2,14 @@
 layout: blog
 category: CLANKY
 title: 'CHCE TO ZMĚNU, hlásí Piráti ve Zlínském kraji, kteří odstartovali krajskou kampaň s ambicemi vyhrát'
-date: 2020-06-08T11:00:00.032Z
+date: 2020-06-08
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/chcetozmenu.png
+image: /assets/img/posts/chcetozmenu.jpg
 tags: 'zlinsky-kraj krajske-volby jakub-zach denis-rychtar jiri-jaros hana-ancincova'
 ---
 
-Piráti dnes na Bárce ve Zlíně oficiálně zahájili kampaň do krajských voleb. Jejich hlavním heslem bude “CHCE TO ZMĚNU”. Pirátská kandidátka na hejtmanku Hana Ančincová spolu se zlínským radním Jiřím Jarošem, zastupitelem Valašského Meziříčí Denisem Rychtarem, architektem Jakubem Zachem a ekonomkou a zastupitelkou Zlína Zuzanou Fišerovou nastínili plán pro Zlínský kraj.
+Piráti dnes na Bárce ve Zlíně oficiálně zahájili kampaň do krajských voleb. Jejich hlavním heslem bude “CHCE TO ZMĚNU”. Pirátská kandidátka na hejtmanku Hana Ančincová spolu se zlínským radním Jiřím Jarošem, zastupitelem Valašského Meziříčí Denisem Rychtarem, architektem Jakubem Zachem nastínili plán pro Zlínský kraj.
 
 Piráti představili čtyři hlavní programové priority pro Zlínský kraj, kterými jsou kvalitní a dostupné zdravotnictví, propojená silniční síť, živá krajina a moderní kraj.  
 
