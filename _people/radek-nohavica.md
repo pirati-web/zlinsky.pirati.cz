@@ -5,7 +5,7 @@ fullname: Ing. Radek Nohavica  	# jméno s tituly etc.
 category:                   # kategorie: clen
 - clenove
 - kandidat
-ordkandidat: 36
+ordkandidat: 25
 
 img: people/radek-nohavica.jpg   # 165 x 220
 description: čerstvý absolvent VUT v Brně<br>komentátor, trenér<br>Vsetín # kratký popis, max 160 znaků
