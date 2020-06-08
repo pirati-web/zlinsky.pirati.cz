@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - zastupitele
 - kandidat
-ordkandidat: 28
+ordkandidat: 27
 
 img: people/petr-stoklasa.jpg   # 165 x 220
 description: zastupitel Kroměříže<br>1. místopředseda MS Kroměříž<br>obchodník a hrdý otec <br>Kroměříž # kratký popis, max 160 znaků
