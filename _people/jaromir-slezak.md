@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - clenove
 - zastupitele
 - kandidat
-ordkandidat: 26
+ordkandidat: 31
 img: people/jaromir-slezak.png   # 165 x 220
 description: zastupitel Vizovic, disponent zahraniční kamionové dopravy <br>Vizovice  # kratký popis, max 160 znaků
 mail:
