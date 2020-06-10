@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 ordkandidat: 43
 
 img: people/petr-lusovsky.jpg   # 165 x 220
-description: manžer e-shopu s oděvy<br>Rožnov p.R. # kratký popis, max 160 znaků
+description: manažer e-shopu s oděvy<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz
 profiles:
