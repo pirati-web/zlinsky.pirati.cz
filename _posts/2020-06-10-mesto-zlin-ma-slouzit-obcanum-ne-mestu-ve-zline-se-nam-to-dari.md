@@ -6,7 +6,7 @@ date: 2020-06-10
 author: Jiří Jaroš
 authorId: jiri.jaros
 image: /assets/img/posts/jiriazuzana.png
-tags: 'zlinsky-kraj zlin radnice jiri-jars zuzana-fiserova'
+tags: 'zlinsky-kraj zlin radnice jiri-jaros zuzana-fiserova'
 ---
 
 Pro zastupitelský post se snažíme odvádět maximum, nejen já, ale všichni Piráti ve Zlíně. Z mé profese spojené s IT se snažím zaměřit se především na chytré technologie, které jsou možné převést na městské využití. Jedním z nich je například Mobilní rozhlas, který se povedl prosadit, za což jsem velmi rád. Mobilní rozhlas pěkně zkombinuje přehlednost ve městě pro občany, je to spojení dvou pirátských hodnot, digitalizace a transparentnosti. Jedná se o mobilní aplikaci, která občany informuje o stavu ovzduší, blokovém čištění, různých dopravních uzavírkách nebo hrozících nebezpečích. Navazuje do jisté míry na ten starší rozhlas, jen ho máme v mobilu. Oproti klasickému rozhlasu je díky mobilu velkou výhodou, že občané mohou pomocí aplikace hlásit černé skládky, poškozený veřejný majetek a další věci se kterými nejsou spokojeni. 
