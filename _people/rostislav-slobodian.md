@@ -13,3 +13,7 @@ mail:
 profiles:
   
 ---
+Rostislav Slobodian (* 18. února 1992, Zlín), registrovaný příznivec od roku 2018. Pochází ze Zlína.
+
+Vystudoval chemii a inženýrství polymerů na Fakultě technologické Univerzity Tomáše Bati ve Zlíně.
+Mezi jeho zájmy patří fotbal, cestování a sebevzdělávání.
