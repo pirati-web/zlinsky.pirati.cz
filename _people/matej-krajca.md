@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 ordkandidat: 42
 
 img: people/matej-krajca.jpg   # 165 x 220
-description: bankovní specialista<br>Zlín # kratký popis, max 160 znaků
+description: bankovní specialista<br>člen Komise životního prostředí ve Zlíně<br>Zlín # kratký popis, max 160 znaků
 mail:
 - matej.krajca@pirati.cz
 profiles:
