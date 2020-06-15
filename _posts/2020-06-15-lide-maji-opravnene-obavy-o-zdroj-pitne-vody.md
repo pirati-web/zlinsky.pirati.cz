@@ -19,4 +19,6 @@ Dál tak hrozí, že se v blízkosti prameniště bude těžit dvě stě tisíc 
 
 Na konci května [interpeloval](https://www.facebook.com/watch/?v=246212760002711){:target="_blank"} pirátský poslanec Radek Holomčík opakovaně ministra životního prostředí Richarda Brabce ohledně plánované těžby, který se spolu s poslancem Františkem Elfmarkem pochodu za vodu zúčastnil. 
 
+Je však potřeba říct, že my se jenom nesnažíme popsat problém, ale také jej rovnou řešit. Náš poslanec František Elfmark dle informace, které získal od expertů odhaduje, že podzemní zdroj pitné vody, který se na tomto místě nachází vystačí na minimálně 2000 let. A i proto se chystá zařadit bod na jednání výboru sněmovny pro životní prostředí, který se bude touto problematikou zabývat a následně plánuje s odborníky uspořádat také kulatý stůl.
+
 Já pevně doufám, že správní žaloby, hlas lidí, kteří se zúčastnili pochodu i jejich tlak na politiky způsobí, že zájem ochrany pitné vody převáží nad zájmy těžařů. **Štěrku se přece nenapijeme**.
