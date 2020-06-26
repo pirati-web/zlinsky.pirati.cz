@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Jak se daří otrokovickým Pirátům?'
-date: 2020-06-25
+date: 2020-06-26
 author: Pavel Beznoska
 authorId: pavel beznoska
 image: /assets/img/posts/otrokovice.jpg
