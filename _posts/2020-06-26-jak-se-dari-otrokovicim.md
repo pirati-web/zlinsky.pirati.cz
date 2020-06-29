@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Jak se daří otrokovickým Pirátům?'
 date: 2020-06-26
 author: Pavel Beznoska
-authorId: pavel beznoska
+authorId: pavel.beznoska
 image: /assets/img/posts/otrokovice.jpg
 tags: 'zlinsky-kraj otrokovice pavel-beznoska'
 ---
