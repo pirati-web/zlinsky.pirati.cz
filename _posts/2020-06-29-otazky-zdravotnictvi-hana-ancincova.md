@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Hana Ančincová: Otázky zdravotnictví jako zrcadlo politické kultury'
-date: 2020-06-26
+date: 2020-06-29
 author: Hana Ančincová
 authorId: hana.ancincova
 image: /assets/img/posts/nemocnicezlin.jpg
