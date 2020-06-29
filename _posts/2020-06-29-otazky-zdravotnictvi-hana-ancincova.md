@@ -5,7 +5,7 @@ title: 'Hana Ančincová: Otázky zdravotnictví jako zrcadlo politické kultury
 date: 2020-06-29
 author: Hana Ančincová
 authorId: hana.ancincova
-image: /assets/img/posts/nemocnicezlin.jpg
+image: /assets/img/posts/nemonicnicezlin.jpg
 tags: 'zlinsky-kraj krajske-volby hana-ancincova zdravotnictvi'
 ---
 
