@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'František Elfmark: Opozice a koalice, každá strana má dvě mince'
+title: 'František Elfmark: Opozice a koalice, každá mince má dvě strany'
 date: 2020-07-14
 author: Jaromír Horký
 authorId: jaromir.horky
