@@ -9,7 +9,7 @@ category:                   # kategorie: clenove
 ordkandidat: 30
 
 img: people/tomas-cabla.jpg   # 165 x 220
-description: zastupitel města Napajedla<br>kuchař<br>Napajedla # kratký popis, max 160 znaků
+description: zastupitel města Napajedla<br>provozní hotelu<br>Napajedla # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz
 profiles:
