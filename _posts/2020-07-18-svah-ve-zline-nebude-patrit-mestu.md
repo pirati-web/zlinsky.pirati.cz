@@ -17,6 +17,6 @@ O území svahu se dlouhodobě zajímám, zejména s ohledem na můj dlouhodobý
 
 Je otázka, nakolik na město zapůsobil strach z toho, že předchozí nájemce svahu bude městu „dělat problémy“ při investicích do rozvoje lokality. Nicméně myslím, že problémy jsou od toho, aby se řešily, ne aby se od nich utíkalo. Navíc se jedná o domněnky, vlastníkem dle atastru nemovitostí jsou Sportovní kluby Zlín a nikoliv předchozí nájemce svahu.  Chápu, že Sportovní kluby Zlín jsou soukromý subjekt a město nemůže diktovat komu a za kolik svůj majetek prodají. Nicméně na druhou stranu město tomuto spolku poskytuje velké finanční prostředky ze svého rozpočtu - tedy z daní svých občanů.
 
-Jako zastupitelka apeluji na to, aby město obnovilo jednání o prodeji svahu městu. Pokud k prodeji dojde a svah získá soukromý subjekt, pak se pojďme zajímat o to, jak budou občané města tuto lokalitu dále využívat, jaká budou omezení, co se zde vybuduje, a také kde budou sportovat děti, které v této lokalitě měli pravidelné tréninky. 
+Jako zastupitelka apeluji na to, aby město obnovilo jednání o prodeji svahu městu. Pokud k prodeji dojde a svah získá soukromý subjekt, pak se pojďme zajímat o to, jak budou občané města tuto lokalitu dále využívat, jaká budou omezení, co se zde vybuduje, a také kde budou sportovat děti, které v této lokalitě měly pravidelné tréninky. 
 
 ---
