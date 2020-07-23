@@ -16,10 +16,4 @@ profiles:
 ordkandidat: 4 
 ---
 
-Ing. arch. Jakub Zach (*6. července 1984, Kroměříž) je členem KS Zlínský kraj a MS Kroměříž. Je rodák a obyvatel Kroměříže.
-
-Vystudoval VUT Brno, obor architektura a urbanismus. Po studiích nabíral praxi u českých i zahraničních firem v oblasti jak navrhování, tak i realizace staveb. V současné době podniká jako architekt s působností po celé jihovýchodní Moravě. V rámci své praxe řešil například problematiku znovuvyužití zanedbaných a nevyužívaných městských celků (brownfieldů) a jejich nové praktické využití jak na teoretické, tak i praktické úrovni. Kromě práce architekta je příležitostný blogger komentující současnou politickou situaci, dění v oblasti architektury, dále pak fotograf a grafik. Jako urbanista se zajímá o geografické a sociologické problémy města a jeho obyvatel v závislosti na uspořádání města a jeho jednotlivých celků.   
-
-Kromě toho rád navštěvuje kulturní a sportovní akce, rád cestuje a objevuje nová místa. Ze sportovních aktivit nejraději plave a dříve velmi aktivně hrál squash.
-
-Příznivcem Pirátů je od roku 2017. ve stejném roce se stal i členem.
+Ing. arch. Jakub Zach (*6. července 1984, Kroměříž) je kroměřížský rodák, který rád uvádí, že žije v jednom z nejhezčích měst naší republiky. I díky tomu si vybral jako svůj profesní obor architekturu a urbanistiku. Na pozici krajského zastupitel chce klást velký důraz na to, aby bylo vedení kraje transparentní, komunikovalo, a především naslouchalo jeho obyvatelů. Prosazuje také investice smysluplné, které budou na základě relevantních dat. To by chtěl s pomocí svých pirátských kolegů dosáhnout. Jeho hlavním cílem je zaměřit se na dopravu v kraji, a především na zlepšení dopravní infrastruktury. Také by rád optimalizoval integrovaný dopravní systém do funkční podoby. Kromě své práce a Pirátů je zapáleným fotografem a věnuje čas svým blízkým.
