@@ -9,7 +9,7 @@ image: /assets/img/posts/hanarafaj.jpg
 tags: 'zlinsky-kraj zlin krajske-volby nemocnice hana-ancincova'
 ---
 
-Díky rozhodnutí Rafajova Antimonopolního úřadu může pokračovat stavba nové nemocnice ve Zlíně za více než 8 miliard. Bohužel komunikaci a chování aktérů v kauze nové krajské nemocnice asi nezachrání ani propagace nové nemocnice, který vyšla už kraj na více než 900 tis. Kč. 
+Díky rozhodnutí Rafajova Antimonopolního úřadu může pokračovat stavba nové nemocnice ve Zlíně za více než 8 miliard. Bohužel komunikaci a chování aktérů v kauze nové krajské nemocnice asi nezachrání ani propagace nové nemocnice, která vyšla už kraj na více než 900 tis. Kč. 
 
 Šéf takto významého úřadu se nemá tajně pod rouškou tmy scházet s aktéry posuzovaných kauz. Nyní si už jen málokdo může naivně myslet, že by na téma nové nemocnice nedošlo, byť důvodem setkání byl údajně nově připravovaná novela zákona senátora a hejtmana Jiřího Čunka.
 
