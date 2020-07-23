@@ -19,9 +19,4 @@ ordpks: 3
 ordkandidat: 2
 ---
 
-Jiří Jaroš (*8. října 1974, Zlín) je členem České pirátské strany od roku 2017. Pochází ze Zlína.
-
-Vystudoval Informační technologie obor Inženýrská informatika na Fakultě aplikované informatiky Univerzity Tomáše Bati ve Zlíně, kde pracuje od roku 2005 v Univerzitním institutu a Centru polymerních systémů.
-Aktivně se podílel na tvorbě e-learningu, online vzdělávání a videokonferencím na této univerzitě.
-
-Mezi jeho zájmy patří cestování, fotbal, historie a knihy Stephena Kinga.
+Jiří Jaroš (*8. října 1974, Zlín) je hrdý otec tří dětí, Zlínský zastupitel a radní, který vystudoval Baťovu Univerzitu ve Zlíně a nyní zde pracuje jako správce sítě. Jako krajský zastupitel chce vytvořit chytrý a vzdělaný kraj s velkým potenciálem jak pro studium, tak pro profesní uplatnění. Drží se pirátského hesla předělat z montovny mozkovnu. Chce pomoci s rozvojem firem v oblasti IT a chytrých technologií, které by měli sídlo právě ve Zlínském kraji. Ve Zlínském kraji má rád především kulturu, folklór a také fotbal. Jak sám přiznává, cítí se fotbalovým fanatikem.
