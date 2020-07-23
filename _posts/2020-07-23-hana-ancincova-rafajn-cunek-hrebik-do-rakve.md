@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Hana Ančincová: Schůzka Rafaje a Čunka je hřebem do rakve objektivity úřadu, který nezachrání ani výdaje na propagaci nové nemocnice'
 date: 2020-07-23
 author: Hana Ančincová
-authorId: Hana Ančincová
+authorId: hana.ancincova
 image: /assets/img/posts/hanarafaj.jpg
 tags: 'zlinsky-kraj zlin krajske-volby nemocnice hana-ancincova'
 ---
