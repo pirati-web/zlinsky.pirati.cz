@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Rozhovor s poslancem Františkem Elfmarkem'
-date: 2020-07-27
+date: 2020-07-26
 author: Jaromír Horký
 authorId: jaormir.horky
 image: /assets/img/posts/h3597.jpg
