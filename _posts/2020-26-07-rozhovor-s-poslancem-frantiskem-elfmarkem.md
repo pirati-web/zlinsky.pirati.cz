@@ -5,7 +5,7 @@ title: 'Rozhovor s poslancem Františkem Elfmarkem'
 date: 2020-07-26
 author: Jaromír Horký
 authorId: jaromir.horky
-image: /assets/img/posts/3597.jpg
+image: /assets/img/posts/frantisekrozhovor.jpg
 tags: 'zlinsky-kraj poslanec frantisek-elfmark rozhovor'
 ---
 Léto je v plném proudu a dokonce Poslanecká sněmovna se na chvíli zastavila. Proto jsme odchytili poslance za Zlínský kraj Františka Elfmarka a připravili s ním pro vás krátký rozhovor.
