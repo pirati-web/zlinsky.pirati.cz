@@ -5,7 +5,7 @@ title: 'Jaké je to být v zastupitelstvu sám?'
 date: 2020-07-28
 author: Denis Rychtar
 authorId: denis.rychtar
-image: /assets/img/posts/deniszastupitel.jpg
+image: /assets/img/posts/deniszastupitel.png
 tags: 'zlinsky-kraj valmez denis-rychtar'
 ---
 
