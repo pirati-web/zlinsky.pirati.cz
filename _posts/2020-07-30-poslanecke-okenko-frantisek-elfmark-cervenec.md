@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Poslanecké okénko: Červnová sněmovna očima Františka Elfmarka'
+title: 'Poslanecké okénko: Červencová sněmovna očima Františka Elfmarka'
 date: 2020-07-30
 author: František Elfmark
 authorId: frantisek.elfmark
