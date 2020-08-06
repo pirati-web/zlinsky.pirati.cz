@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: 'Moderní doprava 21.století z pohledu informačních technologií'
 date: 2020-08-06
-author: Josef Indra
-authorId: josef.indra
+author: Jakub Zach
+authorId: jakub.zach
 image: /assets/img/posts/modernidoprava.jpg
 tags: 'zlinsky-kraj krajske-volby jakub-zach doprava'
 ---
