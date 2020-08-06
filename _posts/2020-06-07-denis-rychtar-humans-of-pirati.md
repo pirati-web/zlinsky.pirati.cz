@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Humans of Piráti: Denis Rychtar: Rodina je můj hnací motor, pro ní chci lepší kraj"
-date: 2020-07-06
+date: 2020-06-07
 author: Denis Rychtar
 authorId: denis.rychtar
 image: assets/img/posts/denis.jpg  #751x422 pixelu
