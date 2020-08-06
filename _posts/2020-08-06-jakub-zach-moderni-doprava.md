@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Moderní doprava 21.stol z pohledu informačních technologií. '
+title: 'Moderní doprava 21.stol z pohledu informačních technologií'
 date: 2020-08-06
 author: Josef Indra
 authorId: josef.indra
