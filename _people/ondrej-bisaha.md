@@ -7,7 +7,7 @@ category:                   # kategorie: clenove
 - kandidat
 ordkandidat: 33
 
-img: people/ondrej-bisaha.jpg   # 165 x 220
+img: people/ondrej-bisaha.jpeg   # 165 x 220
 description: ekonom, sportovec<br>Želechovice nad Dřevnicí # kratký popis, max 160 znaků
 mail:
 
