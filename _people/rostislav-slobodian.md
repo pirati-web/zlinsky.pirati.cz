@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 ordkandidat: 44
 
-img: people/ppp.jpg   # 165 x 220
+img: people/rostislav-slobodian.jpg   # 165 x 220
 description: registrovaný příznivec Pirátů<br>manažer<br>Zlín # kratký popis, max 160 znaků
 mail:
 
