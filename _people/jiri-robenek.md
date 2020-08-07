@@ -13,4 +13,6 @@ mail:
 profiles:
   
 ---
-Zakladatel Skautského krizového centra a spolku Naše Malenovice
+Jiří se živí jako OSVČ v oblasti IT marketingu, ve volném čase rád cestuje po světě (Irák, Rusko, Rumunsko, Bulharsko... ) a vede skautské středisko.
+
+V poslední době se v domovských Malenovicích věnuje spolku Naše Malenovice. Zlínský kraj je pro něj nejen rodnou hroudou jeho předků, ale také místem, kde žijí lidé s náturou, která je mu nejblžší.
