@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 ordkandidat: 21
 
-img: people/kristyna-lajmarova.jpg   # 165 x 220
+img: people/kristyna-lajmarova2.jpg   # 165 x 220
 description: registrovaný příznivec Pirátů<br>Ortotik - protetik, fotograf<br>Kroměříž # kratký popis, max 160 znaků
 mail:
 
