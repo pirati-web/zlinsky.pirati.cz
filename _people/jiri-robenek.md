@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 ordkandidat: 18
 
-img: people/ppp.jpg   # 165 x 220
+img: people/jiri-robenek.jpg   # 165 x 220
 description: registrovaný příznivec Pirátů<br>OSVČ - SEO specialista<br>Zlín - Malenovice # kratký popis, max 160 znaků
 mail:
 
