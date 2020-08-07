@@ -6,7 +6,7 @@ category:                   # kategorie: clenove
 - kandidat
 ordkandidat: 22
 
-img: people/ppp.jpg   # 165 x 220
+img: people/petr-tomasu.jpg   # 165 x 220
 description: registrovaný příznivec Pirátů<br>předseda komise rady obce Jalubí, podnikatel<br>Jalubí # kratký popis, max 160 znaků
 mail:
 
