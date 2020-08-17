@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: clenove
 
 
-img: people/ppp.jpg   # 165 x 220
+img: people/rostislav-slobodian.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: registrovaný příznivec Pirátů<br>manažer<br>Zlín # kratký popis, max 160 znaků
 mail:
