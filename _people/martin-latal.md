@@ -1,13 +1,14 @@
 ---
 uid: martin.latal
 name:     Martin Látal  	# běžně používáné jméno
-fullname: Martin Látal  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 28
+
 
 img: people/martin-latal.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: autoelektrikář<br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - martin.latal@pirati.cz

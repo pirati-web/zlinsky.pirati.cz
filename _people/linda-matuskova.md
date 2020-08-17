@@ -1,11 +1,14 @@
 ---
 uid: linda.matuskova
 name:     Linda Matušková  	# běžně používáné jméno
-fullname: PhDr. Linda Matušková, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: PhDr.
+  after: Ph.D.
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/linda-matuskova.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: newborn fotografka, VŠ pedagog, fotografka # kratký popis, max 160 znaků
 mail:
 - linda.matuskova@pirati.cz

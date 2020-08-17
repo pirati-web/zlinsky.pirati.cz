@@ -1,14 +1,14 @@
 ---
 uid: tomas.cabla
 name:     Tomáš Čabla  	# běžně používáné jméno
-fullname: Tomáš Čabla  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- zastupitele
-- kandidat
-ordkandidat: 30
+
 
 img: people/tomas-cabla.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: zastupitel města Napajedla<br>provozní hotelu<br>Napajedla # kratký popis, max 160 znaků
 mail:
 - tomas.cabla@pirati.cz

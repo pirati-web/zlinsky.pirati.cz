@@ -1,11 +1,14 @@
 ---
 uid: dalibor.jandik
 name:     Dalibor Jandík  	# běžně používáné jméno
-fullname: Dalibor Jandík  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/dalibor-jandik.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: projektant měření a regulace # kratký popis, max 160 znaků
 mail:
 - dalibor.jandik@pirati.cz

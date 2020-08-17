@@ -1,13 +1,14 @@
 ---
 uid: martin.valasek
 name:     Martin Valášek  	# běžně používáné jméno
-fullname: Martin Valášek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 29
+
 
 img: people/martin-valasek.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: hudební dramaturg v kulturní agentuře <br>Valašská Bystřice # kratký popis, max 160 znaků
 mail:
 - martin.valasek@pirati.cz

@@ -1,12 +1,14 @@
 ---
 uid: pavel.manasek
 name:     Pavel Maňásek  	# běžně používáné jméno
-fullname: Ing. Pavel Maňásek  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- kandidat
-ordkandidat: 24
+
 
 img: people/pavel-manasek.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: registrovaný příznivec Pirátů<br>podnikatel ve wellness<br>Zlín # kratký popis, max 160 znaků
 mail:
 

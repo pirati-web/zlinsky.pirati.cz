@@ -1,11 +1,14 @@
 ---
 uid: jiri.lehejcek
 name:     Jiří Lehejček  	# běžně používáné jméno
-fullname: Mgr. Ing. Jiří Lehejček, Ph.D.  	# jméno s tituly etc.
+titles:
+  before: Ing. Mgr.
+  after: Ph.D.
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/jiri-lehejcek.JPG   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: VŠ peedagog, polární ekolog # kratký popis, max 160 znaků
 mail:
 - jiri.lehejcek@pirati.cz

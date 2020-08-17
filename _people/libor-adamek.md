@@ -1,14 +1,14 @@
 ---
 uid: libor.adamek
 name:     Libor Adámek  	# běžně používáné jméno
-fullname: Libor Adámek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- zastupitele
-- kandidat
-ordkandidat: 34
+
 
 img: people/libor-adamek.jpg   # 165 x 220
+heroImg: articles/lide/hero-libor-adamek.jpg
 description: zastupitel Rožnova pod Radhoštěm<br>prodejce kancelářské techniky<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - libor.adamek@pirati.cz

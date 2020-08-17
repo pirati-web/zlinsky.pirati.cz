@@ -1,11 +1,14 @@
 ---
 uid: giuseppe.maiello
 name:     Giuseppe Maiello  	# běžně používáné jméno
-fullname: doc. dott. Giuseppe Maiello Ph.D.	# jméno s tituly etc.
+titles:
+  before: doc. dott.
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/giuseppe-maiello.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: vysokoškolský pedagog # kratký popis, max 160 znaků
 mail:
 - giuseppe.maiello@pirati.cz

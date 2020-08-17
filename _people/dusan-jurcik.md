@@ -1,12 +1,13 @@
 ---
 uid: dusan.jurcik
 name:     Dušan Jurčík  	# běžně používáné jméno
-fullname: Dušan Jurčík  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 # kategorie
-- clenove
-- kandidat
-ordkandidat: 39
+
 img: people/dusan-jurcik.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: strojvedoucí <br>Uherské Hradiště         	# kratký popis, max 160 znaků
 mail:
 - dusan.jurcik@pirati.cz

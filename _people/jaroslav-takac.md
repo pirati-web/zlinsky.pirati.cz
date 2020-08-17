@@ -1,20 +1,22 @@
 ---
 uid: jaroslav.takac
 name:     Jaroslav Takáč 	# běžně používáné jméno
-fullname: Jaroslav Takáč 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- pks
-- kandidat
+ - predsednictvo
+
+ord_predsednictvo: 4
 img: people/jaroslav-takac.jpg   # 165 x 220
-description: 3. místopředseda KS Zlínský kraj<br>stavbyvedoucí <br>Holešov # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: 3. místopředseda KS ZLK<br>stavbyvedoucí <br>Holešov # kratký popis, max 160 znaků
 mob:			  +420 775 047 374
 mail:
 - jaroslav.takac@pirati.cz
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100007870037071
-ordpks: 4
-ordkandidat: 10
+
 ---
 
 Jaroslav Takáč (*22. února 1978, Nový Jičín) žije se svou rodinou v Přílepech u Kroměříže.

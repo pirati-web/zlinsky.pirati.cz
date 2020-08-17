@@ -1,19 +1,20 @@
 ---
 uid: lubomir.dolezal
 name:     Lubomír Doležal  	# běžně používáné jméno
-fullname: Lubomír Doležal  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: celnove
-- clenove
-- zastupitele
-- kandidat
 
-img: people/lubomir-dolezal.jpg   # 165 x 220
+
+img: people/lubomir-dolezal.jpg   # 165 x 
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: zastupitel Stupavy, rozpočtář <br>Stupava # kratký popis, max 160 znaků
 mail:
 - lubomir.dolezal@pirati.cz
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100009572960895
-ordkandidat: 9
+
 ---
 
 Lubomír Doležal (*30. dubna 1984, Kyjov) odmaturoval v roce 2004 na Střední škole automobilní v Kyjově a od roku 2005 podniká. Momentálně pracuje v Brně, kde se věnuje tvorbě rozpočtů a realizaci zakázek ve stavebnictví. Kromě toho příležitostně pracuje s kamarádem na návrzích tzv. chytrých zrcadel.

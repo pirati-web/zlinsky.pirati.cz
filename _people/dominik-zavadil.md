@@ -1,13 +1,14 @@
 ---
 uid: dominik.zavadil
 name:    Dominik Zavadil 	# běžně používáné jméno
-fullname: Dominik Zavadil 	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 23
+
 
 img: people/dominik-zavadil.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: strojvedoucí <br>Kroměříž # kratký popis, max 160 znaků
 
 profiles:

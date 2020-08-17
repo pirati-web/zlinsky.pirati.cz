@@ -1,11 +1,14 @@
 ---
 uid: jaroslava.lalova
 name:     Jaroslava Lálová  	# běžně používáné jméno
-fullname: Jaroslava Lálová  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/jaroslava-lalova.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: administrativní pracovnice # kratký popis, max 160 znaků
 mail:
 - jaroslava.lalova@pirati.cz

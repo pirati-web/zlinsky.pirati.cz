@@ -1,13 +1,13 @@
 ---
 uid: jaroslav.sevcik
 name:     Jaroslav Ševčík  	# běžně používáné jméno
-fullname: Jaroslav Ševčík  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie
-- clenove
-- zastupitele 
-- kandidat
-ordkandidat: 12
+
 img: people/jaroslav-sevcik.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: zastupitel Uherského Hradiště, starosta a správce T. J. Sokol Uherské Hradiště<br>Uherské Hradiště          	# kratký popis, max 160 znaků
 mail:
 - jaroslav.sevcik@pirati.cz

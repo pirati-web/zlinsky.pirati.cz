@@ -1,11 +1,13 @@
 ---
 uid: eliska.holsanova
 name:     Eliška Holšánová  	# běžně používáné jméno
-fullname: Eliška Holšánová 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
 
 img: people/eliska-holsanova.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: studentka # kratký popis, max 160 znaků
 mail:
 - eliska.holsanova@pirati.cz

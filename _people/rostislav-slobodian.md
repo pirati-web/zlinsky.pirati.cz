@@ -1,12 +1,14 @@
 ---
 uid: rostislav.slobodian
 name:     Rostislav Slobodian  	# běžně používáné jméno
-fullname: Ing. Rostislav Slobodian  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- kandidat
-ordkandidat: 44
 
-img: people/rostislav-slobodian.jpg   # 165 x 220
+
+img: people/ppp.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: registrovaný příznivec Pirátů<br>manažer<br>Zlín # kratký popis, max 160 znaků
 mail:
 

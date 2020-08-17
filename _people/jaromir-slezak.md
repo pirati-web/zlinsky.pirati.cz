@@ -1,13 +1,13 @@
 ---
 uid: jaromir.slezak
 name:     Jaromír Slezák  	# běžně používáné jméno
-fullname: Jaromír Slezák 	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- zastupitele
-- kandidat
-ordkandidat: 31
+
 img: people/jaromir-slezak.png   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: zastupitel Vizovic, disponent zahraniční kamionové dopravy <br>Vizovice  # kratký popis, max 160 znaků
 mail:
 - jaromir.slezak@pirati.cz

@@ -1,13 +1,14 @@
 ---
 uid: petr.lusovsky
 name:     Petr Lušovský  	# běžně používáné jméno
-fullname: Ing. Petr Lušovský  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 43
+
 
 img: people/petr-lusovsky.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: manažer e-shopu s oděvy<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - lusov@seznam.cz

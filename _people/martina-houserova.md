@@ -1,11 +1,14 @@
 ---
 uid: martina.houserova
 name:     Martina Houserová  	# běžně používáné jméno
-fullname: Ing. Martina Houserová  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: celnove
-- clenove
+
 
 img: people/martina-houserova.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: marketingový koordinátor # kratký popis, max 160 znaků
 mail:
 - martina.houserova@pirati.cz

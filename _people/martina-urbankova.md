@@ -1,13 +1,14 @@
 ---
 uid: martina.urbankova
 name:     Martina Urbánková  	# běžně používáné jméno
-fullname: Martina Urbánková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 26
+
 
 img: people/martina-urbankova.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: backoffice manager<br>Zlín # kratký popis, max 160 znaků
 mail:
 - martina.urbankova@pirati.cz

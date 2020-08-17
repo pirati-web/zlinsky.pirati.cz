@@ -1,14 +1,14 @@
 ---
 uid: petr.stoklasa
 name:     Petr Stoklasa  	# běžně používáné jméno
-fullname: Petr Stoklasa  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
-- clenove
-- zastupitele
-- kandidat
-ordkandidat: 27
+
 
 img: people/petr-stoklasa.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: zastupitel Kroměříže<br>1. místopředseda MS Kroměříž<br>obchodník a hrdý otec <br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - petr.stoklasa@pirati.cz

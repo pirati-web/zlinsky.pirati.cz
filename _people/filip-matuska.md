@@ -1,11 +1,14 @@
 ---
 uid: filip.matuska
 name:     Filip Matuška  	# běžně používáné jméno
-fullname: Mgr. Filip Matuška 	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/filip-matuska.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: fotograf # kratký popis, max 160 znaků
 mail:
 - filip.matuska@pirati.cz

@@ -1,11 +1,14 @@
 ---
 uid: jan.buksa
 name:     Jan Buksa  	# běžně používáné jméno
-fullname: Jan Buksa  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/jan-buksa.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: autoelektrikář # kratký popis, max 160 znaků
 mail:
 - jan.buksa@pirati.cz

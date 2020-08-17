@@ -1,11 +1,14 @@
 ---
 uid: pavel.kucera
 name:     Pavel Kučera  	# běžně používáné jméno
-fullname: Pavel Kučera  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/pavel-kucera.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: montážní a servisní technik # kratký popis, max 160 znaků
 mail:
 - pavel.kucera@pirati.cz

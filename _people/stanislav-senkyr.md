@@ -1,11 +1,13 @@
 ---
 uid: stanislav.senkyr
 name:     Stanislav Šenkýř  	# běžně používáné jméno
-fullname: Stanislav Šenkýř  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
 
 img: people/stanislav-senkyr.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: student # kratký popis, max 160 znaků
 mail:
 - stanislav.senkyr@pirati.cz

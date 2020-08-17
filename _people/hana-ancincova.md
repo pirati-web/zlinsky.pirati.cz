@@ -1,21 +1,22 @@
 ---
 uid: hana.ancincova
 name:     Hana Ančincová  	# běžně používáné jméno
-fullname: Hana Ančincová 	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-
-ordkandidat: 1
 
 img: people/hana-ancincova.jpg   # 165 x 220
-description: finanční analytička, lídr pro krajské volby <br>Kroměříž # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: finanční analytička, lídr pro krajské volby # kratký popis, max 160 znaků
 mail:
 - hana.ancincova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/hana.ancincova.piratka/
 ---
 
-Hana Ančincová (*18. srpna 1989, Vimperk) je finanční analytička, odbornice na zdravotnictví a hrdá máma dvou dětí. To všechno je Pirátská lídryně, která usiluje o post hejtmanky v našem kraji. Kandidovat do krajských voleb se rozhodla z toho důvodu, že není spokojená s kroky současného vedení kraje, jelikož prosazuje myšlenku, že by kraj měl sloužit občanům a ne naopak. Situace kolem nové krajské nemocnice a dopravy ji přesvědčila, že kraj nezvládá řešit transparentně a efektivně velké investice. Jejím cílem je tak přiblížit kraj občanům, udělat z něj kraj transparentní a kraj takový, aby se v něm každému žilo dobře. Zkrátka kraj 21. století. Zlínský kraj potřebuje péči a zaslouží si změnu k lepšímu. Ve Zlínském kraji má velmi ráda jeho historii, tradice a Baťův odkaz. Veškerý svůj volný čas věnuje svým dětem a Pirátům.
+Hana Ančincová (*18. srpna 1989, Vimperk) je členkou kontrolního výboru města Kroměříže. Profesně se  zabývá racionalizací a optimalizací finančních procesů a finančním controllingem. Po absolvování studia v oboru Finance a právo si rozšiřuje své vzdělání magisterským studiem na UTB ve Zlíně v oboru  Bezpečnostní technologie, systémy a management a také v rámci studia Veřejná správa na Právnické fakultě MUNI. Ve volném čase se věnuje pořádání osvětových činností v rámci životního prostředí a vzhledem ke své profesní specializaci i v oblasti finanční gramotnosti. Za klíčové považuje řešit oblast zdravotnictví s ohledem na transparentní hospodaření nemocnic, stabilní personální politiku a sjednocení informačních systémů. Plánuje se zaměřit také na finanční hospodaření, životní prostředí a neziskový sektor. Jejím cílem je propojení všech segmentů kraje v dobře fungující celek, snižování asymetrie informací mezi krajem a občanem. Chce vybudovat ze Zlínského kraje kraj nové generace.
 
-*Dám Zlínskému kraji potřebnou péči a budu jej řídit s čistým štítem. To znamená, že se ty změny doopravdy stanou a nebude z toho jenom malá nebo velká domů. Našimi prioritami bude kvalitní a dostupné zdravotnictví, propojená silniční síť, živá krajina a moderní kraj.*
+Jako milovnice přírody se snaží bojovat za její ochranu, aktivně se snaží o zero waste přístup. 
+
+Je pyšnou maminkou dvou dětí.

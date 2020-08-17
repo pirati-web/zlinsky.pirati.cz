@@ -1,18 +1,20 @@
 ---
 uid: jana.skopalova
 name:     Jana Skopalová  	# běžně používáné jméno
-fullname: Jana Skopalová  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
+
 
 img: people/jana-skopalova.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: specialista poprodejní péče<br>auditor vnitřních procesů<br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - janaan@post.cz
 profiles:
   
-ordkandidat: 11
+
 ---
 
 Ing. Jana Skopalová (*1981) - vysokoškolské ekonomické vzdělání.

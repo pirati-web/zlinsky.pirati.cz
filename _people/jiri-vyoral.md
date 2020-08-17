@@ -1,11 +1,14 @@
 ---
 uid: jiri.vyoral
 name:     Jiří Vyoral  	# běžně používáné jméno
-fullname: Jiří Vyoral  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: celnove
-- clenove
+
 
 img: people/jiri-vyoral.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: obchodní zástupce # kratký popis, max 160 znaků
 mail:
 - jiri.vyoral@pirati.cz

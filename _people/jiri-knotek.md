@@ -1,19 +1,20 @@
 ---
 uid: jiri.knotek
 name:     Jiří Knotek  	# běžně používáné jméno
-fullname: Jiří Knotek  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
+
 
 img: people/jiri-knotek.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: student politologie na UPOL <br>Uherské Hradiště # kratký popis, max 160 znaků
 mail:
 - jiri.knotek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jiri.knotek.3
-  
-ordkandidat: 6  
+
 ---
 
 Jiří Knotek (*20. srpna 1998, Uherské Hradiště) je členem Pirátské strany v MS Uherské Hradiště.

@@ -1,11 +1,14 @@
 ---
 uid: ales.fuksa
 name:     Aleš Fuksa  	# běžně používáné jméno
-fullname: Aleš Fuksa  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
-- senat
+
 
 img: people/ales-fuksa.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: novinář, kandidát do senátu # kratký popis, max 160 znaků
 mail:
 - ales.fuksa@pravo.cz

@@ -1,11 +1,14 @@
 ---
 uid: patrik.marcian
 name:     Patrik Marcián  	# běžně používáné jméno
-fullname: Patrik Marcián  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/patrik-marcian.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: finanční poradce # kratký popis, max 160 znaků
 mail:
 - patrik.marcian@pirati.cz

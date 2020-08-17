@@ -1,11 +1,14 @@
 ---
 uid: petr.hejny
 name:     Petr Hejný  	# běžně používáné jméno
-fullname: Petr Hejný  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/petr-hejny.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: plánovač výroby # kratký popis, max 160 znaků
 mail:
 - petr.hejny@pirati.cz

@@ -1,26 +1,24 @@
 ---
 uid: vratislav.krejcir
 name:     Vratislav Krejčíř  	# běžně používáné jméno
-fullname: Vratislav Krejčíř  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- pms
-- clenove
-- pks
-- zastupitele
-- pms
-- kandidat
+- predsednictvo
+- kontaktni_osoba
+- mistni_predsedove
+ord_predsednictvo: 1
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
-description: Předseda KS Zlínský kraj<br>předseda MS Kroměříž<br>místostarosta Kroměříže<br>Kroměříž # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: Předseda KS ZLK<br>předseda MS Kroměříž<br>místostarosta Kroměříže # kratký popis, max 160 znaků
 mob:			  +420 776 666 144
 mail:
 - vratislav.krejcir@pirati.cz
 profiles:
   facebook: https://facebook.com/vratislav.krejcir.kromeriz
   instagram: https://instagram.com/vratislavjepirat
-ordpks: 1
-ordpms: 2
-ordkandidat: 8
 ---
 
 Vratislav Krejčíř (*2. 3. 1982, Kroměříž) je celoživotní optimista, který se snaží svůj pozitivní přístup přenášet do všeho, co dělá, a předávat ho i lidem kolem sebe.

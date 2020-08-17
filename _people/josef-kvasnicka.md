@@ -1,11 +1,14 @@
 ---
 uid: josef.kvasnicka
 name:     Josef Kvasnička  	# běžně používáné jméno
-fullname: Josef Kvasnička  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/josef-kvasnicka.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: konstruktér # kratký popis, max 160 znaků
 mail:
 - josef.kvasnicka@pirati.cz

@@ -1,12 +1,14 @@
 ---
 uid: marek.houser
 name:     Marek Houser  	# běžně používáné jméno
-fullname: Marek Houser  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 # kategorie
-- clenove
-- pms
-- kandidat
+- mistni_predsedove
+
 img: people/marek-houser.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: předseda MS Uherské Hradiště<br>marketingový specialista<br>Uherské Hradiště         	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
@@ -14,9 +16,7 @@ mob:			  +420 725 611 894
 profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
-ordkontakty: 2
-ordpms: 3
-ordkandidat: 7
+
 ---
 
 Marek Houser (*6. prosince 1988, Zlín) je předsedou MS Uherské Hradiště. Je ženatý a má syna. Sedmadvacet let bydlel v Otrokovicích, nyní je obyvatelem Uherského Hradiště.

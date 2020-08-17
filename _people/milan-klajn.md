@@ -1,22 +1,19 @@
 ---
 uid: milan.klajn
 name:     Milan Klajn  	# běžně používáné jméno
-fullname: Milan Klajn  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- zastupitele
-- pms
-- kandidat
+- mistni_predsedove
 
 img: people/milan-klajn.jpg   # 165 x 220
-description: zastupitel Zlína<br>plavčík, terapeut<br>Zlín # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: předseda MS Zlín<br>zastupitel Zlína<br>plavčík, terapeut # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zbristvimejla
-
-odrpms: 1
-ordkandidat: 17
 ---
 
 Milan Klajn (*23. března 1977, Český Brod) žije ve Zlíně, kde působí jako místopředseda místního sdružení.

@@ -1,13 +1,14 @@
 ---
 uid: matej.krajca
 name:     Matěj Krajča  	# běžně používáné jméno
-fullname: Matěj Krajča  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 42
+
 
 img: people/matej-krajca.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: bankovní specialista<br>člen Komise životního prostředí ve Zlíně<br>Zlín # kratký popis, max 160 znaků
 mail:
 - matej.krajca@pirati.cz

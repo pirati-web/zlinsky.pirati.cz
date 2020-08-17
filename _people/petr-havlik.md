@@ -1,13 +1,14 @@
 ---
 uid: petr.havlik
 name:     Petr Havlík  	# běžně používáné jméno
-fullname: Ing. Petr Havlík  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clenove
-- clenove
-- kandidat
-ordkandidat: 36
+
 
 img: people/petr-havlik.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Správce sítě IT <br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - petr.havlik@pirati.cz

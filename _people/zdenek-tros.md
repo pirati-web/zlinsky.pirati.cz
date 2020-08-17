@@ -1,21 +1,22 @@
 ---
 uid: zdenek.tros
 name:     Zdeněk Třos  	# běžně používáné jméno
-fullname: Zdeněk Třos  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
-- clenove
-- pks
-- kandidat
-ordkandidat: 14
+- predsednictvo
+
+ord_predsednictvo: 5
 
 img: people/zdenek-tros.jpg   # 165 x 220
-description: 4. místopředseda KS Zlínský kraj<br>OSVČ, jednatel<br>Rožnov p.R. # kratký popis, max 160 znaků
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: 4. místopředseda KS ZLK<br>OSVČ, jednatel<br>Rožnov p.R. # kratký popis, max 160 znaků
 mail:
 - zdenek.tros@pirati.cz
 profiles:
   facebook: https://www.facebook.com/zdenek.tros
-ordpks: 5
-  
+
 ---
 
 Zdeněk Třos (*15. prosince 1981, Valašské Meziříčí) je členem Pirátské strany od roku 2017 a od jara 2020 4. místopředsedou Zlínského kraje. Zdeněk pochází z Rožnova p.R., kde bydlí takřka celý život.

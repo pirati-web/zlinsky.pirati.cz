@@ -1,11 +1,14 @@
 ---
 uid: hynek.polasek
 name:     Hynek Polášek  	# běžně používáné jméno
-fullname: Hynek Polášek 	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: clenove
-- clenove
+
 
 img: people/hynek-polasek.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: Správce IT # kratký popis, max 160 znaků
 mail:
 - hynek.polasek@pirati.cz

@@ -1,14 +1,14 @@
 ---
 uid: michal.stepanik
 name:     Michal Štěpaník  	# běžně používáné jméno
-fullname: Michal Štěpaník  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                   # kategorie: clenove
-- clenove
-- zastupitele
-- kandidat
-ordkandidat: 16
+
 
 img: people/michal-stepanik.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: zastupitel města Napajedla<br>elektrotechnik<br>Napajedla # kratký popis, max 160 znaků
 mail:
 - michal.stepanik@pirati.cz

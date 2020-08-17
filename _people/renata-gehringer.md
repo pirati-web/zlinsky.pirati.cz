@@ -1,18 +1,21 @@
 ---
 uid: renata.gehringer
 name:     Renata Gehringer  	# běžně používáné jméno
-fullname: Mgr. Bc. Renata Gehringer 	# jméno s tituly etc.
+titles:
+  before: Mgr. Bc.
+  after:
 category:                   # kategorie: clenove
-- kandidat
+
 
 img: people/renata-gehringer.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: registrovaný příznivec Pirátů<br>středoškolský pedagog<br>Valašské Meziříčí # kratký popis, max 160 znaků
 mail:
 
 profiles:
   facebook: https://www.facebook.com/Renata.Gehringer
 
-ordkandidat: 15
+
 ---
 
 Mgr. et Bc. Renata Gehringer (*27. března 1970, Vsetín)
