@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Humans of Piráti: Jiří Jaroš: Cestování je nejlepší prevence proti xenofobii a nesnášenlivosti'
 date: 2020-07-05
-author: Jakub Zach
-authorId: jakub.zach
+author: Jiří Jaroš
+authorId: jiri.jaros
 image: posts/humansjaros.jpg  #751x422 pixelu
 tags: 
 - zlinsky-kraj
