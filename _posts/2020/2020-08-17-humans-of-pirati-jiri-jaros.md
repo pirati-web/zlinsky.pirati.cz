@@ -5,7 +5,7 @@ title: 'Humans of Piráti: Jiří Jaroš: Cestování je nejlepší prevence pro
 date: 2020-07-05
 author: Jakub Zach
 authorId: jakub.zach
-image: posts/kubazach.jpg  #751x422 pixelu
+image: posts/humansjaros.jpg  #751x422 pixelu
 tags: 
 - zlinsky-kraj
 - krajske-volby
