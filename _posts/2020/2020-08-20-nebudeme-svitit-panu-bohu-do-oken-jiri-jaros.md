@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: '„Nebudeme svítit pánubohu do oken“, tvrdí Jiří Jaroš, kandidát Pirátů a radní města Zlín'
-date: 2020-08-17
+date: 2020-08-20
 author: Jiří Jaroš
 authorId: jiri.jaros
 image: posts/svetlazlin.jpg
