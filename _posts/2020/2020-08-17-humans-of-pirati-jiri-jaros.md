@@ -12,7 +12,6 @@ tags:
 - jiri-jaros
 - humans-of-pirati
 important: true
-
 ---
 
 „Procestoval jsem půlku světa s batůžkem na zádech a uvědomil si, že na světě jsou dobří lidé. Cestování je velmi dobrá prevence proti rasismu, xenofobii, homofobii a jiným formám nesnášenlivosti. Tuto zkušenost mohu každému vřele doporučit.
