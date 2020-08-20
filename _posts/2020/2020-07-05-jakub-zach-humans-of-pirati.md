@@ -9,7 +9,7 @@ image: posts/kubazach.jpg  #751x422 pixelu
 tags: 
 - zlinsky-kraj
 - krajske-volby
-- jakubzach
+- jakub-zach
 - humans-of-pirati
 ---
 
