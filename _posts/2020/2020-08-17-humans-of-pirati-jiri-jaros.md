@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Humans of Piráti: Jiří Jaroš: Cestování je nejlepší prevence proti xenofobii a nesnášenlivosti'
-date: 2020-07-05
+date: 2020-08-20
 author: Jiří Jaroš
 authorId: jiri.jaros
 image: posts/humansjaros.jpg  #751x422 pixelu
