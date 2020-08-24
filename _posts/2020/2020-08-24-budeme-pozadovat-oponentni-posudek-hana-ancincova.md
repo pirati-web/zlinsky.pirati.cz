@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová: Budeme požadovat oponentní posudek na stavbu nové nemocnice'
-date: 2020-08-24
+date: 2020-08-25
 author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/zlinnemocnice.jpg
