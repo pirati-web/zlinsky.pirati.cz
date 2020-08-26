@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Humans of Piráti: Zuzana Fišerová: Není mi jedno, jakou budoucnost zanecháme našim dětem'
 date: 2020-08-09
 author: Zuzana Fišerová
-authorId: zuzanafiserova
+authorId: zuzana.fiserova
 image: posts/humanszuzka.jpg  #751x422 pixelu
 tags: 
 - zlinsky-kraj
