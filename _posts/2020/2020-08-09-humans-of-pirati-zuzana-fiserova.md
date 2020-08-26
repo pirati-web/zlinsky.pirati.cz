@@ -11,7 +11,6 @@ tags:
 - krajske-volby
 - zuzana-fiserova
 - humans-of-pirati
-important: true
 ---
 
 Před lety jsem se několikrát dostala do zákopové války se zlínskou radnicí, kdy jsem na vlastní kůži zažila, jak je byrokratický šiml odolný. Tehdy jsem byla na rodičovské dovolené a snažila se změnit drobné nešvary, které jsem viděla při svých četných procházkách s kočárem. Aby se mým podnětem úředníci zabývali, musela jsem nasbírat ještě ve svém okolí řadu podpisů a znovu svůj podnět podat. Celkově jsem takto komunikovala s radnicí asi dva roky, rostl ve mě pocit zmaru a ztraceného času.
