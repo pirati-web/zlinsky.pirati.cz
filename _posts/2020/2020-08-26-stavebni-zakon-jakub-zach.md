@@ -11,6 +11,7 @@ tags:
 - krajske-volby
 - jakub-zach
 - stavebni-rizeni
+important: true
 ---
 Vládou prošel návrh novely stavebního zákona.  Co se mění k lepšímu pro normální lidi, kteří chtějí postavit svůj domek ještě za jejich života? Prakticky nic. 
 
