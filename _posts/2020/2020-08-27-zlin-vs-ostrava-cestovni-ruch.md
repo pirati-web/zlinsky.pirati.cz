@@ -12,7 +12,7 @@ tags:
 - zuzana-fiserova
 - cestovni-ruch
 ---
-Bedlivě sleduji, jaké podpory se dostává oblasti cestovního ruchu ze strany jednotlivých krajů. Dost se liší. Zatímco Moravskoslezský kraj se rozhodl tuto oblast „nakopnout“ masivními dotacemi, Zlínský jen opatrně přešlapává. Na severu Moravy můžete od září do konce října do [60 turistických cílů zcela zdarma](https://severnimorava.travel/musite-zazit/objevuj-moravskoslezsky-kraj-zdarma/homepage{:target="_blank"}. Vstupné, které by jinak návštěvníci uhradili ze své kapsy, bude kompenzovat kraj. Celkem Moravskoslezský kraj rozdělí 30 miliónů korun. Výše příspěvků se odvodí od tržeb za stejné období  z minulého roku a tato částka bude navýšena ještě o 15 procent. 
+Bedlivě sleduji, jaké podpory se dostává oblasti cestovního ruchu ze strany jednotlivých krajů. Dost se liší. Zatímco Moravskoslezský kraj se rozhodl tuto oblast „nakopnout“ masivními dotacemi, Zlínský jen opatrně přešlapává. Na severu Moravy můžete od září do konce října do [60 turistických cílů zcela zdarma](https://severnimorava.travel/musite-zazit/objevuj-moravskoslezsky-kraj-zdarma/homepage){:target="_blank"}. Vstupné, které by jinak návštěvníci uhradili ze své kapsy, bude kompenzovat kraj. Celkem Moravskoslezský kraj rozdělí 30 miliónů korun. Výše příspěvků se odvodí od tržeb za stejné období  z minulého roku a tato částka bude navýšena ještě o 15 procent. 
 
 Zlínský kraj se k takto masivní podpoře neodhodlal. Zaměřil se na pouze na „lákání“ turistů drobnými marketingovými akcemi. Věděli jste například, že po celé prázdniny mohly děti zdarma do Muzea jihovýchodní Moravy a do Krajské galerie? V rámci akce „Zlínský kraj dětem na prázdniny“. 
 
