@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 
 
 img: people/denis-rychtar.jpg   # 165 x 220
-heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+heroImg: articles/lide/hero-denis-rychtar.jpg
 description: zastupitel Valašského Meziříčí, chemik-velinář <br>Valašské Meziříčí # kratký popis, max 160 znaků
 mail:
 - denis.rychtar@pirati.cz
