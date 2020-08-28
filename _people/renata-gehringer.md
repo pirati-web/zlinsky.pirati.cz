@@ -20,7 +20,7 @@ profiles:
 
 Mgr. et Mgr. Renata Gehringer (*27. března 1970, Vsetín)
 
-##### *„Jsem životní optimista, bojovník za lidská práva, spravedlnost, kompetentnost a čestnost na vedoucích pozicích. Usiluji o slušné zacházení s lidmi i se zvířaty. Žiji v přesvědčení, že zdravý rozum a pravda vítězí..."*
+> *„Jsem životní optimista, bojovník za lidská práva, spravedlnost, kompetentnost a čestnost na vedoucích pozicích. Usiluji o slušné zacházení s lidmi i se zvířaty. Žiji v přesvědčení, že zdravý rozum a pravda vítězí..."*
 
 Středoškolská studia jsem absolvovala na SPŠE v Rožnově pod Radhoštěm v oboru mikroelektronika. Krátce jsem působila jako technický pracovník v Deza a. s. Poté jsem studovala na Pedagogické fakultě Ostravské univerzity učitelství matematiky a základů techniky pro základní a střední školy.
 
