@@ -17,10 +17,6 @@ profiles:
 
 ---
 
-Jiří Knotek (*20. srpna 1998, Uherské Hradiště) je členem Pirátské strany v MS Uherské Hradiště.
+Jiří Knotek (*20. srpna 1998, Uherské Hradiště) je členem Pirátské strany v MS Uherské Hradiště. Je student Politologie a hrdý občan Strání na Slovácku. To je nejmladší kandidát v rámci naší první desítky kandidátky. Do politiky se rozhodnul vstoupit z toho důvodu, že se mu nelíbí současná situace v kraji. Jirka se zaměřuje především na kulturu a sport. Tato témata jsou mu zatím nejbližší a snaží se vymýšlet nové způsoby, jak k těmto odvětvím nahlížet. Především se zaměřuje na udržení folklorních tradic, které jsou ve Zlínském kraji silně zakořeněny, udržení divadelních ochotnických spolků a podpořit zvyšující oblibu letních kin. Jirka má rád ve volném čase například výšlap na Javorník, nebo si rád zahraje počítačovou hru. 
+Voliči jej mohou kontaktovat jak na Facebooku, tak na mailu.
 
-Vystudoval Střední průmyslovou školu v Uherském Brodě v oboru strojírenství a následně po maturitě začal studovat obor Politologie a evropská studia na Univerzitě Palackého v Olomouci, kde momentálně studuje druhý ročník.
-
-Mezi jeho zájmy patří politika, počítačové hry a sport. Je fanouškem Lovecraftova univerzita a knih ,,Metro". Navštěvuje místní zastupitelstvo ve Strání, kde sbírá zkušenosti a podněty pro politickou aktivitu.
-
-Členem pirátů je od roku 2019.
