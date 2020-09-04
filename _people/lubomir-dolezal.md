@@ -17,12 +17,8 @@ profiles:
 
 ---
 
-Lubomír Doležal (*30. dubna 1984, Kyjov) odmaturoval v roce 2004 na Střední škole automobilní v Kyjově a od roku 2005 podniká. Momentálně pracuje v Brně, kde se věnuje tvorbě rozpočtů a realizaci zakázek ve stavebnictví. Kromě toho příležitostně pracuje s kamarádem na návrzích tzv. chytrých zrcadel.
+Lubomír Doležal (*30. dubna 1984, Kyjov) odmaturoval v roce 2004 na Střední škole automobilní v Kyjově a od roku 2005 podniká. 
 
-Má na starost sbor dobrovolných hasičů v obci Stupava a organizuje veškeré jeho akce. Mezi jeho záliby patří rodina se dvěma dětmi, cestování, geocaching a práce na rekonstrukci mlýna ze 17. století a samozřejmě politické dění světové i domácí.
+Lubomír je starosta dobrovolných hasičů ve Stupavě a dále tvoří rozpočet a realizaci zakázek ve stavebnictví v rámci jedné Brněnské firmy. Lubomír se k Pirátům nalodil po volbách v roce 2017. V roce 2018 už kandidoval ve Stupavě do obecního zastupitelstva a hned byl úspěšný. V rámci kraje mu vadí prorůstání byznysu do oblasti politiky. Chce se zasloužit o transparentní nastavení kraje, kde bude jasné, jak je s penězi občanů nakládáno. Kromě politiky a práce tráví rád čas s rodinou a rekonstruuje mlýn ze 17. století. 
+Voliči jej mohou kontaktovat na Facebooku, nebo na mailu. 
 
-Do Pirátské strany vstoupil po volbách v roce 2017 s cílem usměrnit agresivní činnost firem působících v oblasti ochrany autorských práv. Je aktivním členem místního sdružení Pirátské strany v Uherském Hradišti a zajímá se o politické a jiné kauzy v okolí rodné vesnice Stupava. Ve své obci bude v roce 2018 kandidovat v komunálních volbách.
-
-„Už se nemůžu dívat na to, jak v naší zemi sílí pro východní orientace na Rusko a Čínu, vadí mi prorůstání byznysu do politiky a všudypřítomná korupce, chci pomoci kultivovat politickou scénu a pomoci více otevřít lidem místní úřady, tak aby se maximálně eliminovalo skryté dění na těchto místech.”
-
-V roce 2018 byl zvolen zastupitelem malé vesnice Stupavé u Uherského Hradiště.
