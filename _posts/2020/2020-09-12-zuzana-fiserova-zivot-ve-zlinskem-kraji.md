@@ -5,7 +5,7 @@ title: 'Zlínský kraj je páté nejlepší místo pro život? Tak proč z něj 
 date: 2020-09-12
 author: Zuzana Fišerová
 authorId: zuzana.fiserova
-image: posts/stavba.jpg
+image: posts/zuzkazivot.jpg
 tags: 
 - zlinsky-kraj
 - krajske-volby
