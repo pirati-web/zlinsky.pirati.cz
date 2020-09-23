@@ -10,6 +10,7 @@ tags:
 - zlinsky-kraj
 - krajske-volby
 - sport
+important: true
 ---
 
 Dotace. Neustále omílané zaklínadlo. Jedni příjemci bez nich nejsou schopni pomalu ani přežít, pro jiné představují jen milý bonus. Celkově ale přidělávají veřejnosti vrásky kvůli své časté netransparentnosti a lehké zneužitelnosti. Když z pohledu dotací vezmu v úvahu sílu dopravy a zemědělství, osobně řadím na třetí nejrizikovější místo pro “ulívání” peněz sport. Kolem pořádání jednorázových sportovních akcí i dlouhodobého vedení sportovních klubů a spolků se pohybuji dostatečně dlouho na to, abych mohl tvrdit, že systém rozdělování financí je v tomto segmentu slabý na transparentnost.
