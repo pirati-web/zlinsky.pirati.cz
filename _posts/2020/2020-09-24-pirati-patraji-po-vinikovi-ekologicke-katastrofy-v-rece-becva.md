@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Piráti pátrají po viníkovi ekologické katastrofy v řece Bečvě, kandidátka na hejtmanku Hana Ančincová podává trestní oznámení'
+title: 'Piráti volají po viníkovi ekologické katastrofy v řece Bečvě, kandidátka na hejtmanku Hana Ančincová podává trestní oznámení'
 date: 2020-09-24
 author: Jaromír Horký
 authorId: jaromir.horky
