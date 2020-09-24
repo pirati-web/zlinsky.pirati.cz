@@ -15,4 +15,8 @@ mail:
 profiles:
   
 ---
+Marek Pochylý - pracuje jako OSVČ v oblasti informačních technologií. Konkrétně IT servis, webdesign a online marketing. Je hrdý Hradišťák, manžel a otec 2 dětí. 
 
+Dříve pracoval v reklamní agentuře, kde měl na starost obchod, později i grafické práce a technické poradenství. Miluje cestování, sci-fi a snowboarding.
+
+Ve svém volném čase se věnuje novým technologiím a je členem komise pro informační a komunikační technologie města Uherské Hradiště.
