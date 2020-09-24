@@ -12,7 +12,7 @@ tags:
 - zivotni-prostredi
 ---
 
-V posledních dnech jsme svědky ekologické katastrofy desetiletí v řece Bečvě. Uhynuly desítky tisíc ryb a život byl zde zcela zdevastovaný. Tomu Piráti nemohou pouze přihlížet. Tato tragédie má samozřejmě svého viníka, který je odpovědný za vypuštění či únik jedovaté látky patrně na úseku Valašské Meziříčí – Choryně. Ekonomka  a kandidátka na hejtmanku ve Zlínském kraji Hana Ančincová se proto rozhodla po dohodě s ostatními členy a kandidáty podat trestní oznámení na neznámého pachatele. Zároveň apeluje na kraj, aby finančně pomohl Moravskému rybářskému svazu, který se nyní snaží zajistit zejména likvidaci stovek tun ryb.
+V posledních dnech jsme svědky ekologické katastrofy desetiletí v řece Bečvě. Uhynuly desítky tisíc ryb a život byl zde zcela zdevastovaný. Tomu Piráti nemohou pouze přihlížet. Tato tragédie má samozřejmě svého viníka, který je odpovědný za vypuštění či únik jedovaté látky patrně na úseku Valašské Meziříčí – Choryně. Ekonomka  a kandidátka na hejtmanku ve Zlínském kraji Hana Ančincová se proto rozhodla po dohodě s ostatními členy a kandidáty podat trestní oznámení na neznámého pachatele. Zároveň apeluje na kraj, aby finančně pomohl Moravskému rybářskému svazu, který se nyní snaží zajistit zejména likvidaci desítek tun ryb.
 
 
 Piráti se pokouší na úseku Valašské Meziříčí – Choryně vytvořit přehled rizikových míst, ze kterých nebezpečná látka by mohla uniknout. Zkáza v řece Bečvě je obrovská. Hasiči, rybáři a dobrovolníci likvidují uhynulé kusy ryb, které se budou počítat na tuny. Povodí Moravy zareagovalo na vzniklou situaci a začalo z nádrže upouštět více vody, aby došlo ke snížení koncentrace látky v řece Bečvě. Případem se zabývá Česká inspekce životního prostředí.
