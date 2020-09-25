@@ -16,7 +16,7 @@ profiles:
 
 ---
 
-Jaromír Slezák (*2. ledna 1988, Vizovice) vystudoval soukromou střední školu pedagogickou a sociální ve Zlíně. V současné době pracuje jako disponent zahraniční kamionové dopravy.
+Jaromír Slezák (*2. ledna 1988, Vizovice) vystudoval soukromou střední školu pedagogickou a sociální ve Zlíně. V současné době pracuje jako imigrační úředník.
 
 Mezi jeho koníčky patří procházky po nádherných kopcích v okolí Vizovic, jízda na kole a cestování, které bylo vždy Jaromírovým snem. I proto se rozhodl vyrazit s kamarády na Nový Zéland. Na Zélandu se mu zalíbilo natolik, že tam zůstal 3 roky a potkal tam i svoji manželku Marii, která pochází z Chile. Další roky svého života strávil právě v Chile. Díky cestování navštívil hodně zajímavých míst a poznal spoustu lidí z celého světa, díky čemuž může lépe porovnat rozdíly v kulturách, zvycích a porozumět geopolitické situaci na různých kontinentech. 
 
