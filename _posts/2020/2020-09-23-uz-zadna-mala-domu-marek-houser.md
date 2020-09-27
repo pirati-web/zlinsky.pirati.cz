@@ -10,6 +10,7 @@ tags:
 - zlinsky-kraj
 - krajske-volby
 - sport
+- marek-houser
 important: true
 ---
 
