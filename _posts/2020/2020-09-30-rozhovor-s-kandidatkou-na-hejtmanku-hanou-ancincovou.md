@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová: Máme poslední šanci změnit budoucnost'
-date: 2020-09-12
+date: 2020-09-30
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/tiskovkahanka.jpg
