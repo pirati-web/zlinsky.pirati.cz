@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'CHCE TO ZMĚNU!'
-date: 2020-09-27
+date: 2020-10-02
 author: Josef Indra
 authorId: josef.indra
 image: posts/chcetozmenu.jpg
