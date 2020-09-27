@@ -12,6 +12,7 @@ tags:
 - zdravotnictvi
 - socialni-veci
 - krajske-volby
+- hana-ancincova
 ---
 Jestli bychom měli jmenovat hlavní oblasti, které jsou základem toho, co kraj svým občanům poskytuje, tak jsou to zdravotnictví a sociální služby. Jsou ale tyto dvě oblasti připraveny na demografický vývoj? Vzhledem k výsledkům demografické predikce očekáváme snížení počtu narozených dětí, a naopak výrazné navýšení počtu seniorů. Stručně řečeno málo rodíme, a bude se navyšovat počet seniorů. Ve zdravotnictví se to samozřejmě projeví ve zvýšeném počtu pacientů z této cílové skupiny a s tím související požadavky na lůžkové kapacity, přístrojové vybavení a lékařský personál. Současně dojde ke zvýšení navazující potřeby sociálních lůžek a potřeby domácí péče o starší pacienty. Tato situace klade velké potřeby na provázanost zdravotní a sociální péče, stojí před námi mnoho výzev, jak podpořit občany v běžných i tíživých situacích. 
 
