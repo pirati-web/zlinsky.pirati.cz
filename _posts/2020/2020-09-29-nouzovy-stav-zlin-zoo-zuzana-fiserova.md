@@ -5,7 +5,7 @@ title: '„Nouzový stav nám ukázal, že i Zlínský kraj by měl být také z
 date: 2020-09-29
 author: Zuzana Fišerová
 authorId: zuzana.fiserova
-image: posts/zoozlinjpg
+image: posts/zoozlin.jpeg
 tags: 
 - zlinsky-kraj
 - krajske-volby
