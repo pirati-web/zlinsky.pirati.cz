@@ -16,7 +16,7 @@ tags:
 
 Krajské fórum Pirátů ve Zlínském kraji se ve svém hlasování usneslo, že podporuje třetí otázku referenda vyhlášené ve Zlíně a souhlasí, aby město Zlín nepokračovalo v modelu provozování vodohospodářské infrastruktury, kdy je tato infrastruktura pronajímána společnosti Moravská vodárenská a.s.
 
-Po dvou letech pravomocného rozhodnutí soudu a po 16 letech od prodeje podniku není situace s vodohospodářskými podniky stále vyřešena. Město Zlín je největším akcionářem společnosti Vodovody a kanalizace Zlín a.s. a má proto možnost tuto kauzu samo vyřešit, což deklaroval i Nejvyšší správní soud. Piráti proto podporují, aby o budoucnosti vodohospodářské infrastruktury rozhodli sami občané.
+Po dvou letech pravomocného rozhodnutí soudu a po 16 letech od prodeje podniku není situace s vodohospodářským podnikem stále vyřešena. Město Zlín je největším akcionářem společnosti Vodovody a kanalizace Zlín a.s. a má proto možnost tuto kauzu samo vyřešit, což deklaroval i Nejvyšší správní soud. Piráti proto podporují, aby o budoucnosti vodohospodářské infrastruktury rozhodli sami občané.
 
 *„Privatizace vodních zdrojů a vodáren je velkým problém v celé ČR, kdy stát a také samosprávy dovolili rozprodej svého národního bohatství. Já jsem moc rád, že v Kroměříži jsme vodárny uchránili před zahraničními investory. Piráti budou vždy stát za tímto správným rozhodnutím. Je potřeba aby v jiných obcích došlo k navrácení vodních zdrojů do rukou samosprávy,“* říká kroměřížský místostarosta a krajský předseda Pirátů Vratislav Krejčíř
 
