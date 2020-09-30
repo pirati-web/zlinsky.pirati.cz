@@ -34,3 +34,6 @@ Pracovitostí, do voleb nejdeme už jako nováčci, máme za sebou několik let 
 **Co bys vzkázala občanům a našim voličům na závěr?**
 
 Nastala pro nás jedinečná příležitost, kdy můžeme změnit směřování našeho kraje. V těchto volbách můžete rozhodnout o jeho budoucnosti nejen pro sebe, ale také pro vaše děti. Jsou před námi velmi velká rozhodnutí, která mohou náš kraj poznamenat na několik desetiletí. My máme koncepci, jak náš kraj nasměrovat správným směrem, víme že to chce změnu!
+
+---
+
