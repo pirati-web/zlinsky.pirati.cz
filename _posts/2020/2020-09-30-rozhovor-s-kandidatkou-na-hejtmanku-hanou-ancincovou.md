@@ -12,7 +12,7 @@ tags:
 - hana-ancincova
 important: true
 ---
-Pár dní před volbami vám přinášíme rozhovor s Hanou Ančincovou, kandidátkou na hejtmanku Zlínského kraje. Položili jsme ji nejdůležitější otázky a také jsme ji předložili pár poznámek z internetových diskuzí. Přečtěte si celý rozhovor!
+Pár dní před volbami vám přinášíme rozhovor s Hanou Ančincovou, kandidátkou na hejtmanku Zlínského kraje. Položili jsme ji nejdůležitější otázky a také jsme ji předložili pár komentářů z internetových diskuzí. Přečtěte si celý rozhovor!
 
 **Jsi kandidátkou na hejtmanku Zlínského kraje, co tě k tomu přimělo?**
 
