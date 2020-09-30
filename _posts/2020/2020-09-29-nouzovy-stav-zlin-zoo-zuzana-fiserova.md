@@ -14,7 +14,7 @@ tags:
 - zlin
 ---
 
-Nejnavštěvovanější turistické místo celé Moravy Moravy a našeho Zlínského kraje je Zoologická zahrada Zlín, známá jako ZOO Lešná. Každoročně sem dojede přes 600 tisíc návštěvníků a po pražské ZOO je druhou nejnavštěvovanější zoologickou zahradou v České republice. 
+Nejnavštěvovanější turistické místo celé Moravy a našeho Zlínského kraje je Zoologická zahrada Zlín, známá jako ZOO Lešná. Každoročně sem dojede přes 600 tisíc návštěvníků a po pražské ZOO je druhou nejnavštěvovanější zoologickou zahradou v České republice. 
 
 Přesto, že je zlínská zoologická zahrada největším turistickým lákadlem Zlínského kraje, kraj se na jejím provozu prakticky nepodílí. Zřizovatelem je město Zlín, které přispívá ZOO na financování a z největší části si ZOO svůj provoz hradí z tržeb. Její provozní soběstačnost je nejvyšší mezi všemi zoologickými zahradami v České republice – činí 80,33 %. Město Zlín loni uhradilo zahradě celkem 43,4 mil. Kč 23,1 mil (roční příspěvek na provoz, 4,3 mil na opravu střechy zámku Lešná, 16 mil na investice). Samotná ZOO Zlín vydělala 105 milionů a příspěvky ze státního rozpočtu činily 2 miliony. Ze Zlínského kraje v posledních letech dostala ZOO 20 mil. na výběh slonů a na opravu střechy zámku. 
 
