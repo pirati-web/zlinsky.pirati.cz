@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti v boji o senátorské křeslo podporují ředitele uherskohradišťské nemocnice Petra Sládka'
-date: 2020-09-30
+date: 2020-10-01
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/petrsladek.jpg
@@ -23,6 +23,6 @@ Co se bitvy o Senát týče, o podporu krajské Pirátské strany požádal nest
 
 Jak uvedl dvaapadesátiletý kandidát ve svých prezentačních materiálech, v horní komoře Parlamentu by chtěl ovlivňovat tvorbu zákonů tak, aby nám všem byly ku prospěchu a nekomplikovaly život. V případě zvolení má tři priority: zdravotnictví, sociální péči a udržení zaměstnanosti.
 
-Petr Sládek se narodil v Uh. Hradišti, kde také v 90.letech začal na ORL oddělení, kde později působil jako zástupce primáře. Po krátké pauze, během které si otevřel vlastní ambulanci, se do nemocnice v roce 2013 vrátili na pozici ředitele, kde je doposud. Chvíli také působil v zastupitelstvu Uh. Hradiště. 
+Petr Sládek se narodil v Uh. Hradišti, kde také v 90.letech začal na ORL oddělení, kde později působil jako zástupce primáře. Po krátké pauze, během které si otevřel vlastní ambulanci, se do nemocnice v roce 2013 vrátili na pozici ředitele, kde je doposud. Chvíli také působil v zastupitelstvu Uh. Hradiště. Více informací o kandidátovi si můžete přečíst [zde](https://mudrpetrsladek.cz/){:target="_blank"}..
 
 **Volby do Senátu České republiky proběhnou již v pátek a v sobotu 2. a 3. října 2020.** 
