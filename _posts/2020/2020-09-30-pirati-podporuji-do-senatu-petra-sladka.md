@@ -10,7 +10,9 @@ tags:
 - zlinsky-kraj
 - senat
 - frantisek-elfmark
+- hana-ancincova
 - petr-sladek
+important: true
 ---
 
 Piráti, kteří si podle aktuálního průzkumu veřejného mínění drží u lidí druhé místo v oblíbenosti, zahájili oficiálně kampaň pro krajské volby začátkem září. Volební TOURbus brázdil malebná města našeho regionu s lídryní Hanou Ančincovou a dalšími kandidáty.
