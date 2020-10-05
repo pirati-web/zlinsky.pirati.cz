@@ -5,6 +5,8 @@ titles:
   before: Ing. Mgr.
   after: Ph.D.
 category:                   # kategorie: clenove
+- krajsti-zastupitele
+ord_krajsti-zastupitele: 5
 
 
 img: people/zuzana-fiserova.jpg   # 165 x 220
