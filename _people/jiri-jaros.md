@@ -6,8 +6,9 @@ titles:
   after:
 category:                   # kategorie: clenove
 - predsednictvo
-
+- krajsti-zastupitele
 ord_predsednictvo: 3
+ord_krajsti-zastupitele: 2
 
 img: people/jiri-jaros.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
