@@ -5,6 +5,8 @@ titles:
   before: Bc.
   after:
 category:                   # kategorie: clenove
+- krajsti-zastupitele
+ord_krajsti-zastupitele: 1
 
 img: people/hana-ancincova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
