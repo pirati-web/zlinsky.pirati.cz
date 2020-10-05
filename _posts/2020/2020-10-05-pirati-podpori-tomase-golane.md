@@ -20,4 +20,4 @@ Krajské fórum Pirátů Zlínského kraje ve veřejných primárních volbách 
 
 Piráti by na oplátku měli očekávat podporu v krajských volbách, které se budou konat na podzim souběžně s těmi senátorskými. *„Těším se na spolupráci nejen  na krajské úrovni. S panem Goláněm máme společný náhled na mnohá témata a těším se na jeho odborný vhled do našich krajských expertních týmů,”* říká nově zvolená krajská zastupitelka a lídryně Pirátů Hana Ančincová.
 
-Druhé kolo senátních voleb se uskuteční 9. a 10. října
+Druhé kolo senátních voleb se uskuteční 9. a 10. října.
