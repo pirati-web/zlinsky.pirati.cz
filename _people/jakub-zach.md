@@ -5,6 +5,8 @@ titles:
   before: Ing. arch.
   after:
 category:                   # kategorie: clenove
+- krajsti-zastupitele
+ord_krajsti-zastupitele: 4
 
 
 img: people/jakub-zach.jpg   # 165 x 220
