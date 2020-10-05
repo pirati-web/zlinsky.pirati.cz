@@ -5,6 +5,8 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- krajsti-zastupitele
+ord_krajsti-zastupitele: 6
 
 
 img: people/jiri-knotek.jpg   # 165 x 220
