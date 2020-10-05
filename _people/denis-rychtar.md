@@ -5,6 +5,8 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- krajsti-zastupitele
+ord_krajsti-zastupitele: 3
 
 
 img: people/denis-rychtar.jpg   # 165 x 220
