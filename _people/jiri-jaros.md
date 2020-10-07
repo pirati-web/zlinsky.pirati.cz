@@ -13,7 +13,7 @@ ord_krajsti-zastupitele: 2
 img: people/jiri-jaros.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
 description: 2. místopředseda KS ZLK<br>radní Zlína, IT technik <br>Zlín # kratký popis, max 160 znaků
-mob:			  +420 724 646 710
+mob:			  
 mail:
 - jiri.jaros@pirati.cz
 profiles:
