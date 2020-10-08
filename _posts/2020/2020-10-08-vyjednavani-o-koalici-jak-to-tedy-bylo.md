@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Jak to bylo ve skutečnosti? Aneb vyjednávání Pirátů o nové krajské koalici'
-date: 2020-10-08
+date: 2020-10-09
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/vyjednavanijak.jpg
@@ -10,7 +10,7 @@ tags:
 - zlinsky-kraj
 - krajske-volby
 ---
-Chápeme, že se éterem začalo šířit hodně názorů na právě podepsané memorandum o vzniku nové koalice ANO+Piráti+ODS+ČSSD. Nechceme, abyste si udělali obrázek jen na základě mediálních vyjádření jiných stran, proto bychom zde rádi uvedli několik informací, které včera dostatečně nezazněly nebo byly intepretovány jinak, než byla skutečnost.
+Chápeme, že se éterem začalo šířit hodně názorů na právě podepsané memorandum o vzniku nové koalice ANO+Piráti+ODS+ČSSD. Nechceme, abyste si udělali obrázek jen na základě mediálních vyjádření jiných stran, proto bychom zde rádi uvedli několik informací, které včera dostatečně nezazněly nebo byly interpretovány jinak, než byla skutečnost.
 
 Není pravda, že by hnutí STAN odmítlo nabídku od ANO, což nám následně potvrdili jak občanští demokraté, tak hnutí ANO. Hnutí STAN mělo lhůtu do středy do 18.00, stejně jako Piráti, kteří měli lhůtu jen do 12.00. Na schůzce, kde jsme hovořili o případném trojbloku se jednalo o případné koalici s ANO+trojblok, neboť ze strany KDU jednání probíhala velmi vlažně a bohužel do poslední chvíle KDU-ČSL nevyvrátila ani dotaz, zda se Jiří Čunek nakonec neobjeví v koalici jako radní. Jinými slovy hnutí STAN bylo ochotno jít jak do koalice ANO+STAN+Piráti+ODS, tak do případné koalice s ANO bez Pirátů. Proč to později popřeli, ví asi jen oni sami. 
 
