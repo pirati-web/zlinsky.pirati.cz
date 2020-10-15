@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hejtman Jiří Čunek schválil po volbách odkup pozemků pro novou nemocnici'
-date: 2020-10-15
+date: 2020-10-14
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/nemocnicecunek.jpg
@@ -19,7 +19,3 @@ Na základě [výpisu z registru smluv](https://smlouvy.gov.cz/smlouva/14065796)
 *„Já osobně považuji jednání hejtmana za velmi nezodpovědné, nemorální a hlavně egoistické. Pan hejtman si potřeboval prosadit své a šel přes mrtvoly, jde vidět, že mu opravdu na našem kraji nezáleží,”* dodal místostarosta města Kroměříže a krajský předseda Pirátů Vratislav Krejčíř, který dlouhodobě vystupuje proti stávajícímu prosazování nové nemocnice bez odborných dat.
 
 Piráti dlouhodobě poukazují na nutnost pořízení oponentního posudku na výstavbu nové nemocnice a apelují, aby se politici rozhodovali na základě tvrdých dat, nikoliv na základě svých domněnek.
-
-
-
-
