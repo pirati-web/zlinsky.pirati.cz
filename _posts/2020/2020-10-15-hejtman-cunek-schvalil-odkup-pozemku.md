@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Hejtman Jiří Čunek schválil po volbách odkup pozemků pro novou nemocnici'
+title: 'Hejtman Jiří Čunek podepsal po volbách odkup pozemků pro novou nemocnici'
 date: 2020-10-15
 author: Jaromír Horký
 authorId: jaromir.horky
