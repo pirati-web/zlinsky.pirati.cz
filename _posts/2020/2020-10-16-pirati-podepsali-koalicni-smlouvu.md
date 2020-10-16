@@ -5,7 +5,7 @@ title: 'Piráti podepsali Smlouvu o koaliční spolupráci v Zastupitelstvu Zlí
 date: 2020-10-16
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/koalice.jpg
+image: posts/koalice.JPG
 tags: 
 - zlinsky-kraj
 - hana-ancincova
