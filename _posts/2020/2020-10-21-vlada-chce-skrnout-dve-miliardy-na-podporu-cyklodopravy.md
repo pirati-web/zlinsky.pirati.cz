@@ -16,9 +16,7 @@ V červenci [vláda](https://zdopravy.cz/vlada-necekane-schvalila-miliardy-do-ro
 
 Máme říjen a [vláda říká](https://www.vlada.cz/cz/media-centrum/aktualne/vlada-schvalila-programy-na-pomoc-postizenym-podnikatelum-a-zamestnavatelum--podpori-kulturu-i-profesionalni-sport-184191){:target="_blank"}, že cyklostezky budovat nebude, ale peníze použije na šatny pro sportovce v obcích do 3000 obyvatel, což je prý nejlepší forma boje proti covidu. Šatna místo cyklostezky. Navíc pro šatny už byly již dříve vyčleněné 3 miliardy, teď k nim přibudou ještě 1,8 miliard určených na cyklostezky. Dává vám to smysl? Mně tedy ne. 
 
-Nejenom že jde vláda proti svému vlastnímu rozhodnutí, tak i jedná na poslední chvíli bez debaty se subjekty, které se problematikou dlouhodobě zabývají. Také jedná
-
-v rozporu s názorem [Asociace krajů](http://www.asociacekraju.cz/novinky/kraje-nesouhlasi-s-planem-statu-na-vyuziti-prostredku-react-eu-1.html){:target="_blank"}, které mají blíž k realitě v krajích a obcích než úředníci z Národní sportovní agentury. 
+Nejenom že jde vláda proti svému vlastnímu rozhodnutí, tak i jedná na poslední chvíli bez debaty se subjekty, které se problematikou dlouhodobě zabývají. Také jedná v rozporu s názorem [Asociace krajů](http://www.asociacekraju.cz/novinky/kraje-nesouhlasi-s-planem-statu-na-vyuziti-prostredku-react-eu-1.html){:target="_blank"}, které mají blíž k realitě v krajích a obcích než úředníci z Národní sportovní agentury. 
 
 A o to asi jde. S velkou pompou byla vytvořena Národní sportovní agentura. Teď jde zřejmě o to, nasměrovat peníze do této agentury, ber kde ber. Je nějaká studie, kolik šaten je v kolika obcích potřeba postavit a kolik by to mohlo stát? Je nějaká odborná analýza, proč je pro posílení zdraví občanů lepší budovat šatnu než cyklostezku? Proč se neřeší, že agentura dosud nerozdělila kvůli nezájmu žadatelů ani všechny peníze z dotace COVID-Sport, a tedy zda je opravdu nutné přesouvat miliardy odjinud.
 
