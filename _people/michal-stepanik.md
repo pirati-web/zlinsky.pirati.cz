@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: clenove
 - zastupitel_napajedla
-ordzastupitel: 2
+ord_zastupitel: 2
 
 img: people/michal-stepanik.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
