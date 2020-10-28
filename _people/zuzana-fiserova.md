@@ -6,7 +6,9 @@ titles:
   after: Ph.D.
 category:                   # kategorie: clenove
 - krajsti-zastupitele
+- zastupitel_zlin
 ord_krajsti-zastupitele: 5
+ordzastupitel: 2
 
 
 img: people/zuzana-fiserova.jpg   # 165 x 220
