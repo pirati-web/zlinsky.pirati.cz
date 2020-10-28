@@ -5,7 +5,9 @@ titles:
   before: 
   after:
 category:                   # kategorie: celnove
+- zastupitel_ostatni
 
+ordzastupitele: 1
 
 img: people/lubomir-dolezal.jpg   # 165 x 
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
