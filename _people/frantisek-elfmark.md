@@ -7,6 +7,7 @@ titles:
 category:                 # kategorie
 - predsednictvo
 - zastupitel_uh
+- poslanci
 
 ordzastupitel: 2
 ord_predsednictvo: 2
