@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: clenove
 - zastupitel_kromeriz
-ordzastupitel: 2
+ord_zastupitel: 2
 
 
 img: people/petr-stoklasa.jpg   # 165 x 220
