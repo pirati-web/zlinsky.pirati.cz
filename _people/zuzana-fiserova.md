@@ -8,7 +8,7 @@ category:                   # kategorie: clenove
 - krajsti-zastupitele
 - zastupitel_zlin
 ord_krajsti-zastupitele: 5
-ordzastupitel: 2
+ord_zastupitel: 2
 
 
 img: people/zuzana-fiserova.jpg   # 165 x 220
