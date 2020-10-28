@@ -8,6 +8,7 @@ category:                 # kategorie
 - predsednictvo
 
 ord_predsednictvo: 2
+ord_poslanci: 1
 
 img: people/frantisek.elfmark.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
