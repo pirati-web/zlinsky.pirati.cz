@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: clenove
 - zastupitel_otrokovice
-ordzastupitel: 1
+ord_zastupitel: 1
 
 
 img: people/petr-topek.jpg   # 165 x 220
