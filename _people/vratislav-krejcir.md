@@ -10,7 +10,7 @@ category:                   # kategorie: clenove
 - mistni_predsedove
 - zastupitel_kromeriz
 ord_predsednictvo: 1
-ordzastupitel: 1
+ord_zastupitel: 1
 
 img: people/vratislav-krejcir.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
