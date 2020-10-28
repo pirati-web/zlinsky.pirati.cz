@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: clenove
 - zastupitel_roznov
 
-ordzastupitel: 1
+ord_zastupitel: 1
 
 img: people/libor-adamek.jpg   # 165 x 220
 heroImg: articles/lide/hero-libor-adamek.jpg
