@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: clenove
 - zastupitel_napajedla
 
-ordzastupitel: 1
+ord_zastupitel: 1
 
 img: people/tomas-cabla.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
