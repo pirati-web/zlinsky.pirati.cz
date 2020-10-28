@@ -5,6 +5,8 @@ titles:
   before: 
   after:
 category:                   # kategorie
+- zastupitel_uh
+ordzastupitel: 1
 
 img: people/jaroslav-sevcik.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
