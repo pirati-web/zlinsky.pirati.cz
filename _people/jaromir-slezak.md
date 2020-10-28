@@ -5,6 +5,9 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- zastupitel_vizovice
+
+ord_zastupitel: 1
 
 img: people/jaromir-slezak.png   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
