@@ -6,7 +6,9 @@ titles:
   after: DiS.
 category:                 # kategorie
 - predsednictvo
+- zastupitel_uh
 
+ordzastupitel: 2
 ord_predsednictvo: 2
 ord_poslanci: 1
 
