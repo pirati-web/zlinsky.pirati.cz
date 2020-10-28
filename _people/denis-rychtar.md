@@ -6,7 +6,9 @@ titles:
   after:
 category:                   # kategorie: clenove
 - krajsti-zastupitele
+- zastupitel_valmez
 ord_krajsti-zastupitele: 3
+ord_zastupitel: 1
 
 
 img: people/denis-rychtar.jpg   # 165 x 220
