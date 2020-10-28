@@ -9,7 +9,7 @@ category:                 # kategorie
 - zastupitel_uh
 - poslanci
 
-ordzastupitel: 2
+ord_zastupitel: 2
 ord_predsednictvo: 2
 ord_poslanci: 1
 
