@@ -24,6 +24,6 @@ Chtěl bych závěrem apelovat na původce úniku: Pokud víte, že únik pochá
 
 **Odpovědi na mou interpelaci a dopis ČIŽP naleznete ke stažení zde:**
 
-[Elfmark_odpoved_Brabec_interpelace_Becva](https://www.frantisekelfmark.cz/wp-content/uploads/2020/10/Elfmark_odpoved_Brabec_interpelace_Becva.pdf){:target="_blank"
+[Elfmark_odpoved_Brabec_interpelace_Becva](https://www.frantisekelfmark.cz/wp-content/uploads/2020/10/Elfmark_odpoved_Brabec_interpelace_Becva.pdf){:target="_blank"}
 
-[Rozhodnuti_CIZP](https://www.frantisekelfmark.cz/wp-content/uploads/2020/10/rozhodnuti_CIZP.pdf){:target="_blank"
+[Rozhodnuti_CIZP](https://www.frantisekelfmark.cz/wp-content/uploads/2020/10/rozhodnuti_CIZP.pdf){:target="_blank"}
