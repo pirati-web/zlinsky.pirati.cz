@@ -11,6 +11,7 @@ tags:
 - hana-ancincova
 - zuzana-fiserova
 - krajske-volby
+important: true
 ---
 Přesně 14 dní po volbách podepsali zástupci vznikající krajské koalice Smlouvu o koaliční spolupráci v Zastupitelstvu Zlínského kraje pro volební období 2020-2024. Piráti obsadí místo 1. statutárního náměstka a další dvě místa v radě, z toho bude jedno neuvolněné.
 
