@@ -10,6 +10,7 @@ tags:
 - zlinsky-kraj
 - snemovna
 - frantisek-elfmark
+important: true
 ---
 Konec září poznamenala ekologická havárie na řece Bečvě (20.10.). Všichni jsme doufali v brzké nalezení viníka a zjištění důvodu havárie. Za celý říjen však vyšetřování nepřineslo v podstatě žádné nové informace a množí se spíše otazníky a nejasnosti okolo celého případu. Na písemnou interpelaci a dopis ČIŽP, které jsem odeslal v září, jsem sice v říjnu dostal odpovědi, avšak ČIŽP mi kvůli probíhajícímu vyšetřování odmítla sdělit informace o průběhu vyšetřování a ministr Brabec mne pouze ujistil, že žádá rychlé nalezení a potrestání viníka a věří v postup Policie ČR, která vyšetřování přebrala od ČIŽP. Kauza se celý měsíc nikam nehýbala a rozruch okolo ní pomalu utichal. To nahrává do karet viníkovi, neboť čím déle vyšetřování trvá, tím se zdá označení viníka méně pravděpodobné. Jelikož zametení této kauzy pod koberec je podle mne nepřípustné, rozhodl jsem se svým komentářem opět rozvířit diskuzi a havárii připomenout. Je třeba dávat najevo, že nás otrava řeky nenechává chladnými a také veřejnost má právo na informace.  Aby toho nebylo málo, 27.10. došlo k dalšímu úniku neznámé látky do řeky. Naštěstí však tentokrát zatím nebyl zaznamenán úhyn ryb ani jiných vodních organismů. Více o případu [zde](https://www.frantisekelfmark.cz/do-reky-becvy-opet-unikla-neznama-latka-pirati-zadaji-vysetreni-dnesni-i-zarijove-ekologicke-katastrofy-a-lepsi-ochranu-proti-znecisteni/){:target="_blank"}
 
