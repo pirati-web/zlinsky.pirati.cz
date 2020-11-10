@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Piráti byli zvoleni do krajské rady budou mít na starosti životní prostředí, sociální politiku, školství, ale i IT, kulturu a sport'
-date: 2020-11-12
+date: 2020-11-10
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/ustavujici.jpg
