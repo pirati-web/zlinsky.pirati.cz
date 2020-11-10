@@ -5,7 +5,7 @@ title: 'Piráti byli zvoleni do krajské rady budou mít na starosti životní p
 date: 2020-11-12
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/FOTOXYZ.jpg
+image: posts/ustavujici.jpg
 tags: 
 - zlinsky-kraj
 - hana-ancincova
