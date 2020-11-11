@@ -18,6 +18,6 @@ Před časem jsem [zde](https://www.piratskelisty.cz/clanek-3525-komentar-zuzany
 
 Premiér Andrej Babiš byl vyzván dopisem, aby vláda sporné rozhodnutí změnila a podporu výstavby cyklostezek znovu zařadila do programu. Nakonec se tedy 23.10. nehlasovalo, a premiér následně dopisem přislíbil, že 1,8 mld. by se mělo vrátit do programu na podporu cyklodopravy. To je dobrá zpráva. Špatná zpráva je, že došlo ke zbytečnému zdržení.
 
-Pokud by vláda včas zjistila názor krajů, obcí či odborných skupin, mohla si ušetřit několikaměsíční zdržení a na místo toho se mohla připravovat výzva pro čerpání dotací. Nyní si musíme počkat, až Ministerstvo při místní rozvoj znovu zapracuje podmínky pro cyklodopravu do návrhu a tento návrh bude pak schválen Monitorovacím výborem IROP. Přesto jsem ráda, že se společnými silami podařilo zvrátit jeden velký nesmysl.
+Pokud by vláda včas zjistila názor krajů, obcí či odborných skupin, mohla si ušetřit několikaměsíční zdržení a na místo toho se mohla připravovat výzva pro čerpání dotací. Nyní si musíme počkat, až Ministerstvo pro místní rozvoj znovu zapracuje podmínky pro cyklodopravu do návrhu a tento návrh bude pak schválen Monitorovacím výborem IROP. Přesto jsem ráda, že se společnými silami podařilo zvrátit jeden velký nesmysl.
 
 Mějme oči otevřené a nebojme se veřejně upozornit na problém, i když to vypadá, že už je „upečeno“.
