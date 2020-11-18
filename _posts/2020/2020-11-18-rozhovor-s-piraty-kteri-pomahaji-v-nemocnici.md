@@ -32,8 +32,6 @@ Prožíváme období krize, které si vyžaduje pomoc každého z nás. Zdravotn
 
 *VK:* Můj celý pracovní den se odvíjí vždy od schůzek, pracovních sezení apod. Teď je to trochu omezené, většina probíhá online, což je určitě dobré i skrz riziko možné nákazy. V práci trávím většinou 8–14 hodin denně. Jedná se hlavně o psaní emailů, vyřizování telefonátů a přemýšlení ani nepočítám. Převážení vzorků a materiálů věnuji cca hodinu denně, přizpůsobuji si tomu i pracovní den. Jsem moc rád, že klapla taková forma pomoci a mohl jsem ji zařadit do svého běžného pracovního dne. Příjezdem domů ale práce nekončí, doma oblékám většinou ještě montérky a snažím se svépomocí rekonstruovat dům. 
 
-![JIP](https://zlinsky.pirati.cz/assets/img/posts/pomocJIP.JPG)
-
 ### **Denně jste v kontaktu se zdravotnickým personálem, jak oni tuto těžkou situaci zvládají?**
 
 *PS:* Lékaři, sestry, ošetřovatelky, uklízečky, zkrátka všechen personál v nemocnici pracuje na více než sto procent. Je velice dobrý pocit vidět na vlastní oči, že pacient je vždy na prvním místě, i když všichni pracují ve velmi ztížených podmínkách. Ono není jednoduché se denně několikrát převlékat z propocených věcí. Práce v ochranných pomůckách není také jednoduchá. Neustále dbát na hygienická pravidla, aby člověk nenakazil sám sebe nebo někoho dalšího. Jde vidět únava, ale na druhou stranu i úsměv na tváři a snaha být stále psychicky pozitivní. Je to zkrátka velká výzva pro všechny z nás.
@@ -51,8 +49,6 @@ Prožíváme období krize, které si vyžaduje pomoc každého z nás. Zdravotn
 *PS:* Neustále se hledají dobrovolníci na všechny pozice, stačí zkontaktovat nejbližší nemocnici či pracoviště v sociálních službách a oni všechny dobrovolníky s otevřenou náručí přijmou. 
 
 *VK:* Na stránkách města nebo červeného kříže je možnost se přihlásit do pečovatelského kurzu. Také v sociálních službách právě hledáme dobrovolníky na tyto pozice. Pokud by měl někdo zájem, pomohu mu najít uplatnění.
-
-![vzorky](https://zlinsky.pirati.cz/assets/img/posts/vzorky.jpg)
 
 ### **Co byste na závěr vzkázali našim čtenářům?**
 
