@@ -26,6 +26,9 @@ Prožíváme období krize, které si vyžaduje pomoc každého z nás. Zdravotn
 
 *VK:* Jsem z povahy člověk, který se snaží všem a vždy pomáhat, cítil jsem potřebu pomoci i v této chvíli. Teď je to trochu jiné, jelikož mohu nakazit vedení radnice nebo svou rodinu. I přesto ale má vnitřní potřeba převažuje a má manželka mi řekla, zda to tak cítím, ať to určitě udělám. Sama by šla pomoci, kdyby se nestarala o naše dvě malé děti. Já jsem uvolněným politikem, starost a pomoc spoluobčanům mám vlastně v popisu práce. A dělám si tak trochu jako vždy srandu a když se mě někdo zeptá, odpovídám: „No stejně nám vyčítají, že je v Kroměříži moc místostarostů, jelikož jsem nejmladší, tak karta padla na mě”.
 
+![Petr Stoklasa na JIP](https://zlinsky.pirati.cz/assets/img/posts/pomocJIP.JPG)
+
+
 ### **Popsali byste čtenářům svůj pracovní den?**
 
 *PS:* Práce v nemocnici má svůj řád, který funguje po celý den, ať se jedná o denní směnu či noční směnu. Každá trvá 12 hodin. U pacientů provádíme hygienu, aplikujeme různé druhy léků, inhalaci, měříme tělesné funkce, obsluhujeme monitory životních funkcí, infuzní pumpy, dýchací přístroje atd. Když mám denní službu, tak si beru ve své práci dovolenou. Pokud jsem po noční směně, tak si jdu někdy na 2 hodiny lehnout a pak mám home office. Ale někdy zkrátka musím rovnou naskočit do druhého vlaku a jet třeba na schůzku do některé nemocnice v mém regionu. Určité výkony nepočkají ani v době covidové. 
@@ -37,6 +40,8 @@ Prožíváme období krize, které si vyžaduje pomoc každého z nás. Zdravotn
 *PS:* Lékaři, sestry, ošetřovatelky, uklízečky, zkrátka všechen personál v nemocnici pracuje na více než sto procent. Je velice dobrý pocit vidět na vlastní oči, že pacient je vždy na prvním místě, i když všichni pracují ve velmi ztížených podmínkách. Ono není jednoduché se denně několikrát převlékat z propocených věcí. Práce v ochranných pomůckách není také jednoduchá. Neustále dbát na hygienická pravidla, aby člověk nenakazil sám sebe nebo někoho dalšího. Jde vidět únava, ale na druhou stranu i úsměv na tváři a snaha být stále psychicky pozitivní. Je to zkrátka velká výzva pro všechny z nás.
 
 *VK:* Já mám kontakt omezený, většinou potkávám pracovníky jen na odběrových místech. Jde na nich ale také vidět únava, už to trvá pro všechny příliš dlouho. Vždy když mě vidí, jde vidět za tím respirátorem a v očích úsměv, protože můj příchod pro ně znamená konec pracovního dne a mnohdy mi to i řeknou. Co vidím ale na fotografiích a televizních záběrech je neskutečné. Všem těmto lidem i těm, které potkávám já patří hluboká úcta, respekt a můj vděk. Je to nápor na všechny zdravotnické i nezdravotnické pracovníky.
+
+![vzorky](https://zlinsky.pirati.cz/assets/img/posts/vzorky.jpg)
 
 ### **Co si z této krize odnesete vy osobně do budoucna?**
 
@@ -55,5 +60,3 @@ Prožíváme období krize, které si vyžaduje pomoc každého z nás. Zdravotn
 *PS:* Na závěr bych chtěl poděkovat všem, co se zapojili nebo zapojí jako dobrovolníci v jakémkoliv oboru zdravotnictví nebo sociálních službách. Každému, kdo cokoliv přinesl, aby těmto lidem zpříjemnil den. Chtěl bych také poprosit všechny občany, ať nevěří všemu, co se objeví v televizi či na sociálních sítích. Ať dodržují opatření, které se mají dodržovat. A pokud tomu nevěří tak, ať se zajdou podívat do nemocnice za lidmi, co vše prožívají na vlastní kůži. Věřím, že mnoho lidem by to otevřelo oči.
 
 *VK:* Je mi jasné, že každý nemá možnost nebo čas pomoci. Co ale může udělat každý je snažit se chránit sebe, svou rodinu a ostatní respektováním opatření. Vím, že se to může zdát jako omezování svých svobod, ale je to ta nejmenší daň za ochranu našeho zdraví. To, že nám to vláda neosvětluje na základě dat a jeví se to jako příkazy tomu nepomáhá, tak jako ekonomická opatření, které ne vždy dávají smysl. Chránit sebe, své blízké i ostatní ale smysl má, protože se chceme určitě všichni ve zdraví co nejdříve nadechnout bez roušek, dát si společně sodovku nebo pivo na zahrádce. Že je to maličkost nebo hloupost? I tohle v případě nepříznivého vývoje pandemie nemusí být realitou. Je to na každém z nás. Prosím, buďme ohleduplní a vytrvalí.
-
-
