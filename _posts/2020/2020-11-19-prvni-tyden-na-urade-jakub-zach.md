@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Jakub Zach: První týden na krajském úřadě a stav dopravy'
+title: 'Jakub Zach: Jaký je stav integrovaného dopravního systému?'
 date: 2020-11-18
 author: Jakub Zach
 authorId: jakub.zach
