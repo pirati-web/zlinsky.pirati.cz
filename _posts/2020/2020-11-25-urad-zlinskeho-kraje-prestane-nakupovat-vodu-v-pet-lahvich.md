@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Úřad Zlínského kraje přestane nově nakupovat vodu v PET lahvích'
-date: 2020-25-11
+date: 2020-11-25
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/bottle-2032980_1920.jpg
