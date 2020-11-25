@@ -14,5 +14,5 @@ important: true
 ---
 Statutární náměstkyně hejtmana Zlínského kraje Hana ančincová začala zbavovat úřad zbytečných plastů. Nově tak krajský úřad nebude nakupovat malé ani velké vody v PET lahvích.
 
-*„Je to vstřícný krok k životnímu prostředí. Úřad bude na místo kupování vody v lahvích používat vodu kohoutkovou, neboť je kvalitní a levnější. Tímto rozhodnutím ušetří kraj nemalé finanční prostředky a hlavně půjde obcím a občanům v kraji příkladem,”* říká náměstkyně pro životní prostředí Hana Ančincová a dodává: *„Pokud bude ve výjimečném případě nezbytné použít na některou akci malé balené vody, úřad je objedná je ve skle a ne v plastu.”*
+*„Je to vstřícný krok k životnímu prostředí. Úřad bude na místo kupování vody v lahvích používat vodu kohoutkovou, neboť je kvalitní a levnější. Tímto rozhodnutím ušetří kraj nemalé finanční prostředky a hlavně půjde obcím a občanům v kraji příkladem. Považuji to za jasný signál, že odpadové hospodářství v našem kraji je pro nás prioritou,”* říká náměstkyně pro životní prostředí Hana Ančincová a dodává: *„Pokud bude ve výjimečném případě nezbytné použít na některou akci malé balené vody, úřad je objedná je ve skle a ne v plastu.”*
 
