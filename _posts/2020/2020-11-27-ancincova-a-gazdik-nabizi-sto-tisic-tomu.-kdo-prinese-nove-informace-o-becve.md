@@ -5,7 +5,7 @@ title: 'Hana Ančincová a Petr Gazdík nabízí sto tisíc tomu, kdo přinese n
 date: 2020-11-27
 author: Jaromír Horký
 authorId: jaromir.horky
-image: posts/hankacopy.jpg
+image: posts/hankaodmena.jpg
 tags: 
 - zlinsky-kraj
 - hana-ancincova
