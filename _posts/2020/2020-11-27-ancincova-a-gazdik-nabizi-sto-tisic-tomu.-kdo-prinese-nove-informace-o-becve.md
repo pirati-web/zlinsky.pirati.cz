@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová a Petr Gazdík nabízí sto tisíc tomu, kdo přinese nové informace o katastrofě na Bečvě a povedou k dopadení viníka'
-date: 2020-11-28
+date: 2020-11-27
 author: Jaromír Horký
 authorId: jaromir.horky
 image: posts/hankacopy.jpg
