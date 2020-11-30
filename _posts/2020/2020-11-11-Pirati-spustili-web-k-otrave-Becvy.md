@@ -12,7 +12,7 @@ tags:
 - zivotni-prostredi
 - snemovna
 ---
-Viník ekologické katastrofy na řece Bečvě není ani po více jak měsíci stále znám. Vyšetřování probíhá a úřady mlčí. Piráti však nechtějí nechat kauzu sejít z očí veřejnosti, a proto podpořili zařazení projednávání bodu o této katastrofě na program aktuální schůze Sněmovny. Zárověň vytvořili informační webové stránky [https://zazivoubecvu.cz/](https://zazivoubecvu.cz/){:target="_blank"}. 
+Viník ekologické katastrofy na řece Bečvě není ani po více jak měsíci stále znám. Vyšetřování probíhá a úřady mlčí. Piráti však nechtějí nechat kauzu sejít z očí veřejnosti, a proto podpořili zařazení projednávání bodu o této katastrofě na program aktuální schůze Sněmovny. Zároveň vytvořili informační webové stránky [https://zazivoubecvu.cz/](https://zazivoubecvu.cz/){:target="_blank"}. 
 
 Na webu lze najít přehled mediálních výstupů v této věci, stejně jako časovou osu s nejdůležitějšími událostmi kauzy i další informace. Podpisem výzvy “Řeky bez jedů” také mohou lidé pomoci vyvinout tlak na Ministerstvo životního prostředí, aby podniklo kroky k tomu, aby se podobné katastrofy již neopakovaly.
 
