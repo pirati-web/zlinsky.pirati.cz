@@ -6,12 +6,13 @@ titles:
   after:
 category:                   # kategorie: clenove
 - krajsti-zastupitele
+- mistni_predsedove
 ord_krajsti-zastupitele: 4
 
 
 img: people/jakub-zach.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: architekt <br>Kroměříž # kratký popis, max 160 znaků
+description: krajský zastupitel, architekt <br>Kroměříž # kratký popis, max 160 znaků
 mail:
 - jakub.zach@pirati.cz
 profiles:
