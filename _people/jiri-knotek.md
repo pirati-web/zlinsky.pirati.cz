@@ -11,7 +11,7 @@ ord_krajsti-zastupitele: 6
 
 img: people/jiri-knotek.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: student politologie na UPOL <br>Uherské Hradiště # kratký popis, max 160 znaků
+description: krajský zastupitel, student politologie na UPOL <br>Uherské Hradiště # kratký popis, max 160 znaků
 mail:
 - jiri.knotek@pirati.cz
 profiles:
