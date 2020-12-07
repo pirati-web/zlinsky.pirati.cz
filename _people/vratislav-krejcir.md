@@ -7,7 +7,6 @@ titles:
 category:                   # kategorie: clenove
 - predsednictvo
 - kontaktni_osoba
-- mistni_predsedove
 - zastupitel_kromeriz
 ord_predsednictvo: 1
 ord_zastupitel: 1
