@@ -14,7 +14,7 @@ ord_zastupitel: 1
 
 img: people/jiri-jaros.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 2. místopředseda KS ZLK<br>radní Zlína, IT technik <br>Zlín # kratký popis, max 160 znaků
+description: 2. místopředseda KS ZLK<br>krajský radní pro oblast IT, radní Zlína, IT technik <br>Zlín # kratký popis, max 160 znaků
 mob:			  
 mail:
 - jiri.jaros@pirati.cz
