@@ -5,7 +5,6 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
-- mistni_predsedove
 - zastupitel_zlin
 ord_zastupitel: 3
 
