@@ -13,7 +13,7 @@ ord_zastupitel: 2
 
 img: people/zuzana-fiserova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: zastupitelka Zlína, ekonomka <br>Zlín # kratký popis, max 160 znaků
+description: krajská radní pro oblast kultury a školství zastupitelka Zlína, ekonomka <br>Zlín # kratký popis, max 160 znaků
 mail:
 - zuzana.fiserova@pirati.cz
 mob:			  
