@@ -13,7 +13,7 @@ ord_zastupitel: 1
 
 img: people/denis-rychtar.jpg   # 165 x 220
 heroImg: articles/lide/hero-denis-rychtar.jpg
-description: zastupitel Valašského Meziříčí, chemik-velinář <br>Valašské Meziříčí # kratký popis, max 160 znaků
+description: zastupitel Valašského Meziříčí, krajský zastupitel, chemik-velinář <br>Valašské Meziříčí # kratký popis, max 160 znaků
 mail:
 - denis.rychtar@pirati.cz
 profiles:
