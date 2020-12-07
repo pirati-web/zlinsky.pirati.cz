@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
-
+- mistni_predsedove
 
 img: people/kamil-podlas.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
