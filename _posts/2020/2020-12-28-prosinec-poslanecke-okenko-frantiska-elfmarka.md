@@ -12,7 +12,7 @@ tags:
 - frantisek-elfmark
 important: true
 ---
-Mohlo by se zdát, že posledn měsíc v roce bude znamenat v Poslanecké sněmovně klid. Opak je však pravdou. Neváhejte si proto přečíst pravidelný report našeho poslance a lídra pro sněmovní volby, které se uskutučení v říjnu příštího roku.
+Mohlo by se zdát, že poslední měsíc v roce bude znamenat v Poslanecké sněmovně klid. Opak je však pravdou. Neváhejte si proto přečíst pravidelný report našeho poslance a lídra pro sněmovní volby, které se uskutučení v říjnu příštího roku.
 
 **Životní prostředí**
 
