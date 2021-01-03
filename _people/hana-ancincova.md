@@ -10,7 +10,7 @@ ord_krajsti-zastupitele: 1
 
 img: people/hana-ancincova.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: stutární náměskyně hejtmana pro oblast životního prostředí a zemědělství, rozvoj venkova, neziskový sektor a sociální politiku # kratký popis, max 160 znaků
+description: statutární náměskyně hejtmana pro oblast životního prostředí a zemědělství, rozvoj venkova, neziskový sektor a sociální politiku # kratký popis, max 160 znaků
 mail:
 - hana.ancincova@pirati.cz
 profiles:
