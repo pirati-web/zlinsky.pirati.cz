@@ -8,6 +8,7 @@ category:                 # kategorie
 - predsednictvo
 - zastupitel_uh
 - poslanci
+- mistni_predsedove
 
 ord_zastupitel: 2
 ord_predsednictvo: 2
@@ -15,7 +16,7 @@ ord_poslanci: 1
 
 img: people/frantisek.elfmark.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: 1. místopředseda KS ZLK<br>pirátský poslanec<br>zastupitel Uherského Hradiště<br>webdesigner a grafik<br> Uherské Hradiště # kratký popis, max 160 znaků
+description: pirátský poslanec<br>1. místopředseda KS ZLK<br>předseda MS UH<br>zastupitel Uherského Hradiště<br>webdesigner a grafik<br> Uherské Hradiště # kratký popis, max 160 znaků
 mob:			  +420 604 171 281
 mail:
 - frantisek.elfmark@pirati.cz
