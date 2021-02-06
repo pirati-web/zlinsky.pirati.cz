@@ -13,6 +13,7 @@ category:                 # kategorie
 ord_zastupitel: 2
 ord_predsednictvo: 2
 ord_poslanci: 1
+prd_mistni_predsedove:1
 
 img: people/frantisek.elfmark.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
