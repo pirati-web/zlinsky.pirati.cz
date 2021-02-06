@@ -5,11 +5,11 @@ titles:
   before:
   after:
 category:                 # kategorie
-- mistni_predsedove
+
 
 img: people/marek-houser.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: předseda MS Uherské Hradiště<br>marketingový specialista<br>Uherské Hradiště         	# kratký popis, max 160 znaků
+description: marketingový specialista<br>Uherské Hradiště         	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
 mob:			  +420 725 611 894
