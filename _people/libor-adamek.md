@@ -26,4 +26,4 @@ Mezi jeho zájmy patří přítelkyně, pes, pohyb, cvičí jako trenér Tae-Bo,
 
 Piráty podporuje od jejich začátku. Členem je od roku 2017, v roce 2018 byl zvolen zastupitelem Rožnova pod Radhoštěm.
 
-* [Moje odměny a příjmy z věřejných zdrojů](https://nalodeni.pirati.cz/odmeny/libor.adamek)
+* [Moje příjmy z věřejných zdrojů](https://nalodeni.pirati.cz/odmeny/libor.adamek)
