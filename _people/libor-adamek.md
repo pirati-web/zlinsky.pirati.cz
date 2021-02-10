@@ -25,3 +25,5 @@ Vystudoval stavební průmyslovku ve Valašském Meziříčí. Po škole žil de
 Mezi jeho zájmy patří přítelkyně, pes, pohyb, cvičí jako trenér Tae-Bo, má rád přírodu a rád ji fotí, ekologie, psychologie, duchovno, architektura, hudba a tanec.
 
 Piráty podporuje od jejich začátku. Členem je od roku 2017, v roce 2018 byl zvolen zastupitelem Rožnova pod Radhoštěm.
+
+* [Moje odměny a příjmy z věřejných zdrojů](https://nalodeni.pirati.cz/odmeny/libor.adamek)
