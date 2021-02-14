@@ -1,8 +1,8 @@
 ---
 layout: post
 category: CLANKY
-title: 'Otevření nové sportovní haly v Otrovicích'
-date: 2021-01-18
+title: 'Otevření nové sportovní haly v Otrokovicích'
+date: 2021-02-09
 author: Zuzana Fišerová
 authorId: zuzana.fiserova
 image: posts/foto-jirka-hala.jpg
