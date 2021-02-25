@@ -19,30 +19,16 @@ mail:
 - libor.adamek@pirati.cz
 profiles:
   facebook:  https://www.facebook.com/adamek.libor
-  twitter:   https://twitter.com/
-  linkedin:  https://www.linkedin.com/
   instagram: https://www.instagram.com/libor.adamek/
-  web:       https://www.frantisekelfmark.cz/
   evidence:  https://evidence.pirati.cz/author/179/
   odmeny:    https://nalodeni.pirati.cz/odmeny/libor.adamek
-  vkalendar: https://mail.kr-zlinsky.cz/owa/calendar/0554bffb9cf54f7d88ffefd6f25f4977@kr-zlinsky.cz/8b7b82edc63741a89f10c57be7a2a22518088348677357990337/calendar.html
-  report:    https://forum.pirati.cz/viewtopic.php?f=82&t=49249
-
+  
 funkce:
  - <a href="https://www.roznov.cz/zastupitelstvo%2Dmesta/os-50/p1=4864">zastupitel města Rožnov p.R.</a>
  - člen <a href="https://www.roznov.cz/komise%2Dsportovni/os-1110/p1=1011">Sportovní komise</a> 
  - člen <a href="https://www.roznov.cz/html/soubory/strategie2030/index.html">Strategického výboru</a>
  - 2. místopředseda MS ValMez
 
-
-asistenti:
-  - name: Ing. Jana Nováková
-    position: Asitentka
-    mail: jana@gmail.com
-    mob: +420 736 510 283
-  - name: Ing. Jan Novák
-    position: Asistent
-    mail: jano@atlas.cz
 ---
 
 Libor Adámek (*26. září 1972, Valašské Meziříčí) je rodilý valach a trvalý občan města Rožnov pod Radhoštěm.
