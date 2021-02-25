@@ -21,8 +21,7 @@ profiles:
   facebook:  https://www.facebook.com/adamek.libor
   twitter:   https://twitter.com/
   linkedin:  https://www.linkedin.com/
-  instagram: https://www.instagram.com/
-  odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
+  instagram: https://www.instagram.com/libor.adamek/
   web:       https://www.frantisekelfmark.cz/
   evidence:  https://evidence.pirati.cz/author/179/
   odmeny:    https://nalodeni.pirati.cz/odmeny/libor.adamek
