@@ -30,7 +30,7 @@ profiles:
   report:    https://forum.pirati.cz/viewtopic.php?f=82&t=49249
 
 funkce:
- - <a href="https://www.roznov.cz/zastupitelstvo%2Dmesta/os-50/p1=4864">zastupitel</a>
+ - <a href="https://www.roznov.cz/zastupitelstvo%2Dmesta/os-50/p1=4864">zastupitel města Rožnov p.R.</a>
  - člen <a href="https://www.roznov.cz/komise%2Dsportovni/os-1110/p1=1011">Sportovní komise</a> 
  - člen <a href="https://www.roznov.cz/html/soubory/strategie2030/index.html">Strategického výboru</a>
  - 2. místopředseda MS ValMez
