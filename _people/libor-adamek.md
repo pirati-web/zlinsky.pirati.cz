@@ -14,7 +14,7 @@ heroImg: articles/lide/hero-libor-adamek.jpg
 description: zastupitel Rožnova pod Radhoštěm<br>prodejce kancelářské techniky<br>Rožnov p.R. # kratký popis, max 160 znaků
 profession: prodejce kancelářské techniky
 partyUid: pirati
-mob: + 420 607 791 192
+mob: + 420 604 791 192
 mail:
 - libor.adamek@pirati.cz
 profiles:
