@@ -23,7 +23,7 @@ profiles:
   linkedin:  https://www.linkedin.com/
   instagram: https://www.instagram.com/
   odmeny:    https://nalodeni.pirati.cz/odmeny/pavel.franc
-  web:       http://www.sterba.eu
+  web:       https://www.frantisekelfmark.cz/
   evidence:  https://evidence.pirati.cz/author/179/
   odmeny:    https://nalodeni.pirati.cz/odmeny/libor.adamek
   vkalendar: https://mail.kr-zlinsky.cz/owa/calendar/0554bffb9cf54f7d88ffefd6f25f4977@kr-zlinsky.cz/8b7b82edc63741a89f10c57be7a2a22518088348677357990337/calendar.html
