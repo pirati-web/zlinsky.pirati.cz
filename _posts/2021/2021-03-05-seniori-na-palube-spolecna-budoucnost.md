@@ -11,7 +11,7 @@ tags:
 - seniori-na-palube
 - seniori
 
-description: 'Piráti představili již v prosinci loňského roku novou platformu s názvem Senioři na palubě, jejímž smyslem je zjistit, co trápí české seniory a co vše by potřebovali pro svůj důstojný život. Zjištěné informace chtějí Piráti začlenit do programu pro sněmovní volby v říjnu letošního roku.'
+description: 'Piráti představili již v prosinci loňského roku novou platformu s názvem Senioři na palubě, jejímž smyslem je zjistit, co trápí české seniory a co vše by potřebovali pro svůj důstojný život.'
 ---
 **Piráti představili již v prosinci loňského roku novou platformu s názvem Senioři na palubě, jejímž smyslem je zjistit, co trápí české seniory a 
 co vše by potřebovali pro svůj důstojný život. Zjištěné informace chtějí Piráti začlenit do programu pro sněmovní volby v říjnu letošního roku.**
