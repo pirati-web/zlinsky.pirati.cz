@@ -3,15 +3,15 @@ layout: contacts
 description: Pirátská strana ve Zlínském kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
+noresidence: yes
 contentSize: even
 contactPersons:
   - id: vratislav.krejcir
     position: Předseda krajského sdružení
   - id: jaromir.horky
-    position: Kontakt pro novináře
-  - id: jaromir.horky
-    position: Kontakt pro krajské volby 2020
+    position: Mediální specialistka
+  - id: lucie.svehlikova
+    position: Kontakt pro sněmovní volby 2021
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky
   
