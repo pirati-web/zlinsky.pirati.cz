@@ -8,7 +8,7 @@ contentSize: even
 contactPersons:
   - id: vratislav.krejcir
     position: Předseda krajského sdružení
-  - id: jaromir.horky
+  - id: lucie.svehlikova
     position: Mediální specialistka
   - id: lucie.svehlikova
     position: Kontakt pro sněmovní volby 2021
