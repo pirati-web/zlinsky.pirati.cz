@@ -34,7 +34,7 @@ Na Výboru pro životní prostředí jsme také na začátku měsíce na základ
 
 **Recyklace**
 
-Seriál o recyklaci v únoru pokračoval článkem o tom, zda recyklaci pomůže [Zákon o omezení vybraných jednorázových plastů](https://www.frantisekelfmark.cz/pomuze-recyklaci-zakon-o-omezeni-vybranych-jednorazovych-plastu-4/){:target="_blank"}. Cílem jednotlivých dílů je připomenout si,  že pro udržení a zlepšení stavu životního prostředí prostředí je potřeba přejít na oběhový způsob hospodaření. A maximální recyklace je jedním z principů, na kterých je oběhovost založena. 
+Seriál o recyklaci v únoru pokračoval článkem o tom, zda recyklaci pomůže [Zákon o omezení vybraných jednorázových plastů](https://www.frantisekelfmark.cz/pomuze-recyklaci-zakon-o-omezeni-vybranych-jednorazovych-plastu-4/){:target="_blank"}. Cílem jednotlivých dílů je připomenout,  že pro udržení a zlepšení stavu životního prostředí prostředí je potřeba přejít na oběhový způsob hospodaření. A maximální recyklace je jedním z principů, na kterých je oběhovost založena. 
 
 **Remobil**
 
