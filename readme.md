@@ -13,7 +13,7 @@
  
  ![nahrání obrázku 1](assets/img/notused/nahrobr1.png)
  
- Pro nahrání je potřeba zvolit skoro vlevo dole **Commit changes** (zaškrtlé je Commit directly to master branch) 
+3. Pro nahrání je potřeba zvolit skoro vlevo dole **Commit changes** (zaškrtlé je Commit directly to master branch) 
  
  ![nahrání obrázku 2](assets/img/notused/nahrobr2.png)
 
@@ -98,7 +98,8 @@ V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten člán
 2. Zkontrolovat, jestli je dobře napsaná adresa obrázku.
 3. Zkontrolovat jestli je v úvodním kodu dnešní datum, jinak se mi zobrazí až k datu, které tam je.
 4. Zkontrolovat celý úvodní kód jestli v něm není proti vzoru vymazaná nebo přidaná nějaká mezera apod.
-5. A až po úvodních 4 bodech kontaktovat TO.
+5. Má soubor článku koncovku .md ?
+6. A až po úvodních 5 bodech kontaktovat TO.
 
 
 
