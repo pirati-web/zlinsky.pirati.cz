@@ -29,7 +29,7 @@
  Název píšeme vždy ve tvaru **rok-mesic-den-nazev-clanku.md** např. **2021-03-20-piratsky-sraz-probehl-dobre.md**<br>
  Název vždy malým písmem bez interpunkce, nezapomenout dát koncovku .md
 
-![novy članek1](assets/img/notused/newpost2.png)
+![novy članek2](assets/img/notused/newpost2.png)
 
 4. Do pole článku vložit úvodní kód viz.
 ```
@@ -49,7 +49,7 @@ important: true
 ---
 ```
 
-![novy članek1](assets/img/notused/newpost3.png)
+![novy članek3](assets/img/notused/newpost3.png)
 
 5. V tom kódu je pak nutné opravit:
 - title - nadpis článku rozumné délky, nechat ho v těch jednoduchých uvozovkách
@@ -71,11 +71,40 @@ V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten člán
 *kurzíva* **tučné písmo** ~~škrtance~~ `kód`
 * seznam nečíslovaný
 1. seznam číslovaný
-[odkaz](http://www.pirati.cz)
+[název odkazu](http://www.pirati.cz)
 ![název obrázku](posts/obrazek.jpg)
 ```
 
-## Další poznámky od jiných
+8. Po napsání článku, lze základní náhled formátování získat kliknutím na Prewiew (skoro nahoře, mírně vlevo)
+
+9. Hotový článek uložit a poslat k buildování tlačítkem **Commit new file** (zaškrtlé je Commit directly to master branch)
+
+![novy članek4](assets/img/notused/newpost4.png)
+
+
+## Oprava článku
+
+1. Články se nacházejí v adresáři **_posts** v příslušném podadresáři roku např. **_posts/2021**
+2. V podadresáři kliknout na název článku a pak lehhce nahoře vlevo zvolit ikonu pera, pro zpřístupnění úprav.
+
+![novy članek5](assets/img/notused/newpost5.png)
+
+3. Hotový článek uložit a poslat k buildování tlačítkem **Commit changes** (zaškrtlé je Commit directly to master branch)
+
+
+## Článek se mi nezobrazuje, co teď?
+
+1. Napřed čekat. Buildovaní článku někdy trvá i 10 minut. 
+2. Zkontrolovat, jestli je dobře napsaná adresa obrázku.
+3. Zkontrolovat jestli je v úvodním kodu dnešní datum, jinak se mi zobrazí až k datu, které tam je.
+4. Zkontrolovat celý úvodní kód jestli v něm není proti vzoru vymazaná nebo přidaná nějaká mezera apod.
+5. A až po úvodních 4 bodech kontaktovat TO.
+
+
+
+
+
+# Další poznámky od jiných
 
 ## Obsah
 
