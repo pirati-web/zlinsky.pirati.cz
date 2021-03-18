@@ -1,32 +1,65 @@
-# Návod pro mediální spojku, aneb jak přidat článek na web
+# Návod pro mediální spojku, aneb jak přidat článek
 
 ## Obrázek
 
-1. U článku musí být vždy obrázek, optimální poměr stran je **16:9**, **rozměr 1200 x 675 px**.
+1. U článku musí být vždy obrázek, optimální poměr stran je **16:9**, **rozměr 1200 x 675 px**.<br>
  Nedávat nekomprimované obrázky přes 300kB, sice se zobrazí, ale zbytečně to bere lidem data při prohlížení a zdržuje 
- to načítání stránek. 
- Fotky dávat ve formátu **.jpg**, infografiky ve formátu **.png** - grafika a písmo je pak trochu ostřejší.
+ to načítání stránek. <br>
+ Fotky dávat ve formátu **.jpg**, infografiky ve formátu **.png** - grafika a písmo je pak trochu ostřejší.<br>
  Název obrázku bez interpunkce, všechno malým, více slov oddělovat pomlčkou např. nasi-zastupitele.jpg
-2. Bez obrázku se článek nezobrazí, tak je nutné ho nejprve nahrát do adresáře **assets/img/posts**
- V adresáři **posts** skoro vpravo nahoře zvolít **add file** a **upload file**, 
- objeví se dialog **drag files here..** a tam obrázek/obrázky myší přesunout.
+2. Bez obrázku se článek nezobrazí, tak je nutné ho nejprve nahrát do adresáře **assets/img/posts**<br>
+ V adresáři **posts** skoro vpravo nahoře zvolít **Add file** a **Upload file**, 
+ objeví se dialog **Drag files here..** a tam obrázek/obrázky myší přesunout.
+ 
  ![nahrání obrázku 1](assets/img/notused/nahrobr1.png)
+ 
  Pro nahrání je potřeba zvolit skoro vlevo dole **Commit changes** (zaškrtlé je Commit directly to master branch) 
-  ![nahrání obrázku 2](assets/img/notused/nahrobr2.png)
+ 
+ ![nahrání obrázku 2](assets/img/notused/nahrobr2.png)
 
 
+## Nový článek
 
+1. Články se nacházejí v adresáři **_posts** v příslušném podadresáři roku např. **_posts/2021**
+2. V příslušném podadresáří skoro nahoře vpravo zvolit **Add file** a **Create new file**
 
+![novy članek1](assets/img/notused/newpost1.png)
 
+3. Do kolonky **Name your file** napsat název souboru článku.<br> 
+ Název píšeme vždy ve tvaru **rok-mesic-den-nazev-clanku.md** např. **2021-03-20-piratsky-sraz-probehl-dobre.md**<br>
+ Název vždy malým písmem bez interpunkce, nezapomenout dát koncovku .md
+
+![novy članek1](assets/img/notused/newpost2.png)
+
+4. Do pole článku vložit úvodní kód viz.
+```
+---
+layout: post
+category: CLANKY
+title: 'Nadpis článku'
+date: 2021-02-27
+author: Jméno Příjmení
+authorId: jmeno.prijmeni
+image: posts/obrazek.jpg
+tags: 
+- priklad-tagu
+- priklad-tagu
+- tagu-kolik-chces
+important: true
+---
+```
+5. V tom kódu je pak nutné opravit:
+- title - nadpis článku rozumné délky, nechat ho v těch jednoduchých uvozovkách
+- date - datum kdy má vyjít článek, pokud dám pozdější než aktuální, tak se pak nedivím, že ho nevidím
+- author - jméno autora
+- authorId - ID autora, většinou jmeno.prijmeni
+- image - název obrázku i s podadresářem post např. posts/obrazek.jpg
+- tags - přidat tagy 
+- important: true - znamená, že bude obrázek zvýrazněn černě, pokud vymažu, tak bude bez zvýraznění
+
+6. 
 
 ## Poznámky
-
-Články řadit do adresářů podle roků.
-Zvýraznění článku: pod tagy u článku dopsat `important: true`
-
-Obrázky kolem 150kB, větší rozlišení nemá smysl a žere lidem data!
-Formát 16:9 
-
 
 # pardubicky.pirati.cz
 
