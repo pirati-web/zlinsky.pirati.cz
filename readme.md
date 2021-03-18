@@ -48,6 +48,9 @@ tags:
 important: true
 ---
 ```
+
+![novy članek1](assets/img/notused/newpost3.png)
+
 5. V tom kódu je pak nutné opravit:
 - title - nadpis článku rozumné délky, nechat ho v těch jednoduchých uvozovkách
 - date - datum kdy má vyjít článek, pokud dám pozdější než aktuální, tak se pak nedivím, že ho nevidím
@@ -56,12 +59,23 @@ important: true
 - image - název obrázku i s podadresářem post např. posts/obrazek.jpg
 - tags - přidat tagy 
 - important: true - znamená, že bude obrázek zvýrazněn černě, pokud vymažu, tak bude bez zvýraznění
+V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten článek se nevytvoří.
 
-6. 
+6. Pod úvodní kod je možné psát text článku. Z první části textu se pak automaticky vytvoří perex, tak je dobré s tím počítat. Nikdy nezvýrazňovat úvodní text tučně.
 
-## Poznámky
+7. Text se stylizuje za pomoci markdownu formátovaní, návod viz [zde](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).<br>
+ Nebo krátký tahák.
+```
+# Nadpis
+## Menší nadpis
+*kurzíva* **tučné písmo** ~~škrtance~~ `kód`
+* seznam nečíslovaný
+1. seznam číslovaný
+[odkaz](http://www.pirati.cz)
+![název obrázku](posts/obrazek.jpg)
+```
 
-# pardubicky.pirati.cz
+## Další poznámky od jiných
 
 ## Obsah
 
