@@ -59,7 +59,8 @@ important: true
 - image - název obrázku i s podadresářem post např. posts/obrazek.jpg
 - tags - přidat tagy 
 - important: true - znamená, že bude obrázek zvýrazněn černě, pokud vymažu, tak bude bez zvýraznění
-<br>V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten článek se nevytvoří.
+
+V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten článek se nevytvoří.
 
 6. Pod úvodní kod je možné psát text článku. Z první části textu se pak automaticky vytvoří perex, tak je dobré s tím počítat. Nikdy nezvýrazňovat úvodní text tučně.
 
