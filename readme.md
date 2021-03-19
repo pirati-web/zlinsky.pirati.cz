@@ -62,7 +62,7 @@ important: true
 
    V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten článek se nevytvoří.
 
-6. Pod úvodní kod je možné psát text článku. Z první části textu se pak automaticky vytvoří perex, tak je dobré s tím počítat. Nikdy nezvýrazňovat úvodní text tučně.
+6. Pod úvodní kod je možné psát text článku. Z první části textu se pak automaticky vytvoří perex, tak je dobré s tím počítat. 
 
 7. Text se stylizuje za pomoci markdownu formátovaní, návod viz [zde](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).<br>
  Nebo krátký tahák.
@@ -75,6 +75,7 @@ important: true
 [název odkazu](http://www.pirati.cz)
 [název odkazu](https://zlinsky.pirati.cz/assets/img/posts/nejaky-dokument.pdf)
 ![název obrázku](https://zlinsky.pirati.cz/assets/img/posts/obrazek.jpg)
+> Blockquotes
 ```
 
 8. Po napsání článku, lze základní náhled formátování získat kliknutím na Prewiew (skoro nahoře, mírně vlevo)
