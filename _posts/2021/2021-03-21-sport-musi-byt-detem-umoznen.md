@@ -21,8 +21,8 @@ Stejně tak usiluji i o to, aby **pozornost byla věnována i pracovníkům, kte
 Na jednání Komise pro školství a sport Asociace krajů ČR s  ministrem Robertem Plagou jsem již 19. 1. jako jediný zástupce apelovala na povolení sportování dětí, alespoň u bezkontaktních forem tréninků. Rovněž jsem žádala pana ministra o povolení prezenční individuální výuky hudebního nástroje v Základních uměleckých školách ve formě výuky „jeden žák – jeden učitel“ při zachování hygienických nařízení (rouška, odstup, dezinfekce). Všechny tyto apely bohužel ze strany ministra nebyly v dané době vyslyšeny, neboť prioritou bylo řešení návratu žáků do škol. Problematiku absence sportování dětí a s tím související absence návyků, sociálních kontaktů řeším také s odborníky.  Bohužel v aktuálním  usnesení o  přijetí krizového opatření (prodloužení nouzového stavu do 28.2.2021) nenacházím pro sportování dětí žádné uvolnění, proto budu prostřednictvím hejtmana, Asociace krajů ČR a poslanců  apelovat na vládu, aby urychleně změnila svůj přístup ke sportování dětí i k výuce za ZUŠkách. Nejsou to  „koníčky“ nebo „rekreační aktivita“, ale jeden z klíčových nástrojů pro rozvoj duševního i tělesného zdraví našich dětí. 
 Iniciativu pana Hamšíka velmi ráda podpořím a nabízím veškerou pomoc při prosazení umožnění návratu dětí ke sportu. Věřím, že společným tlakem, jak politickým, tak ze strany trenérů, rodičů i všech dalších, dosáhneme zrušení zákazu sportování dětí. 
 
-![zuzana fiserova dopis](assets/img/posts/zuzka-dopis-plagovi.jpg)
+![zuzana fiserova dopis](assets/zuzka-dopis-plagovi.jpg)
 
-Celý dopis ministru Plagovi si můžete přečíst [zde](assets/img/posts/dopis-plaga.pdf).
+Celý dopis ministru Plagovi si můžete přečíst [zde](assets/dopis-plaga.pdf).
 
 Zuzana Fišerová, radní pro školství Zlínského kraje
