@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Sport musí být dětem umožněn co nejdříve'
-date: 2021-03-19
+date: 2021-03-21
 author: Zuzana Fišerová
 authorId: zuzana.fiserova
 image: posts/zuzka-web.jpg
