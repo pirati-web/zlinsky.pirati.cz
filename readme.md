@@ -73,7 +73,8 @@ V kodu je nutné dodržet formátování i mezery tak jak jsou, jinak ten člán
 * seznam nečíslovaný
 1. seznam číslovaný
 [název odkazu](http://www.pirati.cz)
-![název obrázku](posts/obrazek.jpg)
+[název odkazu](https://zlinsky.pirati.cz/assets/img/posts/nejaky-dokument.pdf)
+![název obrázku](https://zlinsky.pirati.cz/assets/img/posts/obrazek.jpg)
 ```
 
 8. Po napsání článku, lze základní náhled formátování získat kliknutím na Prewiew (skoro nahoře, mírně vlevo)
