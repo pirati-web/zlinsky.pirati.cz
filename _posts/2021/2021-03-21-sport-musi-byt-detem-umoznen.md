@@ -39,4 +39,3 @@ Přeji všem v této nelehké době pevné zdraví!
 Celý dopis ministru Plagovi si můžete přečíst [zde](https://zlinsky.pirati.cz/assets/img/posts/dopis-plaga.pdf).
 
 Zuzana Fišerová, radní pro školství Zlínského kraje
-![zuzana fiserova](https://zlinsky.pirati.cz/assets/img/posts/zuzka-portrét.jpg)
