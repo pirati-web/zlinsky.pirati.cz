@@ -16,7 +16,7 @@ tags:
 Problematiku omezování sportování dětí se snažím dlouhodobě řešit. Otevřeným dopisem ministru školství Robertu Plagovi žádám o zmírnění všech restriktivních opatření ve prospěch dětí a jejich vzdělávacích i sociálních potřeb.  
 
 
-Považuji za naprosto nutné, aby se děti vrátili co nejdříve jak do školních lavic, tak na amatérská sportoviště. Za to, že je tu koronavirus nikdo nemůže a zavedení některých opatření je pochopitelné. Nelíbí se mi však opomíjení a neřešení dopadu absence pohybu a výpadu tělovýchovy. Sport a tělovýchova mládeže jsou vždy mezi prvními omezenými aktivitami. Mám obavy z dalekosáhlých důsledků na celou společnost. **Pravidelný pohyb přispívá nejen k tělesné zdatnosti, ale i odolnosti a imunitě. A to, že ho dětem opakovaně odpíráme, jim určitě neprospívá. Vede to k frustraci a sociální izolaci dětí.**
+Považuji za naprosto nutné, aby se děti vrátili co nejdříve jak do školních lavic, tak na amatérská sportoviště. Za to, že je zde koronavirus nikdo nemůže a zavedení některých opatření je pochopitelné. Nelíbí se mi však opomíjení a neřešení dopadu absence pohybu a výpadu tělovýchovy. Sport a tělovýchova mládeže jsou vždy mezi prvními omezenými aktivitami. Mám obavy z dalekosáhlých důsledků na celou společnost. **Pravidelný pohyb přispívá nejen k tělesné zdatnosti, ale i odolnosti a imunitě. A to, že ho dětem opakovaně odpíráme, jim určitě neprospívá. Vede to k frustraci a sociální izolaci dětí.**
 
 Stejně tak usiluji i o to, aby **pozornost byla věnována i pracovníkům, kteří se dětem věnují**. Například při sestavování očkovací strategie jsem navrhla přeřazení pracovníků dětských domovů do skupiny A1, který bohužel nebyl akceptován a pracovníci dětských domovů zůstali stejně jako učitelé, ve skupině B1.
 
