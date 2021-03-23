@@ -43,3 +43,11 @@ Díky dobré spolupráci s rybáři, kteří po celý půlrok aktivně monitorov
 
 
 **Chtěli bychom poděkovat všem rybářům a dobrovolníkům, kteří se podíleli na likvidaci škod. Rybáře jsme podpořili jednorázovým darem a počítáme také s podporou do budoucna. Také děkujeme místním hudebníkům a umělcům za online benefiční akci Uměním za obnovu řeky Bečvy, která se konala 20. února. Do aukce se zapojilo 170 umělců, kteří darovali 265 uměleckých děl. Výtěžek aukce byl zaslán na transparentní účet Českého rybářského svazu. Peníze budou dále využívány na pokrytí vzniklých škod na řece Bečvě.**
+
+Fotky z odběru vzorků ve Lhotce nad Bečvou
+
+![odber vzorku becva](https://github.com/pirati-web/zlinsky.pirati.cz/blob/master/assets/img/posts/becva-vzorky1.jpg)
+
+![odber vzorku becva](https://github.com/pirati-web/zlinsky.pirati.cz/blob/master/assets/img/posts/becva-vzorky2.jpg)
+
+
