@@ -38,4 +38,8 @@ Díky dobré spolupráci s rybáři, kteří po celý půlrok aktivně monitorov
 > *“Z analýz vyplývá, že byli několikanásobně překročeny hodnoty kovů, fosforů, naftalenu a dalších polyaromatických uhlovodíků. V dešťové kanalizaci nemají takové látky co pohledávat, a proto jsem požádal Valašskomeziříčský vodohospodářský úřad o přezkoumání povolení této kanalizace, a také jsem je požádal o zprostředkování kanalizačního robota a místní přezkoumání celé sítě v délce přibližně 1 780 m. Tento robot je sice velmi drahý, ale případný nalezený viník je povinen tento zásah zaplatit. Odpověď místního úřadu očekáváme v nejbližších dnech”,* komentuje zastupitel Valašského Meziříčí [Denis Rychtar](https://zlinsky.pirati.cz/lide/denis-rychtar/).
 > 
 
+> *23. března jsme byli přizváni vyšetřovateli z ČIŽP k odebrání vzorku bentosu a vody s rybáři monitorované výpusti ve Lhotce nad Bečvou. Předali jsme vlastní analýzy a dokumenty za posledního půl roku a dohodli se na několika pokusech, které ještě provedeme s rybářem Lukášem Gerlou. Jakmile budeme mít výstup od inspekce, budeme dále informovat. S panem Pernickým z rybářského svazu jsme se shodli, že budeme trvat na kamerovém zmapování této pochybně značené kanalizace, kde jsou zmíněné úniky.
+> 
+
+
 **Chtěli bychom poděkovat všem rybářům a dobrovolníkům, kteří se podíleli na likvidaci škod. Rybáře jsme podpořili jednorázovým darem a počítáme také s podporou do budoucna. Také děkujeme místním hudebníkům a umělcům za online benefiční akci Uměním za obnovu řeky Bečvy, která se konala 20. února. Do aukce se zapojilo 170 umělců, kteří darovali 265 uměleckých děl. Výtěžek aukce byl zaslán na transparentní účet Českého rybářského svazu. Peníze budou dále využívány na pokrytí vzniklých škod na řece Bečvě.**
