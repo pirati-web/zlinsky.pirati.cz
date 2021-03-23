@@ -46,8 +46,8 @@ Díky dobré spolupráci s rybáři, kteří po celý půlrok aktivně monitorov
 
 Fotky z odběru vzorků ve Lhotce nad Bečvou
 
-![odber vzorku becva](https://github.com/pirati-web/zlinsky.pirati.cz/blob/master/assets/img/posts/becva-vzorky1.jpg)
+![odber vzorku becva](https://zlinsky.pirati.cz/assets/img/posts/becva-vzorky1.jpg)
 
-![odber vzorku becva](https://github.com/pirati-web/zlinsky.pirati.cz/blob/master/assets/img/posts/becva-vzorky2.jpg)
+![odber vzorku becva](https://zlinsky.pirati.cz/assets/img/posts/becva-vzorky2.jpg)
 
 
