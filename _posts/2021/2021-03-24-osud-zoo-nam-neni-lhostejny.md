@@ -8,6 +8,7 @@ authorId: lucie.svehlikova
 image: posts/zirafa-zoo.jpg
 tags: 
 - zlinsky-kraj
+- frantisek-elfmark
 - zuzana-fiserova
 - jiri-jaros
 - zlin
