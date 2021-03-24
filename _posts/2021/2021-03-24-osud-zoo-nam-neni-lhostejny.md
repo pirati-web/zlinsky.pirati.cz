@@ -25,7 +25,7 @@ Ukazuje se, že **myšlenka naší zastupitelky a radní pro školství a kultur
 
 Stále zde ale **postrádáme větší péči od státu**, který až nyní po urgencích zareagoval a zvýšil zoologickým zahradám příspěvek „na krmení“, díky kterému do zlínské ZOO přiteče několik milionů navíc. I přesto zlínská ZOO nedosáhne na kompenzační programy pro zaměstnance kvůli nastaveným podmínkám. Bohužel její zaměstnanci nesedí doma, musí se  starat o zvířata a navíc jsou programy koncipovány pro soukromé společnosti, proto na kompenzační bonus ZOO dosud nedosáhla. Ani otevření venkovních prostor zatím vláda neumožnila. 
 
-Z obrovské vlny pomoci lidí, kteří ZOO posílají dary nebo se zapojují do akce *["Mám zvíře na víkend"](https://www.zoozlin.eu/mam-zvire-na-vikend/)* je patrné, že na ZOO lidem jak našeho kraje, tak i mimokrajským, záleží. Zlínští Piráti ZOO ořispěli také a těšíme se, až do našich obýváků dorazí na víkend lenochod, panda nebo (pro ty s větším domem) slon. 
+Z obrovské vlny pomoci lidí, kteří ZOO posílají dary nebo se zapojují do akce *["Mám zvíře na víkend"](https://www.zoozlin.eu/mam-zvire-na-vikend/)* je patrné, že na ZOO lidem jak našeho kraje, tak i mimokrajským, záleží. Zlínští Piráti ZOO přispěli také a těšíme se, až do našich obýváků dorazí na víkend lenochod, panda nebo (pro ty s větším domem) slon. 
 
 A co vy – také už jste ve svých domovech pohostili nějaké zvířátko ze zlínské ZOO?
 
