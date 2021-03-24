@@ -9,6 +9,7 @@ image: posts/zirafa-zoo.jpg
 tags: 
 - zlinsky-kraj
 - zuzana-fiserova
+- jiri-jaros
 - zlin
 ---
 
@@ -16,7 +17,7 @@ Osud zlínské ZOO Pirátům není lhostejný, její vážnou situaci sledujeme 
 
 Již na jaře jsme v tomto [článku](https://zlinsky.pirati.cz/tiskove-zpravy/nouzovy-stav-zlin-zoo-zuzana-fiserova/) upozorňovali na to, že výpadek příjmů kvůli nouzovému stavu je pro naši zlínskou ZOO velmi ohrožující.
 
-Aktuálně si uvědomujeme, že situace v ZOO je kritická, peníze jí vystačí doslova na pár měsíců. Proto náš radní [Jiří Jaroš] (https://zlinsky.pirati.cz/lide/jiri-jaros/) navrhl za Piráty na Radě Zlínského kraje, aby **Zlínský kraj ZOO finančně pomohl**. Náš návrh byl kolegy z Rady akceptován. O výši finanční pomoci budeme rozhodovat příští týden.
+Aktuálně si uvědomujeme, že situace v ZOO je kritická, peníze jí vystačí doslova na pár měsíců. Proto náš radní [Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/) navrhl za Piráty na Radě Zlínského kraje, aby **Zlínský kraj ZOO finančně pomohl**. Náš návrh byl kolegy z Rady akceptován. O výši finanční pomoci budeme rozhodovat příští týden.
 
 Situaci zlínské ZOO **řešíme také v rámci města Zlína**. Na schůzce koaličních zastupitelů jsme probírali jednotlivé kroky, které město vůči ZOO aktuálně dělá. V současné době město Zlín činí maximum v rámci svých finančních možností.
 
