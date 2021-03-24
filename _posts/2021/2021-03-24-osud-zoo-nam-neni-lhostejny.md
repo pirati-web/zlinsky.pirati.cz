@@ -25,7 +25,7 @@ Ukazuje se, že **myšlenka naší zastupitelky a radní pro školství a kultur
 
 Stále zde ale **postrádáme větší péči od státu**, který až nyní po urgencích zareagoval a zvýšil zoologickým zahradám příspěvek „na krmení“, díky kterému do zlínské ZOO přiteče několik milionů navíc. I přesto zlínská ZOO nedosáhne na kompenzační programy pro zaměstnance kvůli nastaveným podmínkám. Bohužel její zaměstnanci nesedí doma, musí se  starat o zvířata a navíc jsou programy koncipovány pro soukromé společnosti, proto na kompenzační bonus ZOO dosud nedosáhla. Ani otevření venkovních prostor zatím vláda neumožnila. 
 
-**Náš poslanec [František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/) dnes ve věci kompenzací zoologickým zahradám interpeloval ministra Brabce.**
+**Náš poslanec [František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/) dnes ve věci kompenzací zoologickým zahradám interpeloval ministra životního prostředí Richarda Brabce.**
 
 > *“Vzhledem k uzavření zoologických zahrad pro veřejnost, trvající s přestávkami již rok, přišly zoologické zahrady o značnou část svých příjmů. Nyní se situace stává kritickou. Zahradám, zejména těm nejúspěšnějším, které nepobírají velké příspěvky od zřizovatelů, docházejí prostředky a hrozí nutnost převozu zvířat do jiných zoo nebo v krajním případě dokonce utrácení zvířat. To je nepřípustné a stát by se měl zasadit o to, aby k tak radikálním krokům nemuselo dojít a zoologické zahrady mohly pokračovat ve své činnosti,”* řekl [František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/).
 > 
