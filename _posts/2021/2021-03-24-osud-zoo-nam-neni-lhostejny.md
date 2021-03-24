@@ -14,7 +14,7 @@ tags:
 
 Osud zlínské ZOO Pirátům není lhostejný, její vážnou situaci sledujeme už od vyhlášení prvního nouzového stavu.
 
-Již na jaře naše krajská zastupitelka [Zuzana Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/) upozorňovala v tomto [článku](https://zlinsky.pirati.cz/tiskove-zpravy/nouzovy-stav-zlin-zoo-zuzana-fiserova/), že výpadek příjmů kvůli nouzovému stavu je pro naši zlínskou ZOO velmi ohrožující.
+Již na jaře jsme v tomto [článku](https://zlinsky.pirati.cz/tiskove-zpravy/nouzovy-stav-zlin-zoo-zuzana-fiserova/) upozorňovali na to, že výpadek příjmů kvůli nouzovému stavu je pro naši zlínskou ZOO velmi ohrožující.
 
 Aktuálně si uvědomujeme, že situace v ZOO je kritická, peníze jí vystačí doslova na pár měsíců. Proto jsme za Piráty na Radě Zlínského kraje navrhli, aby **Zlínský kraj ZOO finančně pomohl**. Náš návrh byl kolegy z Rady akceptován. O výši finanční pomoci budeme rozhodovat příští týden.
 
