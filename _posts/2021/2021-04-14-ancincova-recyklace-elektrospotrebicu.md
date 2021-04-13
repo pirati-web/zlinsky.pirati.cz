@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová: Odevzdáním starého elektra ponížili občané kraje množství vyprodukovaného CO2 o 33 tisíc tun'
-date: 2021-04-13
+date: 2021-04-14
 author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/12896.jpg
@@ -18,10 +18,11 @@ Občané kraje totiž v uplynulém roce odevzdali ke zpětnému odběru a recykl
 
 > *"Já jsem moc ráda, že se Zlínskému kraji daří dlouhodobě zvyšovat recyklaci elektrospotřebičů a daří se mu tak snižovat zátěž na životním prostředí. Je totiž nutné si uvědomit, že se současným spotřebním chováním budeme v roce 2050 potřebovat celkem tři planety Země. Je proto jasné, že každý se musíme naučit směřovat více k obnovitelnosti a udržitelnosti naší společnosti,"* říká statutární náměstkyně hejtmana [Hana Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/), odpovědná za oblast životního prostředí. 
 > 
+
 Díky nové evropské legislativě budou muset být dostupné náhradní díly u některých spotřebičů deset let, což rozhodně pomůže větší udržitelnosti a sníží produkci elektroodpadu.
 
 
-**Pro zajímavost ještě pár přepočtů**
+**Pár přepočtů pro zajímavost**
 
 * V přepočtu na obyvatele odevzdal každý občan Zlínského kraje do sběrné sítě Elektrowin průměrně 4,78 kilogramu starých elektrospotřebičů. 
 * Znamená to také omezení těžby ropy o 1 630 527 litrů, které by byly potřebné k výrobě pohonných hmot do osobního auta pro 61 106 cest na trase Praha – Brno po dálnici D1. 
