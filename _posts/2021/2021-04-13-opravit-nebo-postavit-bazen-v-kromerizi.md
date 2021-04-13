@@ -17,7 +17,7 @@ Kroměřížský stávající krytý bazén je ve velmi špatném stavu a jeho o
 
 Letitý krytý bazén v Obvodové ulici byl postaven v takzvané „akci Z“, což se podobně jako u jiných staveb projevilo mnohdy špatně odvedenou prací. 
 
-> *„Když k tomu přidáme opotřebení materiálu a vady související se stářím zařízení, můžeme mluvit o kritickém stavu. Například vana současného bazénu je dokonce v havarijním stavu. Je nutné situaci léta zablokovanou neúspěšným jednáním o pozemcích s plaveckým oddílem urgentně řešit. Stavba nového bazénu je pro mě prioritou, které se hodlám usilovně věnovat a hodlám ji dotáhnout do konce,“* popsal místostarosta Kroměříže a předseda Pirátů Zlínského kraje [Vratislav Krejčíř](http://www.pirati.cz).
+> *„Když k tomu přidáme opotřebení materiálu a vady související se stářím zařízení, můžeme mluvit o kritickém stavu. Například vana současného bazénu je dokonce v havarijním stavu. Je nutné situaci léta zablokovanou neúspěšným jednáním o pozemcích s plaveckým oddílem urgentně řešit. Stavba nového bazénu je pro mě prioritou, které se hodlám usilovně věnovat a hodlám ji dotáhnout do konce,“* říká místostarosta Kroměříže a předseda Pirátů Zlínského kraje [Vratislav Krejčíř](http://www.pirati.cz).
 > 
  
 Jedním z hlavních témat volební kampaně v komunálních volbách v Kroměříži byla také stavba nové sportovní haly v Kroměříži. 
