@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Opravit, nebo postavit nový bazén v Kroměříži?'
+title: 'Vratislav Krejčíř: Opravit, nebo postavit nový bazén v Kroměříži?'
 date: 2021-04-13
 author: Vratislav Krejčíř
 authorId: vratislav.krejcir
