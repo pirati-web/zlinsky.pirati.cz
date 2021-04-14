@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová: Odevzdáním starého elektra ponížili občané kraje množství vyprodukovaného CO2 o 33 tisíc tun'
-date: 2021-04-13
+date: 2021-04-14
 author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/12896.jpg
