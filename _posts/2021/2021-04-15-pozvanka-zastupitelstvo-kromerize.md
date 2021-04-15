@@ -9,7 +9,6 @@ image: posts/kromeriz-zastupitelstvo.jpg
 tags: 
 - zastupitelstvo
 - kromeriz
-- tagu-kolik-chces
 ---
 
 **Dnes se koná Zastupitelstvo města Kroměříže, zasedání můžete sledovat z pohodlí domova online na Youtube od 16. hodin pod tímto [odkazem](http://bit.ly/zastupitelstvo-kromeriz).**
