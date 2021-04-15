@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Jak Zlínský kraj očkuje?'
+title: 'Hana Ančincová: Jak Zlínský kraj očkuje?'
 date: 2021-04-15
 author: Hana Ančincová
 authorId: hana.ancincova
