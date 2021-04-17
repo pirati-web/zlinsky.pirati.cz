@@ -13,7 +13,10 @@ tags:
 important: true
 ---
 
-Od pondělí 12. dubna se otevřou školy a školská zařízení také ve Zlínském kraji. Dohodlo se na tom vedení kraje spolu se zástupci Krajské hygienické stanice a Ministerstva zdravotnictví. Od pondělí dojde také k částečnému otevření služeb a veřejná doprava bude fungovat v plném režimu.
+Od pondělí 12. dubna se otevřou školy a školská zařízení také ve Zlínském kraji. 
+
+
+Dohodlo se na tom vedení kraje spolu se zástupci Krajské hygienické stanice a Ministerstva zdravotnictví. Od pondělí dojde také k částečnému otevření služeb a veřejná doprava bude fungovat v plném režimu.
 
 > *“Ředitele škol, starosty obcí s rozšířenou působností a všechny další subjekty jsme informovali ještě předtím, než jsme informace o dohodě poskytli médiím,”* uvedla naše pirátská radní [Zuzana Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/) zodpovědná za oblast školství a kulturu. 
 > 
