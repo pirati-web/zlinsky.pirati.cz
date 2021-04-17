@@ -16,7 +16,7 @@ tags:
 important: true
 ---
 
-Světový den vody a půl roku od otravy řeky Bečvy: Z analýz vzorků z dešťové kanalizace ve Lhotce nad Bečvou jasně vyplývá, že byly několikanásobně překročeny hodnoty kovů, fosforů, naftalenu a dalších polyaromatických uhlovodíků
+Světový den vody a půl roku od otravy řeky Bečvy: Z analýz vzorků z dešťové kanalizace ve Lhotce nad Bečvou jasně vyplývá, že byly několikanásobně překročeny hodnoty kovů, fosforů, naftalenu a dalších polyaromatických uhlovodíků.
 
 > *„V září minulého roku jsem podal interpelace na pana ministra Brabce, zda by k této kauze mohl něco sdělit. Bohužel jeho odpověď byla velmi vyhýbavá a nedozvěděl jsem se z ní vůbec nic. Podobnou interpelaci jsem položil v listopadu, kde jsem se ptal na únik fenolu. Ptal jsem se pana ministra, co říká na to, že rybáři cítili chlor a měli popálené ruce, zda by mi k tomu mohl dát komentář. Bohužel ani tady jsem se nedozvěděl od pana ministra nic konkrétního. V říjnu jsem psal přímo na Českou inspekci životního prostředí, tam jsem se dozvěděl to stejné, že mi nemohou poskytnout žádné informace,”* říká poslanec a člen Výboru pro životní [František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/).
 > 
