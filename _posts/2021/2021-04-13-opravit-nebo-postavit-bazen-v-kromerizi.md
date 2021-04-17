@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Kroměřížský stávající krytý bazén je ve velmi špatném stavu a jeho oprava by byla velmi nákladná. Stavba nového bazénu by nemusela město stát výrazně více, než by stála rekonstrukce stávajícího krytého bazénu. 
+Stávající krytý bazén v Kroměříži je ve špatném stavu a jeho oprava by byla velmi nákladná. Stavba nového bazénu by nemusela město stát výrazně více, než by stála rekonstrukce stávajícího krytého bazénu. 
 
 Letitý krytý bazén v Obvodové ulici byl postaven v takzvané „akci Z“, což se podobně jako u jiných staveb projevilo mnohdy špatně odvedenou prací. 
 
