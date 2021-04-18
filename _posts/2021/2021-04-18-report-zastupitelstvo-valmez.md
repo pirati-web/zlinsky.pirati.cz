@@ -13,7 +13,7 @@ tags:
 - denis-rychtar
 ---
 
-Milí příznivci, pojďme si shrnout, jak proběhlo poslední zasedání zastupitelstva Valašského Meziříčí ve čtvrtek 15. dubna 2021. Přečtěte si, jak jsme hlasovali, které projekty a záměry jsme na online zasedání podpořili, a co naopak schváleno nebylo.
+Milí příznivci, pojďme si shrnout, jak proběhlo zasedání zastupitelstva Valašského Meziříčí, které proběhlo 15. dubna 2021. Přečtěte si, jak jsme hlasovali, které projekty a záměry jsme na online zasedání podpořili, a co naopak schváleno nebylo.
 
 Celé zasedání si můžete poslechnout ze zvukového záznamu [ZDE](https://www.valasskemezirici.cz/usneseni-zapisy-hlasovani-zvukovy-zaznam-2018-2022/ds-2844/archiv=1&p1=17888).
 
