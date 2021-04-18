@@ -62,8 +62,7 @@ Projekt počítá se vsakovacími tunely a navazuje na druhý projekt zadržová
 
 **1. Kontrola postupů a komunikace ke kontrolní činnosti Kontrolního výboru Zastupitelstva města Valašské Meziříčí pro rok 2021**
 
-Náš zastupitel Denis Rychtar navrhl kontrolu postupů a komunikace ke kontrolní činnosti Kontrolního výboru Zastupitelstva města Valašské Meziříčí pro rok 2021. Postupy Městského úřadu Valašské Meziříčí při havárii na řece Bečvě do konce roku 2020 (komplexní komunikace, odběry, řízení a výstupy pro veřejnost).
-Nemohla být schválená z důvodu právního výkladu, že kontrolní výbor nemůže provést kontrolu státního orgánu vodohospodáře Valašské Meziříčí.
+Náš zastupitel Denis Rychtar navrhl kontrolu postupů a komunikace ke kontrolní činnosti Kontrolního výboru Zastupitelstva města Valašské Meziříčí pro rok 2021. Kontrola nemohla být schválenáaz důvodu právního výkladu, že kontrolní výbor nemůže provést kontrolu státního orgánu vodohospodáře Valašské Meziříčí.
 
 
 
