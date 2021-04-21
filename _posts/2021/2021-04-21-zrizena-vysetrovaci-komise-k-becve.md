@@ -10,7 +10,7 @@ tags:
 - frantisek-elfmark
 - hana-ancincova
 - becva
-- zivotni prostreni
+- zivotni-prostredi
 - snemovna
 - zlinsky-kraj
 important: true
