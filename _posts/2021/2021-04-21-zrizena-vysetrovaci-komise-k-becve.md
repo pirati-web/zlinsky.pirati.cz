@@ -26,6 +26,6 @@ Zřízení vyšetřovací komise k ekologické havárii na řece Bečvě Sněmov
 > *"Jsem ráda, že Bečva opravdu nevyšumí. Občané jsou už totiž unavení neustálým prohlašováním o tom, kdo řeku otrávil či neotrávil. Je proto dobře, že vznikne vyšetřovací komise na půdě Sněmovny, která musí do září přinést a zveřejnit svá zjištění. Společné úsilí mělo smysl a všem za to patří dík,“* doplňuje **[Hana Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/)**, odpovědná za oblast životního prostředí Zlínského kraje.
 >  
 
-Pamatujete si ještě, jak měla Poslanecká sněmovna o zřízení této komise hlasovat už 10. března, ale těsně před samotným hlasováním si Jaroslav Faltýnek (ANO) účelově vzal pauzu, a tak k hlasování vůbec nedošlo? Nejen o tom jsme se zmínili v našem minulém článku [ZDE](https://zlinsky.pirati.cz/tiskove-zpravy/pul-roku-otravy-becvy/.
+Pamatujete si ještě, jak měla Poslanecká sněmovna o zřízení této komise hlasovat už 10. března, ale těsně před samotným hlasováním si Jaroslav Faltýnek (ANO) účelově vzal pauzu, a tak k hlasování vůbec nedošlo? Nejen o tom jsme se zmínili v našem minulém článku [ZDE](https://zlinsky.pirati.cz/tiskove-zpravy/pul-roku-otravy-becvy/).
 
 Více informací k celé kauze najdete na našem speciálním webu **[www.zazivoubecvu.cz](www.zazivoubecvu.cz)**.
