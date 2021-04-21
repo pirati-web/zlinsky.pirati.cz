@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Ve Sněmovně je konečně zřízena vyšetřovací komise k havírii na řece Bečvě!'
+title: 'Ve Sněmovně je konečně zřízena vyšetřovací komise k havárii na řece Bečvě!'
 date: 2021-04-21
 author: František Elfmark
 authorId: frantisek.elfmark
