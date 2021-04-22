@@ -48,6 +48,7 @@ V 1. kole Programu na podporu kulturních aktivit a akcí regionálního význam
 ## Individuální podpora pro mimořádně významné projekty na poli kultury pro rok 2021
 > *"Projekty, které jsme již podpořili, nebo pro ně dotace navrhujeme, výrazně ovlivňují kulturní život v našem regionu a jsou s ním úzce spjaty. Navíc také korespondují se strategickými zájmy a cíli Zlínského kraje v oblasti uchování jeho nehmotného kulturního dědictví,“* sdělila krajská radní [Zuzana Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/), zodpovědná za kulturu a školství.
 > 
+
 **Schválili jsme:**
 * 2 000 000 korun pro Slovácké divadlo v Uherském Hradišti na kulturní činnost v roce 2021
 * 2 000 000 pro Městské divadlo Zlín (ke stejnému účelu)
