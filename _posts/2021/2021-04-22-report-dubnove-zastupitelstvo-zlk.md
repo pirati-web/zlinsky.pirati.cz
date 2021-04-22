@@ -77,7 +77,8 @@ Zastupitelstvo stanovilo nové delegáty Spolku Bison, jedním z nich je bude n�
 Tento program je stěžejní pro činnost mládežnického sportu, protože celková výše dotace činí 11 mil. Kč a je jím podpořeno 45 subjektů.
 
 ## Individuální podpora mládeže a sportu v roce 2021
-ZZK schválilo individuální podporu z oblasti Mládež a sport v celkové výši 4.450.000 Kč. Individuální podpora je určena na mimořádně významné akce a projekty s regionálním i nadregionálním významem, a zároveň pro další speciální účely v sekci Mládež a sport. Z podstatných akcí lze vyzdvihnout podporu projektu stavební úpravy šaten - Sportovní haly DATART ve Zlíně ve výši 2 mil. Kč.  
-
+ZZK schválilo individuální podporu z oblasti Mládež a sport v celkové výši 4.450.000 Kč. 
+> *"Individuální podpora je určena na mimořádně významné akce a projekty s regionálním i nadregionálním významem, a zároveň pro další speciální účely v sekci Mládež a sport. Z podstatných akcí lze vyzdvihnout podporu projektu stavební úpravy šaten - Sportovní haly DATART ve Zlíně ve výši 2 mil. Kč,"* uvedl [Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/), radní pro mládež a sport.
+> 
 
 **Více informací z Kraje najdete [ZDE](https://www.kr-zlinsky.cz/).**
