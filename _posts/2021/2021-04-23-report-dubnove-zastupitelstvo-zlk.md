@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Report z dubnového zastupitelstva Zlínského kraje: Co prosadili pirátští radní?'
-date: 2021-04-22
+date: 2021-04-23
 author: Lucie Švehlíková
 authorId: lucie.svehlikova
 image: posts/zastupitelstvo-duben.jpg
