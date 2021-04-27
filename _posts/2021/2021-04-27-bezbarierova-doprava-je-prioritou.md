@@ -12,7 +12,7 @@ tags:
 - doprava
 ---
 
-Společnost ARRIVA MORAVA, dopravce Zlínského kraje, představila čtyři nové autobusy vybavené speciální plošinou pro nástup cestujících s hendikepem.Tyto autobusy by měly jezdit po regionálních linkách na trase Zlín – Brno. Autobusy s novým typem nástupní plošiny jsou první ve Zlínském kraji. Více informací najdete [ZDE](https://www.kr-zlinsky.cz/ve-zlinskem-kraji-budou-jezdit-nove-autobusy-s-bezbarierovou-upravou-aktuality-16950.html).
+Společnost ARRIVA MORAVA, dopravce Zlínského kraje, představila čtyři nové autobusy vybavené speciální plošinou pro nástup cestujících s hendikepem. Tyto autobusy by měly jezdit po regionálních linkách na trase Zlín – Brno. Autobusy s novým typem nástupní plošiny jsou první ve Zlínském kraji. Více informací najdete [ZDE](https://www.kr-zlinsky.cz/ve-zlinskem-kraji-budou-jezdit-nove-autobusy-s-bezbarierovou-upravou-aktuality-16950.html).
 
 **Cílem pro nás samozřejmě je, aby ve Zlínském kraji jezdilo do budoucna 100 procent bezbariérových autobusů, odstraňovat bariéry chceme co nejrychlejším tempem. Každý občan Zlínského kraje musí mít možnost maximálně svobodného pohybu bez omezení!**
 
