@@ -20,5 +20,3 @@ Společnost ARRIVA MORAVA, dopravce Zlínského kraje, představila čtyři nov�
 > 
 
 > *“V našem kraji se chystá několik investic v oblasti dopravních staveb. Například nový bezbariérový přestupní terminál ve Vsetíně s přímým přestupem mezi autobusy a vlakem, Správa železnic chystá opravy nádraží Bystřice pod Hostýnem a v Holešově s novými 550mm nástupními hranami apod. Zastávky BUS se postupně upravují pro bezbariérový přístup,”* doplňuje [Jakub Zach](https://zlinsky.pirati.cz/lide/jakub-zach/).
-
-
