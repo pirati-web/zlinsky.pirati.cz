@@ -5,7 +5,7 @@ title: 'Jakub Zach: Bezbariérová veřejná doprava je naší dlouhodobou prior
 date: 2021-04-27
 author: Jakub Zach
 authorId: jakub.zach
-image: posts/jakub-zach-rouska.jpg
+image: posts/kuba-zach-rouska.jpg
 tags: 
 - jakub-zach
 - zlinsky-kraj
