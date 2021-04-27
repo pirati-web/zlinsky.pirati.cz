@@ -14,7 +14,7 @@ tags:
 
 Společnost ARRIVA MORAVA, dopravce Zlínského kraje, představila čtyři nové autobusy vybavené speciální plošinou pro nástup cestujících s hendikepem.Tyto autobusy by měly jezdit po regionálních linkách na trase Zlín – Brno. Autobusy s novým typem nástupní plošiny jsou první ve Zlínském kraji. Více informací najdete [ZDE](https://www.kr-zlinsky.cz/ve-zlinskem-kraji-budou-jezdit-nove-autobusy-s-bezbarierovou-upravou-aktuality-16950.html).
 
-**Cílem pro nás samozřejmě je, aby ve Zlínském kraji jezdilo do budoucna 100 procent bezbariérových autobusů, odstraňovat bariéry chceme co nejrychlejším tempem. Každý občan Zlínského kraje musí mít možnost maximálně svobodného pohybu po bez omezení.**
+**Cílem pro nás samozřejmě je, aby ve Zlínském kraji jezdilo do budoucna 100 procent bezbariérových autobusů, odstraňovat bariéry chceme co nejrychlejším tempem. Každý občan Zlínského kraje musí mít možnost maximálně svobodného pohybu bez omezení!**
 
 > *“V oblasti bezbariérové veřejné dopravy máme před sebou ještě mnoho úkolů, abychom mohli říci, že je veřejná doprava ve Zlínském kraji bezbariérová. Není to pouze o bezbariérových vozidlech, ale i o bezbariérovém přístupu zastávek a nádražích. Současně s tím usiluji o to, aby v novém jízdním řádě od roku 2022 byly uvedeny garantované nízkopodlažní spoje,”* říká předseda Výboru pro dopravu [Jakub Zach](https://zlinsky.pirati.cz/lide/jakub-zach/).
 > 
