@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Půl roku od ekologické katastrofy: Piráti nadále řeší kauzu Bečva'
 date: 2021-03-23
-author: Lucie Švehlíková
-authorId: lucie.svehlikova
+author: Piráti Zlínský kraj
+authorId:
 image: posts/becva_vsetin_web.jpg
 tags: 
 - zlinsky-kraj
