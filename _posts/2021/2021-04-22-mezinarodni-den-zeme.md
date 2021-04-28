@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Mezinárodní den Země: Pokračujeme v úklidu kraje. Proč byste měli i vy?'
 date: 2021-04-22
-author: Krajský mediální odbor 
-authorId: krajsky.medialni.odbor
+author: Piráti Zlínský kraj
+authorId: 
 image: posts/den-zeme-hanka-zdenek.jpg
 tags: 
 - Den-Zeme
