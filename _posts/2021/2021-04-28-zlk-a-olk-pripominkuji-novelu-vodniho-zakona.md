@@ -21,7 +21,7 @@ V úterý 27. dubna proběhla koordinační schůzka mezi příslušnými vedouc
 > *„Společně jsme identifikovali několik sporných míst a navrhli řešení, jež prostřednictvím připomínkového řízení zašleme na ministerstvo. Vzhledem k tomu, že impulsem pro novelu vodního zákona byla práva havárie na Bečvě, jež nejvíc postihla právě Olomoucký a Zlínský kraj, věříme, že i díky našemu koordinovanému postupu a výslednému jednotnému názoru obou krajů, bude na ministerstvu našim připomínkám nasloucháno. Naší jedinou motivací je, aby se při příští podobné havárii, která se snad nestane, postupovalo jasněji a správněji,”* uvádí [Šmída](https://olomoucky.pirati.cz/lide/martin-smida/).
 > 
 
-> *„Ekologická katastrofa na řece Bečvě ukázala slabá místa vodního zákona. Novela zákona, která reaguje na tuto katastrofu však dle názoru zástupců Zlínského a Olomouckého kraje obsahuje několik slabých míst, které jsme dnes identifikovali na společné schůzce. Od novely zákona si slibujeme zejmena vyjasnění kompetencí zainteresovaných subjektů,”* dodala [Hana Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/), odpovědná za životní prostředí Zlínského kraje.
+> *„Ekologická katastrofa na řece Bečvě ukázala slabá místa vodního zákona. Novela zákona, která reaguje na tuto katastrofu však dle názoru zástupců Zlínského a Olomouckého kraje obsahuje několik slabých míst, které jsme dnes identifikovali na společné schůzce. Od novely zákona si slibujeme zejména vyjasnění kompetencí zainteresovaných subjektů,”* dodala [Hana Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/), odpovědná za životní prostředí Zlínského kraje.
 > 
 
 **Kraje ve vzájemné spolupráci budou připomínkovat novelu v následujících bodech:**
