@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Osud zlínské ZOO Pirátům není lhostejný'
 date: 2021-03-24
-author: Lucie Švehlíková
-authorId: lucie.svehlikova
+author: Piráti Zlínský kraj
+authorId:
 image: posts/zirafa-zoo.jpg
 tags: 
 - zlinsky-kraj
