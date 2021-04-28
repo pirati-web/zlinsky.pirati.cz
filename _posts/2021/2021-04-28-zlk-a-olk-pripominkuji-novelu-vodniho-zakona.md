@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Zlínský a Olomoucký kraj připomínkují novelu vodního zákona'
 date: 2021-04-28
-author: Lucie Švehlíková
-authorId: lucie.svehlikova
+author: Piráti Zlínský kraj
+authorId:
 image: posts/becva_vsetin_web.jpg
 tags: 
 - becva
