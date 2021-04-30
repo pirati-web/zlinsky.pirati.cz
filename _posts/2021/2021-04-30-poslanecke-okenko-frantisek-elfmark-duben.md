@@ -52,5 +52,6 @@ Každé pondělí od 9:30 do 10:00 hodin mám vyhrazenou **on-line půl hodinku*
 Můžete mě sledovat na mé politické **[Facebookové stránce](https://www.facebook.com/FrantisekElfmark.DiS/)**, a rovněž na **[mém blogu](https://www.frantisekelfmark.cz/)**. Pokud se přihlásíte k odběru mého newsletteru, nic Vám již neuteče a všechny aktuální zprávy k Vám přiletí na e-mail. Pirátské novinky můžete sledovat také na webových stránkách **[www.pirati.cz](https://www.pirati.cz/)** a **[www.piratskelisty.cz](https://www.piratskelisty.cz/)**.
 
 Hezké dny!
+
 **FE**
 
