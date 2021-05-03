@@ -10,12 +10,21 @@ category:                   # kategorie: clenove
 ord_zastupitel: 1
 
 img: people/tomas-cabla.jpg   # 165 x 220
-heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+heroImg: articles/lide/hero-cabla.jpg
 description: zastupitel města Napajedla<br>provozní hotelu<br>Napajedla # kratký popis, max 160 znaků
+
+partyUid: pirati
+ 
 mail:
 - tomas.cabla@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/tomas.cabla
+  facebook:  https://www.facebook.com/tomas.cabla
+  evidence:  https://evidence.pirati.cz/?q=cabla&p=1
+  odmeny:    https://nalodeni.pirati.cz/odmeny/tomas.cabla
+  
+funkce:
+ - zastupitel města Napajedla
+ 
 ---
 
 Tomáš Čabla (*25. března 1979, Zlín) je zastupitelem Napajedel.
