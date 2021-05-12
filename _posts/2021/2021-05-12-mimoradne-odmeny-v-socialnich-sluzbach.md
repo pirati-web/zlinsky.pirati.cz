@@ -5,7 +5,7 @@ title: 'Zaměstnanci v sociálních službách Zlínského kraje dostanou mimoř
 date: 2021-05-12
 author: Hana Ančincová
 authorId: hana.ancincova
-image: posts/hands.jpg
+image: posts/hanka-social-odmeny.jpg
 tags: 
 - socialni-oblast
 - hana-ancincova
