@@ -26,7 +26,7 @@ Mnohé oblasti novely jsou stále přinejmenším diskutabilní a nebyly zástup
 
 **Úplně nejzásadnější je, aby k haváriím velkého rozsahu vůbec nedocházelo. V navrhované legislativě mi chybí preventivní opatření, která přispějí k předcházení haváriím.** 
 
-Chápu, že novela vznikala poměrně ve spěchu, její současné znění ale není ideální a jsem zvědavý, jak budou vypořádány připomínky. 
+**Chápu, že novela vznikala poměrně ve spěchu, její současné znění ale není ideální** a jsem zvědavý, jak budou vypořádány připomínky. 
 
 
 **Jaké hlavní novinky novela přináší?**
