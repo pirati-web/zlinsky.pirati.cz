@@ -12,7 +12,8 @@ ord_krajsti-zastupitele: 4
 
 img: people/jakub-zach.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: krajský zastupitel, architekt <br>Kroměříž # kratký popis, max 160 znaků
+description: krajský zastupitel, architekt <br>předseda MS Kroměříž # kratký popis, max 160 znaků
+mob: +420 774 484 102
 mail:
 - jakub.zach@pirati.cz
 profiles:
