@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'František Elfmark: Máme plán pro životní prostředí'
+title: 'František Elfmark: Vraťme životnímu prostředí budoucnost'
 date: 2021-05-21
 author: František Elfmark
 authorId: frantisek.elfmark
