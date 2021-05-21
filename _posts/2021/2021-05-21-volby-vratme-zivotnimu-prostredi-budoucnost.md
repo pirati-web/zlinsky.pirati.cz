@@ -14,7 +14,7 @@ tags:
 important: true
 ---
 
-Na zahájení kampaně Pirátů a Starostů náš lídr pro sněmovní volby řekl, co máme v plánu uskutečnit v rámci Životního prostředí.
+Na zahájení kampaně Pirátů a Starostů náš lídr pro sněmovní volby řekl, jak vrátíme životnímu prostředí budoucnost.
 
 **Společně s Radkem Holomčíkem, jedničkou kandidátky v Jihomoravském kraji, má František Elfmark, lídr ve Zlínském kraji, jako hlavní téma ochranu přírody a ekologii.** 
 
