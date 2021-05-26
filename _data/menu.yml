@@ -16,6 +16,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
+  - link: "piratiastarostove.cz/kandidati/kraj/zlinsky/"
+    name: Vaši lidé do Sněmovny
+    url: "https://www.piratiastarostove.cz/kandidati/kraj/zlinsky/"    
 #  - link: /pardubicke-piratske-centrum-pardupice/
 #    name: Pirátské centrum
 #    match: pardubicke-piratske-centrum-pardupice
