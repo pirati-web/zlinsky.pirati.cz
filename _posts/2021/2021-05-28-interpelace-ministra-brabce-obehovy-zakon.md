@@ -13,7 +13,7 @@ tags:
 - snemovna
 ---
 
-Nový balíček oběhových zákonů, platný od letošního ledna, obsahuje odkazy na řadu prováděcích předpisů. V čem je problém? Tyto předpisy nebyly dosud vůbec vydány.
+Nový balíček oběhových zákonů, platný od letošního ledna, obsahuje odkazy na řadu prováděcích předpisů. V čem je problém? Tyto předpisy nebyly dosud vůbec vydány. Proto jsem se rozhodl interpelovat ministra životního prostředí Richarda Brabce.
 
 
 # Nový balíček oběhových zákonů
@@ -29,7 +29,7 @@ Nový balíček oběhových zákonů, platný od letošního ledna, obsahuje odk
 S novými zákony tzv. oběhového balíčku je spojeno mnoho prováděcích předpisů. Některé z těch zásadních však dosud nebyly vydány. Bez Vyhlášky o podrobnostech nakládání s odpady mají odpadoví hospodáři velmi ztíženou roli, neboť nemohou bez znalosti této vyhlášky např. sestavovat Provozní řády. 
 Chtěl bych proto požádat pana ministra Brabce, aby zodpověděl následující otázky:
 
-1. Kdy bude projednána a vydána Vyhláška o podrobnostech nakládání s odpady? 
-2. Čím se mají odpadoví hospodáři řídit do té doby? 
+**1. Kdy bude projednána a vydána Vyhláška o podrobnostech nakládání s odpady?**
+**2. Čím se mají odpadoví hospodáři řídit do té doby?**
 
 Vážený pane ministře, prosím Vás o rychlou odpověď. 
