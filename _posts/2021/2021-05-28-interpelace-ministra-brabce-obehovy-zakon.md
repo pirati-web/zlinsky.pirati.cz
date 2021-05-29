@@ -30,6 +30,7 @@ S novými zákony tzv. oběhového balíčku je spojeno mnoho prováděcích př
 Chtěl bych proto požádat pana ministra Brabce, aby zodpověděl následující otázky:
 
 **1. Kdy bude projednána a vydána Vyhláška o podrobnostech nakládání s odpady?**
+
 **2. Čím se mají odpadoví hospodáři řídit do té doby?**
 
 Vážený pane ministře, prosím Vás o rychlou odpověď. 
