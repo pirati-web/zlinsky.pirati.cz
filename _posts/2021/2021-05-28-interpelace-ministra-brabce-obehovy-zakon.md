@@ -24,7 +24,7 @@ Nový balíček oběhových zákonů, platný od letošního ledna, obsahuje odk
 
 # Text interpelace
 
-S novými zákony tzv. oběhového balíčku je spojeno mnoho prováděcích předpisů. Některé z těch zásadních však dosud nebyly vydány. Bez Vyhlášky o podrobnostech nakládání s odpady mají odpadoví hospodáři velmi ztíženou roli, neboť nemohou bez znalosti této vyhlášky např. sestavovat Provozní řády. 
+S novými zákony tzv. oběhového balíčku je spojeno mnoho prováděcích předpisů. Některé z těch zásadních však dosud nebyly vydány. **Bez Vyhlášky o podrobnostech nakládání s odpady mají odpadoví hospodáři velmi ztíženou roli, neboť nemohou bez znalosti této vyhlášky např. sestavovat Provozní řády.** 
 Chtěl bych proto požádat pana ministra Brabce, aby zodpověděl následující otázky:
 
 **1. Kdy bude projednána a vydána Vyhláška o podrobnostech nakládání s odpady?**
