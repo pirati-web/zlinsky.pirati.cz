@@ -15,14 +15,12 @@ tags:
 
 Nový balíček oběhových zákonů, platný od letošního ledna, obsahuje odkazy na řadu prováděcích předpisů. V čem je problém? Tyto předpisy nebyly dosud vůbec vydány. Proto jsem se rozhodl interpelovat ministra životního prostředí Richarda Brabce.
 
-
-# Nový balíček oběhových zákonů
-
 > *"Už od ledna platí nový balíček oběhových zákonů. V čem je problém? Odkazuje na řadu prováděcích předpisů, které ale neexistují. Apeluji na ministra Brabce, aby byly projednány a nekomplikovali lidem, či hospodářům život,"* říká [František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/).
 > 
 
 > *"Obrací se na mne lidé, kteří pracují jako odpadoví hospodáři či podnikoví ekologové a zajímá je, zda nemám novinky ohledně Vyhlášky o podrobnostech nakládání s odpady, kterou potřebují ke své práci. Ta již prošla připomínkovým řízením, avšak dále v legislativním procesu se neposunula. Jelikož mám pouze neurčité informace o tom, že k jejímu vydání by mělo dojít pravděpodobně v červenci, obrátil jsem se s dotazem v podobě interpelace na ministra Brabce,"* doplňuje [Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/).
 > 
+
 
 # Text interpelace
 
