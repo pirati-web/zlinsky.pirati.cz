@@ -53,7 +53,7 @@ Doufám, že Senát návrh zákon rychle schválí, aby mohl vstoupit v účinno
 
 ## Co se událo
 * V měsíci květnu jsem se aktivně zapojil do výzvy **[Deset tisíc kroků](https://www.frantisekelfmark.cz/v-mesici-dubnu-jsem-se-aktivne-zapojil-do-vyzvy-deset-tisic-kroku/)** a i nadále se snažím chodit co nejvíce. Zjistil jsem, že důležitější než objem je spíše pravidelnost, svižné tempo a příjemné prostředí.
-* 2. - 8. května proběhl **[mezinárodní týden kompostování](https://www.frantisekelfmark.cz/tento-tyden-oslavujeme-kompostovani/)**. 
+* 2.- 8.května proběhl **[mezinárodní týden kompostování](https://www.frantisekelfmark.cz/tento-tyden-oslavujeme-kompostovani/)**. 
 * Zamyslel jsem se nad **[inovacemi v obalech](https://www.frantisekelfmark.cz/existuje-idealni-obal/)** a studiemi o jejich zdravotní (ne)závadnosti.
 * V květnu vyšel i nový **[akční plán na snižování znečištění](https://www.frantisekelfmark.cz/znecisteni-zivotniho-prostredi-ohrozuje-nase-zdravi-i-ekosystemy-novy-akcni-plan-nas-pobizi-ke-zmene/)**. 
 * Dalším tématem, které pomalu rozvíjím, je **[problematika světelného znečištění](https://www.frantisekelfmark.cz/kolik-hvezd-na-obloze-vidite-ze-sveho-domova/)**. 
