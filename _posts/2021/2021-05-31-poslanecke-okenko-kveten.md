@@ -26,7 +26,7 @@ A také **máme odstartováno!** V úterý 18. května jsem se zúčastnil **[za
 ## Volby do poslanecké sněmovny 2021
 Vážené Pirátky a Piráti,
 
-jak jsem psal výše, v polovině května nám začala startovací fáze kampaně a já vám všem chci poděkovat, že jste se buď jako členové, příznivci nebo dobrovolníci akce v našem regionu zúčastnili. Pokud pomůžete po celou dobu kampaně, budu velmi rád a vděčný. Kvůli kampani vnikl i speciální web **www.piratiastarostove.cz**. Zde najdete nejen **kandidáty našeho kraje**, ale také **komplexní program**. 
+jak jsem psal výše, v polovině května nám začala startovací fáze kampaně a já vám všem chci poděkovat, že jste se buď jako členové, příznivci nebo dobrovolníci akce v našem regionu zúčastnili. Pokud pomůžete po celou dobu kampaně, budu velmi rád a vděčný. Kvůli kampani vnikl i speciální web **[www.piratiastarostove.cz](www.piratiastarostove.cz)**. Zde najdete nejen **[kandidáty našeho kraje](https://www.piratiastarostove.cz/kandidati/kraj/zlinsky/)**, ale také **[komplexní volební program](https://www.piratiastarostove.cz/program/)**. 
 
 Zkuste nám pomoci a dát šanci - **Změnit budoucnost!** Já jako lídr naší kandidátky k tomu vynaložím patřičné množství energie, abychom toto heslo naplnili. Spolupráce se STAN funguje profesionálně a efektivně. 
 
