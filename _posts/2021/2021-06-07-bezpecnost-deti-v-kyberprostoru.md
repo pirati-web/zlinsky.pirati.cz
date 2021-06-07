@@ -23,6 +23,7 @@ Distanční výuka a protiepidemická opatření přinesly možná výhody, jako
 
 ## A na jaké webináře se můžete těšit?
 
+
 **Webináře pro pedagogické pracovníky:**
 
 8.6.2021 ve 14:30 – **Rizika spojená s internetem a bezpečnost online výuky**
@@ -34,6 +35,7 @@ Distanční výuka a protiepidemická opatření přinesly možná výhody, jako
 Přihlásit se můžete [zde](https://forms.office.com/Pages/ResponsePage.aspx?id=u4EnCrOoREWkfkLGq3fEhGxjCa5PnRRLnL2Nqar4xLVUNFlWUVE4UzdBN1ZYN0RVUk45NVpTQlNHUi4u).
 
 
+
 **Webináře pro rodiče (bez nutnosti přihlašování):**
 
 9.6.2021 v 17:00 – **Rizika spojená s internetem** [(odkaz na webinář)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzliMDVhOTItYTc5Zi00NWRhLWIyZmQtYzE5NjI1OGVjZjEz%40thread.v2/0?context=%7b%22Tid%22%3a%220a2781bb-a8b3-4544-a47e-42c6ab77c484%22%2c%22Oid%22%3a%220e28b47d-db65-41b5-8087-e3a144dc7fe3%22%7d)
@@ -41,5 +43,6 @@ Přihlásit se můžete [zde](https://forms.office.com/Pages/ResponsePage.aspx?i
 16.6.2021 v 17:00 – **Online predátoři** [(odkaz na webinář)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTEwZDhmOTctOTYyNC00YzM0LTg0YzAtY2ZjZTc1MzE0YWU0%40thread.v2/0?context=%7b%22Tid%22%3a%220a2781bb-a8b3-4544-a47e-42c6ab77c484%22%2c%22Oid%22%3a%220e28b47d-db65-41b5-8087-e3a144dc7fe3%22%7d)
 
 23.6.2021 v 17:00 – **Kyberšikana a kybernetická agrese** [(odkaz na webinář)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM1MjM1ZGUtMzI5Mi00ODhhLTg0YWMtNTg2ODhhZGMwOWU3%40thread.v2/0?context=%7b%22Tid%22%3a%220a2781bb-a8b3-4544-a47e-42c6ab77c484%22%2c%22Oid%22%3a%220e28b47d-db65-41b5-8087-e3a144dc7fe3%22%7d)
+
 
 Vzdělávací akce se uskuteční prostřednictvím aplikace MS Teams. Lektory budou doc. Mgr. Kamil Kopecký, Ph.D. a PhDr. René Szotkowski, Ph.D., oba z Centra prevence rizikové komunikace Pedagogické fakulty Univerzity Palackého v Olomouci.
