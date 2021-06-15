@@ -30,7 +30,7 @@ V úterý 27. dubna proběhla koordinační schůzka mezi příslušnými vedouc
 
 * Oba kraje tak ve shodě navrhují, aby tato role byla jednoznačně definovaná ČIŽP, které však navrhujeme povinnost součinnosti s vodoprávním úřadem a správcem vodního toku.Vodoprávní úřady na malých ORP nemají personální obsazení ani vybavení např. pro odběr vzorků. naproti tomu ČIŽP má celostátní působnost, personální, odborné i technické zázemí a má přehled zejména o rizikových provozech.
 
-* Navíc je sporným termínem i orientace podle vzniku havárie. Vždyť skutečné místo vzniku havárie na bečvě neznáme ani dnes. Proto kraje navrhují doplnit “nebo dle místa zjištění havárie” od takového místa se pak práce likvidace a především nacházení příčiny postupují oběma směry, tedy jak po proudu, tak proti proudu.
+* Navíc je sporným termínem i orientace podle vzniku havárie. Vždyť skutečné místo vzniku havárie na Bečvě neznáme ani dnes. Proto kraje navrhují doplnit “nebo dle místa zjištění havárie” od takového místa se pak práce likvidace a především nacházení příčiny postupují oběma směry, tedy jak po proudu, tak proti proudu.
 
 * Při havárii mimořádného rozsahu řídí záchranné a likvidační práce HZS a postupuje podle zákona o IZS.
 
@@ -40,7 +40,7 @@ V úterý 27. dubna proběhla koordinační schůzka mezi příslušnými vedouc
 
 * Dále opravujeme úplné nesmysly, jako že kraj posílá finance vodoprávnímu úřadu, jež ale nemá právní subjektivitu, takže opravujeme pojmy, v tomto případě musí být vodoprávní úřad nahrazen ORP.
 
-* V působnosti krajů § 107 odst. 1 písm.d, pak přetrvává nejasnost řízení, kdy MŽP navrhuje aby opatření činil ten z krajských úřadů, kde situace vznikla, nebo je nejvíce zasažen, což je situace, která byla právě na bečvě zmatečná, protože zrovna jeden kraj měl na svém území místo vzniku a druhý kraj byl nejvíce zasažen. Na tento rozpor jsme upozorňovali už v listopadu a tento nový ministerský návrh žádné řešení nepřináší. Návrhy krajů naopak rozdělují jasně, že opatření dělají oba kraje ve vzájemné součinnosti a každý na svém území.
+* V působnosti krajů § 107 odst. 1 písm.d, pak přetrvává nejasnost řízení, kdy MŽP navrhuje aby opatření činil ten z krajských úřadů, kde situace vznikla, nebo je nejvíce zasažen, což je situace, která byla právě na Bečvě zmatečná, protože zrovna jeden kraj měl na svém území místo vzniku a druhý kraj byl nejvíce zasažen. Na tento rozpor jsme upozorňovali už v listopadu a tento nový ministerský návrh žádné řešení nepřináší. Návrhy krajů naopak rozdělují jasně, že opatření dělají oba kraje ve vzájemné součinnosti a každý na svém území.
 
 
 
