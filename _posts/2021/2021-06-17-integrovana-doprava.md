@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Integrovaná doprava kraje konečně dostává reálnou podobu'
-date: 2021-02-27
+date: 2021-06-17
 author: Piráti Zlínský kraj
 authorId: 
 image: posts/kuba_integrovana_doprava.jpg
