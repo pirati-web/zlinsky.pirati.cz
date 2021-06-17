@@ -19,7 +19,7 @@ Cestující se pozitivních změn dočkají už příští rok. Momentálně pro
 > 
 
 
-Jednou z hlavních úloh pracovní skupiny je zvolení správného typu jízdního tarifu, který bude vyhovovat podmínkám Zlínského kraje.
+Jednou z hlavních úloh pracovní skupiny je **zvolení správného typu jízdního tarifu**, který bude vyhovovat podmínkám Zlínského kraje.
 > *"Pracujeme na tarifu, který bude efektivní a přinese výhody pro občany využívající veřejnou dopravu pravidelně. Změny tarifu budou konzultovány mimo jiné se starosty obcí a využijeme dosavadních dat, které má k dispozici KOVED. Na základě toho budou vytvořeny i nové jízdní řády,"* komentuje [Jakub Zach](https://zlinsky.pirati.cz/lide/jakub-zach/).
 > 
 
