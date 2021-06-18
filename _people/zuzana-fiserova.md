@@ -18,7 +18,10 @@ mail:
 - zuzana.fiserova@pirati.cz
 mob:			  
 profiles:
-  facebook: https://www.facebook.com/zuzana.fiserova77
+  facebook: https://www.facebook.com/piratkafiserova
+  twitter: https://twitter.com/FiserovaZuzana
+  instagram: https://www.instagram.com/fiserovaz/
+  web:  https://zfiserova.cz/     
 
 ---
 
