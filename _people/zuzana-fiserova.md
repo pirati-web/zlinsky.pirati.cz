@@ -25,4 +25,4 @@ profiles:
 
 ---
 
-Ing. Mgr. Zuzana Fišerová, Ph.D. (*1979) je radní Zlínského kraje pro oblast školství a kultury a zastupitelka města Zlín. Vystudovala finance a mediální studia, strávila rok na studiích ve Finsku. Před vstupem do politiky pracovala jako ekonomka a vysokoškolská pedagožka. Svůj volný čas tráví s rodinou ve Zlínském kraji, zejména na běžkách v okolí Pusteven nebo na horském kole. Ráda čte severské detektivky a miluje aktivní život.
+**Ing. Mgr. Zuzana Fišerová, Ph.D.** (*1979)<br>je radní Zlínského kraje pro oblast školství a kultury a zastupitelka města Zlín. Vystudovala finance a mediální studia, strávila rok na studiích ve Finsku. Před vstupem do politiky pracovala jako ekonomka a vysokoškolská pedagožka.<br>Svůj volný čas tráví s rodinou ve Zlínském kraji, zejména na běžkách v okolí Pusteven nebo na horském kole. Ráda čte severské detektivky a miluje aktivní život.
