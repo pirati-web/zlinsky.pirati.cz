@@ -24,7 +24,7 @@ Rekonstrukce areálu bývalé věznice v Uherském Hradišti postupuje podle pl�
 > **“Vnímám to jako dluh vůči všem, kteří v této věznici trpěli a jejichž utrpení mnohdy nebylo potrestáno. Zaslouží si, aby se toto autentické místo dočkalo důstojné opravy bez zbytečných prodlev,”** dodává [Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/). 	
 > 
 
-Projekt obnovy areálu nepočítá se zdržením. Rekonstrukce by tak měla být dokončena v roce 2028. Na setkání sa dohodla i koordinace dalšího společného postupu: *"Momentálně probíhá stavebně technický a stavebně historický průzkum, který by měl být dokončen ještě letos. Potom naváže archeologický průzkum a zpracování projektové dokumentace. Na vytvoření expozice Muzea totality má Zlínský kraj zatím vyčleněno 14 milionů korun,"* uvedla [radní](https://zlinsky.pirati.cz/lide/zuzana-fiserova/). 
+Projekt obnovy areálu nepočítá se zdržením. Rekonstrukce by tak měla být dokončena v březnu roku 2028. Na setkání sa dohodla i koordinace dalšího společného postupu: *"Momentálně probíhá stavebně technický a stavebně historický průzkum, který by měl být dokončen ještě letos. Potom naváže archeologický průzkum a zpracování projektové dokumentace. Na vytvoření expozice Muzea totality má Zlínský kraj zatím vyčleněno 14 milionů korun,"* uvedla [radní](https://zlinsky.pirati.cz/lide/zuzana-fiserova/). 
 
 
 
