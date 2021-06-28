@@ -1,9 +1,10 @@
 ---
 layout: post
 category: CLANKY
-title: 'Report z červnového zastupitelstva Zlínského kraje: Co prosadili Piráti?
+title: 'Report z červnového zastupitelstva Zlínského kraje: Co prosadili Piráti?'
 date: 2021-06-28
 author: Piráti Zlínský kraj
+authorId: 
 image: posts/zastupko_cerven.jpg
 tags: 
 - zastupitelstvo
