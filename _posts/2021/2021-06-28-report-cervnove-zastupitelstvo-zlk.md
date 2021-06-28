@@ -57,3 +57,6 @@ Ta upozornila také na možnost žádat o podporu pro kulturní akce pořádané
 ## Sportovaní odteď s navýšenou podporou kraje
 
 Nezaostává ani podpora sportu a mládeže v kraji. Dotace na sport ve výši jednoho milionu korun poputují do Fotbalové akademie Slovácka a Zlína. Dále pak téměř dva miliony korun do Akademie Berani Zlín a podpora až 3 miliony pro Barum Czech Rally Zlín. 
+
+> *"Plníme slib a podporujeme děti a mládež v akademiich napříč sporty a napříč krajem. Snažíme se podporu nasměrovat více do menších klubů, které jsou pro zdravý rozvoj dětí nepostradatelné,"* říká [Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/), odpovědný za oblast digitalizace, mládeže a sportu.
+> 
