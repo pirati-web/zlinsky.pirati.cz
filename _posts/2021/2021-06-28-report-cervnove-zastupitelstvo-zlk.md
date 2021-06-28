@@ -37,7 +37,7 @@ Krajské zastupitelstvo schválilo **investice na nákup nových digitálních i
 
 Výsledky zastupitelstva potěší i řidiče. Schválené **navýšení investic o 18 milionů korun půjde na opravy, modernizaci a rekonstrukci krajských cest II. a III. třídy**. Společnost Koved posílí díky nákupu nového služebního vozidla, určeného na kontroly smluvních závazků dopravců, dodržování kvality vozidel a služeb veřejné dopravy.
 
-> *"Integrace veřejné dopravy není jen o novém tarifu, ale i zkvalitňování služeb a komfortu pro lidi. Umístění informačních panelů na přestupních bodech IDZK je jeden z možností jak komunikovat s cestujícími a informovat je o aktuální dopravě. Současně chystáme mobilní aplikace. Také koupě vozidla pro Koved má přispět ke zkvalitnění služeb v dopravě, protože umožní kontrolu plnění standardů, kterým se dopravci zavázali,"* sdělil předseda Výboru pro dopravu [Jakub Zach](https://zlinsky.pirati.cz/lide/jakub-zach/).
+> *"Integrace veřejné dopravy není jen o novém tarifu, ale i zkvalitňování služeb a komfortu pro lidi. Umístění informačních panelů na přestupních bodech IDZK je jednou z možností, jak komunikovat s cestujícími a informovat je o aktuální dopravě. Současně chystáme mobilní aplikace. Také koupě vozidla pro Koved má přispět ke zkvalitnění služeb v dopravě, protože umožní kontrolu plnění standardů, kterým se dopravci zavázali,"* sdělil pirátský předseda Výboru pro dopravu [Jakub Zach](https://zlinsky.pirati.cz/lide/jakub-zach/).
 > 
 
 
