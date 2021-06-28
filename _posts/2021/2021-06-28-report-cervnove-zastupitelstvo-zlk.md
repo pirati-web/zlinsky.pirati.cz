@@ -4,14 +4,14 @@ category: CLANKY
 title: 'Report z červnového zastupitelstva Zlínského kraje: Co prosadili Piráti?
 date: 2021-06-28
 author: Piráti Zlínský kraj
-image: posts/zastupko_červen.jpg
+image: posts/zastupko_cerven.jpg
 tags: 
 - zastupitelstvo
 - zlinsky-kraj
 - report
 ---
 
-Pojďte se podívat na to, co se nám podařilo prosadit na červnovém krajském zastupitelstvu.
+Pojďte se podívat na to, co se nám podařilo prosadit na červnovém krajském zastupitelstvu!
 
 ## Krajské sociální služby mají nový Akční plán rozvoje 
 
