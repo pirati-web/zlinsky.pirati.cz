@@ -5,7 +5,7 @@ title: 'Poslanecké okénko: Červencová Sněmovna očima Františka Elfmarka'
 date: 2021-08-01
 author: František Elfmark
 authorId: frantisek.elfmark
-image: posts/frantisek-okenko-srpen.jpg
+image: posts/Frantisek-okenko.jpg
 tags: 
 - frantisek-elfmark
 - snemovna
