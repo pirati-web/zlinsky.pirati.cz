@@ -20,4 +20,4 @@ Dotace z prvního kola, ve výši téměř 3 milionů korun, byly rozdělené me
 > *"V prvním kole jsme podpořili kulturní akce, které v našem kraji již mají svou tradici, ale i ty, které jsou nové a lze u nich očekávat, že přispějí k obohacení kulturního života lidí v našem regionu. O podporu ve druhém kole mohou žádat všichni organizátoři do 9. července a to do výše až 60 tisíc korun,"* sdělila [Zuzana Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/).
 > 
 
-Zájemci mohou žádost podat do pátku 9. července a to na akce, které se pořádají od 1. července až do konce roku. Další informace, přihlášku a podmínky udělení dotací najdete na [zde](https://bit.ly/program_podporakulture).
+Zájemci mohou žádost podat do pátku 9. července a to na akce, které se pořádají od 1. července až do konce roku. Další informace, přihlášku a podmínky udělení dotací najdete [zde](https://bit.ly/program_podporakulture).
