@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Pořádámě seminář o dluhovém poradenství'
+title: 'Pořádáme seminář o dluhovém poradenství'
 date: 2021-07-07
 author: Hana Ančincová
 authorId: hana.ancincova
