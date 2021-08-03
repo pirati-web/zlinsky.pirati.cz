@@ -5,7 +5,7 @@ title: 'Digitální technická mapa kraje bude aktualizovaná o nová území'
 date: 2021-07-15
 author: Jiří Jaroš
 authorId: jiri.jaros
-image: posts/JDTM.png
+image: posts/jdtm.jpg
 tags: 
 - jiri-jaros
 - digitalizace
