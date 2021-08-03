@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová: Problém plastů není uspokojivě vyřešen. Musíme hledat řešení a spolupracovat i s univerzitami'
-date: 2021-02-27
+date: 2021-07-16
 author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/plasty-univerzity.jpg
