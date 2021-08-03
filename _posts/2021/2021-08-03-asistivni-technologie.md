@@ -12,7 +12,7 @@ tags:
 - zlinsky-kraj
 ---
 
-Zlínský kraj rozšiřuje možnosti služeb v péči o osoby se speciálními potřebami.
+Zlínský kraj rozšiřuje možnosti služeb v péči o osoby se specifickými potřebami.
 
 22.července se k projektu *"Využívání sociálních inovací za pomoci asistivních technologií ve Zlínském kraji"* uskutečnil informativní seminář. Zavedením moderních technologických služeb do péče o tyto osoby se zvýší bezpečnost, kvalita péče, a zároveň sníží pracovní zátěž pracovníků v sociálních službách, nemocnicích, ale i domácím prostředí.
 
