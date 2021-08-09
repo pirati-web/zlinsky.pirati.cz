@@ -5,7 +5,7 @@ title: Moderní dopravní infrastruktura je jako tepna kraje
 date: 2020-05-19
 author: Jakub Zach
 authorId: jakub.zach 
-image: posts/dalnice.png
+image: posts/dalnice.jpg
 tags: 
 - zlinsky-kraj 
 - krajske-volby 
