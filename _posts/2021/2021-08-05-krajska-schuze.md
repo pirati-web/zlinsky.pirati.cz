@@ -16,6 +16,6 @@ Tentokrát se potkáme ve středu 11. srpna od 17. hodiny v areálu hotelu Malin
 
 Hostem schůze bude i pirátský senátor Lukáš Wagenknecht. Na programu budou informace k volbám a akcím v rámci kampaně, informace z kraje, report Františka Elfmarka z Poslanecké sněmovny a na závěr nebude chybět ani opékání špekáčků!
 
-Chcete se připojit online z pohodlí domova? Na obrazovce nás najdete pod tímto odkazem [odkazem](https://jitsi.pirati.cz/KS-ZlK).
+Chcete se připojit online z pohodlí domova? Na obrazovce nás najdete pod tímto [odkazem](https://jitsi.pirati.cz/KS-ZlK).
 
 Tešíme se vás!
