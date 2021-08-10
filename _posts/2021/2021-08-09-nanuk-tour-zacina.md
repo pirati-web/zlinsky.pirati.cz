@@ -10,6 +10,7 @@ tags:
 - vratme-zemi-budoucnost
 ---
 
+
 Nanuk tour Pirátů a Starostů startuje už tuto středu 11.8.
 
 Do budoucnosti s chladnou hlavou: Nanukára přijíždí do našeho kraje! Přijďte si pro osvěžující nanuky i nápady.
