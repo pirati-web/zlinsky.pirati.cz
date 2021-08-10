@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'O víkendu k nám do kraje zavítal poslanec a předseda hnutí STAN Vít Rakušan'
-date: 2021-07-07
+date: 2021-08-07
 author: Piráti ZLK
 image: posts/Rakusan-lfs.jpg
 tags: 
