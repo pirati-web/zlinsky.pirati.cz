@@ -15,7 +15,7 @@ tags:
 important: true
 ---
 
-Podpořmě více peněz do různorodosti krajiny, ne do betonového monstra! Jsme zásadně proti výstavbě koridoru Dunaj-Odra-Labe.
+Podpořme více peněz do různorodosti krajiny, ne do betonového monstra! Jsme zásadně proti výstavbě koridoru Dunaj-Odra-Labe.
 
 Za 600 miliard se toho dá zařídit opravdu hodně. Opravit všechny cesty v několika krajích, nebo vybudovat stovky opatření, která pomohou proti vedrům, se kterými se Česká republika potýká.
 
