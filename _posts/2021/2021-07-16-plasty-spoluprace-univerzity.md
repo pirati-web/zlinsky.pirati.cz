@@ -7,9 +7,9 @@ author: Hana Ančincová
 authorId: hana.ancincova
 image: posts/plasty-univerzity.jpg
 tags: 
-- priklad-tagu
-- priklad-tagu
-- tagu-kolik-chces
+- zivotni-prostredi
+- hana-ancincova
+- zlinsky-kraj
 important: true
 ---
 
