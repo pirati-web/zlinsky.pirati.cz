@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Pozvánka na krajskou schůzi Pirátů se senátorem Lukášem Wagenknechtem'
 date: 2021-08-05
 author: Piráti ZLK
-image: posts/krajska-schuze-wagenknecht.jpg
+image: posts/krajska-schuze-wagenknecht.png
 tags: 
 - krajska-schuze
 - zlinsky-kraj
