@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Cyklotoulky Pirátů a Starostů Zlínského kraje: kandidáti objíždí kraj na kole v rámci volební kampaně '
-date: 2021-02-27
+date: 2021-08-20
 author: Piráti ZLK
 image: posts/cyklotour.png
 tags: 
