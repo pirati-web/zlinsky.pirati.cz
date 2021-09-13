@@ -17,7 +17,7 @@ Změny v e-Governmentu se týkají převážně uživatelů datových schránek 
 > *"Bavili jsme se hlavně o zákonech, které se promítnou do života obyvatel a co znamenají pro chod úřadů. V dalších letech nás totiž čeká skutečně digitální revoluce a novinek je spoustu - půjde zejména o zákon o právu na digitální služby. Ten úplně změní paradigma a garantuje občanům možnost vše řešit s úřady on-line. Bez digitalizace se totiž v budoucnosti neobejdeme,"* uvedl [Profant](https://praha.pirati.cz/lide/ondrej-profant/).
 >  
 
-> "Chystáme úplnou digitalizaci kraje, krajského úřadu a podporu všem obcím ve Zlínském kraji, ať už se jedná o digitálně technickou mapu, Spisovku nebo portály občanů. Díky nově přijatým zákonům si budou moci občané vyřizovat své agendy z pohodlí domova," okomentoval [Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/), zodpovědný za digitalizaci kraje. 
+> "Chystáme úplnou digitalizaci kraje, krajského úřadu a podporu všem obcím ve Zlínském kraji, ať už se jedná o digitálně technickou mapu, Spisovku nebo portály občanů. Díky nově přijatým zákonům si budou moci občané vyřizovat své agendy z pohodlí domova,"* okomentoval [Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/), zodpovědný za digitalizaci kraje. 
 > 
 
 
