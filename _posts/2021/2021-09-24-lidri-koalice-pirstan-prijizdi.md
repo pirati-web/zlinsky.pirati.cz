@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Lídři koalice Pirátů a Starostů Ivan Bartoš a Vít Rakušan přijíždí do Zlínského kraje. Zatím největší krajská předvolební akce proběhne v Uherském Hradišti a ve Zlíně'
+title: 'Lídři koalice Pirátů a Starostů Ivan Bartoš a Vít Rakušan přijíždí do Zlínského kraje. Zatím největší krajská předvolební akce proběhne ve středu 29. září v Uherském Hradišti a ve Zlíně'
 date: 2021-09-24
 author: Piráti Zlínský kraj
 image: posts/29.9. event shrnujici grafika FINAL.png
