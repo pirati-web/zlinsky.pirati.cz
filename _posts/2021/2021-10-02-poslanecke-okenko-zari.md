@@ -82,6 +82,7 @@ Ještě jste od našich dobrovolníků a kandidátů v ulicích měst, obcí neb
 Mimo práce na legislativě jsem hlavně táta, kutil a velký milovník přírody, který co káže, taky dělá. Moc si cením třeba přátelství se zakladatelkou **INCIEN Soňou Jonášovou**, která o mně řekla:
 > *"František byl nejaktivnějším a nejzaujatějším poslancem v tématu cirkulární ekonomiky, se kterým jsme se při naší práci setkali. Konstruktivní jednání, zájem o spolupráci s experty a tvrdá práce při přípravě a obhajobě pozměňujících návrhů k zákonu o odpadech daly skládkařské lobby jasný signál, že je zde po dlouhých letech opozice.Komunikace byla v každý moment projednávání dílčích zákonů perfektní. Navíc František pořádal celou řadu pracovních skupin se všemi stranami a vždy jednal objektivně a zodpovědně. František je kamarád a aktivní soused, který vše, na čem pracuje v politice, aplikuje i do svého soukromého života.Je to politik hodný následování. Pevných morálních hodnot, vřelého moravského srdce a bystrého uvažování nad aktuálními výzvami. Osobně si naší spolupráce velmi cením!"*
 > 
+
 Kus cesty za námi, kus cesty před námi. Děkuji všem inspirativním lidem, včetně Soni, které jsem měl možnost během mého poslaneckého mandátu potkat a poznat. 
 
 **Je skvělé vědět, že je nás spousta, kterým není lhostejné prostředí, v němž žijeme.**
