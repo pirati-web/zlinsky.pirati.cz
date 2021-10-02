@@ -90,7 +90,9 @@ Den ode dne se utvrzuji v tom, že za lepší zítřky stojí za to bojovat!
 
 Více v mém předvolebním **[videomedailonku, nenechte si ho ujít!](https://www.frantisekelfmark.cz/video-medailonek-k-volbam-2021/)**
 
+
 Vše dobré a uvidíme se u voleb!
+
 **[František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/)**, poslanec a lídr kandidátky Pirátů a Starostů Zlínského kraje
 
 
