@@ -12,7 +12,7 @@ tags:
 - zlinsky-kraj
 ---
 
-Problém, který se táhne už třetí volební období. Jako kaňka na tváří kraje se teďka jeví prázdný objekt na Velehradě na ulici Salašská. Objekt na Salašské byl dříve využíván jako Ústav sociální péče, následně jako Domov pro osoby se zdravotním postižením. Objekt je však bez trvalého využití od roku 2015 a za současných podmínek není vhodný pro další poskytování služby. 
+Problém, který se táhne už třetí volební období. Jako kaňka na tváři kraje se jeví prázdný objekt na Velehradě na ulici Salašská. Objekt na Salašské byl dříve využíván jako Ústav sociální péče, následně jako Domov pro osoby se zdravotním postižením. Ood roku 2015 je však bez trvalého využití a za současných podmínek není vhodný pro další poskytování služeb. 
 
 V roce 1999 došlo z prostředků státní dotace k dostavění a rekonstrukci budovy (celková výše dotace byla 37 milionů Kč), s udržitelností do roku 2044. Při zřízení krajů převzal službu, tudíž i objekt, kraj od Ústavu sociální péče. Závazek z dotace tedy nevznikl činností kraje a pouze ho zdědil. 
 
