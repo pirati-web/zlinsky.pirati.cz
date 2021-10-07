@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Využití prostor umístěných v objektu Velehrad – Salašská: Závazky udržitelnosti'
-date: 2021-02-27
+date: 2021-10-07
 author: Piráti Zlínský kraj
 image: posts/salasska.jpg
 tags: 
