@@ -7,7 +7,6 @@ titles:
 category:                 # kategorie
 - predsednictvo
 - zastupitel_uh
-- poslanci
 - mistni_predsedove
 
 ord_zastupitel: 2
@@ -16,7 +15,7 @@ ord_poslanci: 1
 
 img: people/frantisek.elfmark.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: poslanec ČR<br>1. místopředseda KS ZLK<br>předseda MS UH<br>zastupitel Uherského Hradiště<br>webdesigner a grafik<br> Uherské Hradiště # kratký popis, max 160 znaků
+description: 1. místopředseda KS ZLK<br>předseda MS UH<br>zastupitel Uherského Hradiště<br>webdesigner a grafik<br> Uherské Hradiště # kratký popis, max 160 znaků
 mob:			  +420 604 171 281
 mail:
 - frantisek.elfmark@pirati.cz
@@ -27,7 +26,7 @@ profiles:
 
 ---
 
-František Elfmark (*19. 10. 1978, Uherské Hradiště) je pirátským poslancem PSP ČR za Zlínský kraj a člen Pirátů. Bydlí s rodinou v místní části Míkovice v Uherském Hradišti. Má dvě děti Štěpánka a Stellinku. Je patriotem Slovácka. Profesně se věnuje webdesignu, grafice a marketingu.
+František Elfmark (*19. 10. 1978, Uherské Hradiště) je člen Pirátů, místopředseda KS ZLK, předseda MS UH, zastupitel Uherského Hradiště a webdesigner grafik. Bydlí s rodinou v místní části Míkovice v Uherském Hradišti. Má dvě děti Štěpánka a Stellinku. Je patriotem Slovácka. Profesně se věnuje webdesignu, grafice a marketingu.
 
 Vystudoval obor Počítačové elektronické systémy na soukromé škole v Kunovicích. Dále pak pokračoval ve studiích na VOŠ elektrotechnické v Olomouci, obor Aplikace výpočetní techniky v telekomunikacích, kde získal titul DiS. Kombinovanou formou dostudoval Univerzitu Tomáše Bati ve Zlíně, obor Marketingové komunikace, kde ho nejvíce oslovil Branding a PR. Získal titul Bc.
 Kromě IT prostředí ho po škole oslovila tvorba grafiky a vše kolem tvorby internetových stránek, které se začal věnovat již při škole. V roce 2001 po ukončení studia nastoupil do rodinné firmy na pozici IT technika a grafika, kde postupně nacházel nové výzvy a prohluboval své znalosti v oborech grafický design a informační technologie. Cenné zkušenosti nasbíral i v mezilidských vztazích a komunikaci s obchodními partnery firmy a s klienty. Od roku 2011 začal podnikat jako [OSVČ v oboru tvorby internetových stránek a grafických prací](https://www.elfmarkag.cz/){:target="_blank"}. Ve stejném roce využil také možnosti nastoupit na hlavní pracovní poměr do propagačního oddělení uherskohradišťského Klubu kultury. Zde byl zodpovědný za sazbu a tvorbu grafiky městského zpravodaje, propagačních materiálů, administraci a rozvov veškerých internetových stránek. Vytvořil v té době www stránky například Slováckých slavností vína, TSTTT, KKUH, Expozice dějin města atd. V poslední řadě zde i správcoval kompletně IT.
