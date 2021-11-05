@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Předsedou krajského sdružení Pirátů Zlínského kraje znovuzvolen místostarosta Kroměříže Vratislav Krejčíř!'
 date: 2021-11-05
 author: Piráti Zlínský kraj
-image: posts/vrata-predseda.jpg
+image: posts/vrata-predseda-2021.jpg
 tags: 
 - predsednictvo
 - pirati-zlk
