@@ -13,7 +13,7 @@ tags:
 important: true
 ---
 
-V příštím týdnu proběhne preventivní testování na covid-19 ve školách v okresech Zlín, Kroměříž a Vsetín. Tedy v okresech, kde incidence překročila stanovanou hranici 300 nakažených na 100 tisíc obyvatel. Zlínský kraj zajistil distribuci 58 150 kusů antigenních testů do zasažených okresů prostřednictvím hasičů.
+V příštím týdnu proběhne preventivní testování na covid-19 ve školách v okresech Zlín, Kroměříž a Vsetín. Tedy v okresech, kde incidence překročila stanovenou hranici 300 nakažených na 100 tisíc obyvatel. Zlínský kraj zajistil distribuci 58 150 kusů antigenních testů do zasažených okresů prostřednictvím hasičů.
 
 > *"Ve shodě se školskou komisí Asociace krajů ČR považuji za klíčové, aby byla na školách a školských zařízeních udržena prezenční výuka. Pravidelným testováním můžeme přispět k podchycení případné pozitivity a zamezení dalších nárůstů u našich žáků,"* sdělila **[Zuzana Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/)**, zodpovědná za školství a kulturu.
 > 
