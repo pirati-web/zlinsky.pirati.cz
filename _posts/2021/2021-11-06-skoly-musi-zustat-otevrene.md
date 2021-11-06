@@ -15,5 +15,8 @@ important: true
 
 V příštím týdnu proběhne preventivní testování na covid-19 ve školách v okresech Zlín, Kroměříž a Vsetín. Zlínský kraj zajistil distribuci 58 150 kusů antigenních testů do zasažených okresů prostřednictvím hasičů.
 
-> *"Ve shodě se školskou komisí Asociace krajů ČR považuji za klíčové, aby byla na školách a školských zařízeních udržena prezenční výuka. Pravidelným testováním můžeme přispět k podchycení případné pozitivity a zamezení dalších nárůstů u našich žáků. V pondělí budu mít schůzku s ředitelkou Krajské hygienické stanice Zlínského kraje k otázkám dalšího postupu ve školách. Řada škol nyní bojuje s opakovaným zavíráním tříd do karantény. Chci projednat možnosti přístupu „test to stay“ nebo dalších opatření, které umožní v maximální míře udržet prezenční výuku,"* říká [Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/).
+> *"Ve shodě se školskou komisí Asociace krajů ČR považuji za klíčové, aby byla na školách a školských zařízeních udržena prezenční výuka. Pravidelným testováním můžeme přispět k podchycení případné pozitivity a zamezení dalších nárůstů u našich žáků,"* dodává **[Zuzana Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/)**, zodpovědná za školství a kulturu.
+> 
+
+>  *"V pondělí budu mít schůzku s ředitelkou Krajské hygienické stanice Zlínského kraje k otázkám dalšího postupu ve školách. Řada škol nyní bojuje s opakovaným zavíráním tříd do karantény. Chci projednat možnosti přístupu „test to stay“ nebo dalších opatření, které umožní v maximální míře udržet prezenční výuku,"* dodává [Fišerová](https://zlinsky.pirati.cz/lide/zuzana-fiserova/).
 > 
