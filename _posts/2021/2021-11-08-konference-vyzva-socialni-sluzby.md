@@ -2,10 +2,10 @@
 layout: post
 category: CLANKY
 title: 'Hana Ančincová: Zapojte se do konference Výzva pro sociální služby'
-date: 2021-08-11
+date: 2021-11-08
 author: Hana Ančincová
 authorId: hana.ancincova
-image: posts/hana-web-social-sluzby.jpg
+image: posts/hanka-web-social-sluzby.jpg
 tags: 
 - socialni-sluzby
 - zlinsky-kraj
