@@ -24,6 +24,7 @@ Konference je realizována v rámci projektu **[Využívání sociálních inova
 > 
 
 > *"To vše v prostředí, které klient důvěrně zná, kde se cítí bezpečně, ve svém bytě. Terénní pracovníci tak přinášejí klientům nejen potřebnou výpomoc ale i pocit, že neztratili kontakt s celkovým děním ve svém okolí,"* doplňuje **[Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/)**.
+> 
 
 **Co jsou asistivní technologie a k čemu jsou využívány?**
 
