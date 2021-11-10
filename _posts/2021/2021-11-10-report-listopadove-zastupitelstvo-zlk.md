@@ -18,7 +18,7 @@ V pondělí 1. listopadu se konalo 7. zasedání Zastupitelstva Zlínského kraj
 Zastupitelé schválili **finanční dar 3 miliony korun na pomoc lidem zasaženým výbuchem rodinného domku v Koryčanech**, k němuž došlo 15. září v Koryčanech a při kterém tragicky zemřeli dva dobrovolní hasiči. Zlínský kraj pošle finance do fondu, který zřídila kroměřížská Charita a město Koryčany.
 
 ## Terénní služby v sociální oblasti 
-Zastupitelstvo schválilo **uvolnění 30 milionů na terénní sociální služby pro seniory a zdravotně postižené** na základě návrhu Pirátky a statutární náměstkyně hejtmana [Hany Ančincové](https://zlinsky.pirati.cz/lide/hana-ancincova/). Terénní služby kraj poskytuje osobám, které nemají dovednosti a prostředky si pomoci samy, a to přímo v domácnosti klienta. 
+Zastupitelstvo schválilo **uvolnění 30 milionů na terénní sociální služby pro seniory a zdravotně postižené** na základě návrhu Pirátky a statutární náměstkyně hejtmana [Hany Ančincové](https://zlinsky.pirati.cz/lide/hana-ancincova/). Terénní služby jsou poskytovány osobám, které nemají dovednosti a prostředky si pomoci samy a potřebují pravidelnou pomoc jiné fyzické osoby přímo ve své domácnosti. 
 
 [Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/), která má oblast sociálních věcí na starost, považuje posílení terénních služeb za naprosto zásadní:
 > *"Praxe ukázala, že je o tyto služby velký zájem a jsem ráda, že kraj jde cestou podpory tohoto typu sociální služby. Je poskytována v přirozeném prostředí klienta, což má velký význam pro klienta samotného i pečující osoby,"* říká.
