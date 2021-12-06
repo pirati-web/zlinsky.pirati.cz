@@ -10,7 +10,7 @@ ord_zastupitel: 3
 
 img: people/milan-klajn.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: předseda MS Zlín<br>zastupitel Zlína<br>plavčík, terapeut # kratký popis, max 160 znaků
+description: zastupitel Zlína<br>plavčík, terapeut # kratký popis, max 160 znaků
 mail:
 - milan.klajn@pirati.cz
 profiles:
