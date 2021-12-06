@@ -5,12 +5,16 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: clenove
+- predsednictvo
 
+ord_predsednictvo: 5
 
 img: people/pavel-manasek.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: registrovaný příznivec Pirátů<br>podnikatel ve wellness<br>Zlín # kratký popis, max 160 znaků
-mail:
+description: 4. místopředseda KS ZLK<br>OSVČ<br>Zlín # kratký popis, max 160 znaků
+
+mail: pavel.manasek@pirati.cz
+mob:			  +420 777 707 590
 
 profiles:
   

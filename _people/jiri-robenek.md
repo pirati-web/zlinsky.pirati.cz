@@ -5,12 +5,15 @@ titles:
   before: 
   after:
 category:                   # kategorie: clenove
+- predsednictvo
 
+ord_predsednictvo: 4
 
 img: people/jiri-robenek.jpg   # 165 x 220
 heroImg: articles/2020/kampan20/zahajenikampan1.jpg
-description: registrovaný příznivec Pirátů<br>OSVČ - SEO specialista<br>Zlín - Malenovice # kratký popis, max 160 znaků
-mail:
+description: 3. místopředseda KS ZLK<br>IT marketing<br>Zlín # kratký popis, max 160 znaků
+mail: jiri.robenek@pirati.cz
+mob:			  +420 608 630 003
 
 profiles:
   
