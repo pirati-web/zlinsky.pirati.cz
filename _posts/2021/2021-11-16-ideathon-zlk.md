@@ -3,8 +3,8 @@ layout: post
 category: CLANKY
 title: 'Jiří Jaroš: Podporujeme rozvoj kreativního myšlení mladých. Studentský Ideathon může přinést řadu inovativních řešení'
 date: 2021-11-16
-author: Jiří Jaroš
-authorId: jiri.jaros
+author: Piráti Zlínský kraj
+authorId: 
 image: posts/ideathon.png
 tags: 
 - jiri-jaros
