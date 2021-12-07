@@ -20,5 +20,5 @@ tags:
 
 
 
-Hned 15. prosince se nové krajské předsednictvo setká se členskou základnou na online veřejné schůzi krajského sdružení, která bude zaměřená především na přípravu komunálních voleb a schválení rozpočtu na příští rok.
+Hned 15. prosince se nové krajské předsednictvo setká se členskou základnou na  **[online veřejné schůzi krajského sdružení](https://fb.me/e/1sM6leBvU)**, která bude zaměřená především na přípravu komunálních voleb a schválení rozpočtu na příští rok.
 
