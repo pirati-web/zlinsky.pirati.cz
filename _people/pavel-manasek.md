@@ -19,7 +19,9 @@ mob:			  +420 777 707 590
 profiles:
   
 ---
-Pavel Maňásek (*27. 2. 1971, Uherské Hradiště) je členem pirátské strany, místopředseda KS ZLK. Za Piráty pracuje v několika výborech, komisích a dozorčích radách či jako jednatel společnosti vlastněné městem Zlín. Jedná se například o Kontrolní výbor města Zlína, či Výbor pro kulturu a památky ZLK. Je přesvědčený liberál.
+Pavel Maňásek (*27. 2. 1971, Uherské Hradiště) je členem pirátské strany, místopředseda KS ZLK. 
+
+Za Piráty pracuje v několika výborech, komisích a dozorčích radách či jako jednatel společnosti vlastněné městem Zlín. Jedná se například o Kontrolní výbor města Zlína, či Výbor pro kulturu a památky ZLK. Je přesvědčený liberál.
 
 Celý svůj život žije a pracuje ve Zlínském kraji, od malých vesniček až po krajské město. Aktuálně bydlí se svou rodinou ve Zlíně a má jednu dceru. 
 
