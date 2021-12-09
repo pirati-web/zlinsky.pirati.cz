@@ -23,7 +23,7 @@ Staronovým předsedou Pirátů Zlínského kraje je Vratislav Krejčíř, kter�
 > 
 
 Nově zvolení místopředsedové se chtějí zaměřit každý na jemu blízký úsek agendy.
-1.místopředsedou byl zvolen Jaroslav Takáč, který se chce zaměřit na rozšíření členské základny a přivést do strany co nejvíce odborníků: *"Musíme zase budovat Pirátskou politiku odspodu a ukázat všem, že jsme tou středovou politickou stranou, které jde o to, aby naše země byla dobrým místem k životu a že nám jde o budoucnost pro další generace."*
+1.místopředsedou byl zvolen Jaroslav Takáč, který se chce zaměřit na rozšíření členské základny a přivést do strany co nejvíce odborníků: *"Musíme zase budovat pirátskou politiku odspodu a ukázat všem, že jsme středovou politickou stranou, které jde o to, aby naše země byla dobrým místem k životu a jde nám hlavně o budoucnost pro další generace."*
 
 2.místopředseda krajského sdružení František Elfmark chce členům a budoucím kandidátům do voleb především předat své bohaté politické zkušenosti: *"Chci předat 7 let zkušeností dál lidem, kteří budou například kandidovat poprvé a nebo řešit koaliční spolupráci. Také chci zúročit zkušenosti ze sněmovny a přátelství s mnoha lidmi z vedení strany. Vím, že minulá období nebyla lehká a čeká nás i  dost práce, ale my to zvládneme. Pokud je chuť, výsledek se dostaví."
 
