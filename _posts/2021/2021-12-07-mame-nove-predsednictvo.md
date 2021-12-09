@@ -27,9 +27,9 @@ Nově zvolení místopředsedové se chtějí zaměřit každý na jemu blízký
 
 2.místopředseda krajského sdružení František Elfmark chce členům a budoucím kandidátům do voleb především předat své bohaté politické zkušenosti: *"Chci předat 7 let zkušeností dál lidem, kteří budou například kandidovat poprvé a nebo řešit koaliční spolupráci. Také chci zúročit zkušenosti ze sněmovny a přátelství s mnoha lidmi z vedení strany. Vím, že minulá období nebyla lehká a čeká nás i  dost práce, ale my to zvládneme. Pokud je chuť, výsledek se dostaví."
 
-Jiří Robenek se chce věnovat lepšímu instruování a komunikaci s jednotlivými místními sdruženími a dále rozšiřovat členskou základnu. 
+Hlavním cílem místopředsedy krajského sdružení Jiřího Robenka je lepší instruování a komunikace s jednotlivými místními sdruženími, a také chce dále rozšiřovat členskou základnu. 
 
-Pavel Maňásek chce zvýšit informovanost veřejnosti v našem kraji o naší straně a zejména o výsledcích práce naší krajské organizace. *"Také bych rád oživil členskou základnu, chci zvýšit zájem všech členů o dění v našem krajském sdružení a prosazovat vzájemné proškolení,"* doplňuje.
+Pavel Maňásek chce zvýšit informovanost veřejnosti v našem kraji o naší straně a zejména o výsledcích práce naší krajské organizace, zastupitelů a radních. *"Také bych rád oživil členskou základnu, chci zvýšit zájem všech členů o dění v našem krajském sdružení a prosazovat vzájemné proškolení,"* doplňuje.
 
 Hned 15. prosince se nové krajské předsednictvo setká se členskou základnou na  **[online veřejné schůzi krajského sdružení](https://fb.me/e/1sM6leBvU)**, která bude zaměřená především na přípravu komunálních voleb a schválení rozpočtu na příští rok.
 
