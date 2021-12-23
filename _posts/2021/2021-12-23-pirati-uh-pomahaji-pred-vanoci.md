@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Piráti z MS Uherské Hradiště myslí před Vánoci na ostatní: 100 vánoček a marmelád pro Charitu a balíčky plné energie pro vytížené zdravotníky'
+title: 'Piráti z MS Uherské Hradiště před Vánoci myslí na ostatní: 100 vánoček a marmelád pro Charitu a balíčky plné energie pro vytížené zdravotníky'
 date: 2021-12-23
 author: Piráti Zlínský kraj
 authorId: 
