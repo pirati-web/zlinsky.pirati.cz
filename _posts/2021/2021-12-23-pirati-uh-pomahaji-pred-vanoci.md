@@ -29,3 +29,5 @@ Přišel čas dát znova najevo, že si vážíme veškerého odhodlání a nasa
 
 > *"Moc si vážím práce našich zdravotníků, a proto mi přijde na místě jim v tento nelehký čas osobně poděkovat. Balíčky plné energie jsme předali na ARO oddělení, kde zdravotníci často jedou na dřeň a jsou na pokraji svých sil. Jsem rád, že jsem u toho mohl být a alespoň touto cestou poděkoval a popřál všem hezké svátky. Děkuji také všem kolegyním a kolegům Pirátům, že se nám podařilo již po druhé tuto sbírku uskutečnit,"* dodává předseda uherskohradišťských Pirátů a zastupitel **[František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/)**.
 > 
+
+![Piráti pomáhají](https://zlinsky.pirati.cz/assets/img/posts/VAL_5893.JPG)
