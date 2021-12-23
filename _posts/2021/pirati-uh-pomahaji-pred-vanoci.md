@@ -1,0 +1,31 @@
+---
+layout: post
+category: CLANKY
+title: 'Piráti z MS Uherské Hradiště myslí před Vánoci na ostatní: 100 vánoček a marmelád pro Charitu a balíčky plné energie pro vytížené zdravotníky'
+date: 2021-12-23
+author: Piráti Zlínský kraj
+authorId: 
+image: posts/VAL_5877.JPG
+tags: 
+- pirati-pomahaji
+- pirati-uherske-hradiste
+- socialni-sluzby
+- zdravotnictvi
+- charita
+- nemocnice
+- jakub-gros
+- frantisek-elfmark
+- uherske-hradiste
+important: true
+---
+
+Předvánoční čas je tradičně pro spoustu lidí nejnáročnějším obdobím. Ještě těžším pro ty, které trápí sociální nebo ekonomické problémy, nebo pro zdravotníky, kteří jsou kvůli další vlně pandemie v neustálém zápřahu. Proto členové a příznivci Pirátů z Uherskohradišťska předali 100 kusů vánoček a 100 kusů marmelád Oblastní charitě Uherské Hradiště, která je předá potřebným rodinám a dětem. Nezapomněli ani na zaměstnance charity a zdravotníky Uherskohradištské nemocnice a.s., kterým poděkovali za jejich práci a předali balíčky jak pro posílení imunity, tak získání energie.
+
+> *"Letos jsme navázali na loňskou aktivitu a podpořili jsme ty nejpotřebnější. Dokázali jsme navýšit počet vánoček i marmelád na krásných 100 kusů!"* nastiňuje hlavní organizátor akce **Jakub Grós** a s vděkem dodává: *"Zároveň bychom rádi poděkovali regionálním podnikům - firmě Jimmy’s food, která darovala sušené maso a mošty a Pekárně u Jahodů i čokoládovně Janek z Uherského Brodu, kteří poskytli slevu na dobrou věc. V neposlední řadě všem Pirátům a jejich registrovaným příznivcům, kteří přispěli nemalou částkou na to, aby se pomoc uskutečnila. Je krásné, že se v tomto adventním období dokážeme spojit a přinést o trochu více dobra a podpory okolo sebe."*
+> 
+
+
+Přišel čas dát znova najevo, že si vážíme veškerého odhodlání a nasazení zdravotnického personálu. Dobře víme, že by si zdravotníci zasloužili radši týden dovolené navíc a více času stráveného s rodinou. Rádi bychom ale jejich snahu ocenili alespoň touto cestou, dodat jim energii a poděkovat, že se starají o naše zdraví.
+
+> *"Moc si vážím práce našich zdravotníků, a proto mi přijde na místě jim v tento nelehký čas osobně poděkovat. Balíčky plné energie jsme předali na ARO oddělení, kde zdravotníci často jedou na dřeň a jsou na pokraji svých sil. Jsem rád, že jsem u toho mohl být a alespoň touto cestou poděkoval a popřál všem hezké svátky. Děkuji také všem kolegyním a kolegům Pirátům, že se nám podařilo již po druhé tuto sbírku uskutečnit,"* dodává předseda uherskohradišťských Pirátů a zastupitel **[František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/)**.
+> 
