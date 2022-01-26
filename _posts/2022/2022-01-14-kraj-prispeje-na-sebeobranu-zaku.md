@@ -14,7 +14,7 @@ tags:
 important: true
 ---
 
-Školy ve Zlínském kraji mohou poprvé pořádat pro své žáky kurzy sebeobrany a kraj jim na to přispěje. Dotační program v daném znění nebyl ještě nikdy v minulosti realizován, jedná se o pilotní verzi a je zaměřen na podporu realizace vzdělávacích kurzů v oblasti sebeobrany a reálné sebeobrany pro žáky 6.–9. tříd základních škol. Příjem žádostí bude zahájen dne 24. 1. 2022 a uzávěrka příjmu žádostí je stanovena na 16. 3. 2022.
+Školy ve Zlínském kraji mohou poprvé pořádat pro své žáky kurzy sebeobrany a kraj jim na to přispěje. Dotační program v daném znění nebyl ještě nikdy v minulosti realizován, jedná se o pilotní verzi a je zaměřen na podporu realizace vzdělávacích kurzů v oblasti sebeobrany a reálné sebeobrany pro žáky 6. – 9. tříd základních škol. Příjem žádostí bude zahájen dne 24. 1. 2022 a uzávěrka příjmu žádostí je stanovena na 16. 3. 2022.
 
 Dětská sebeobrana pro nás znamená chránit slabší, zvyšovat povědomí dětí o tom, jak se chovat v krizových situacích, a současně jejich zájem o aktivní přístup k pohybu. Kraj bude školám k tomuto účelu poskytovat dotace v celkové výši 1,5 milionu korun, aby se děti mohly naučit základní principy bezpečného chování a získaly schopnost vyhodnotit a správně reagovat na krizové situace. 
 
