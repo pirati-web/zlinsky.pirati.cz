@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: 'Fišerová: Na podporu sebeobrany žáků kraj letos poprvé přispěje 1,5 milionu korun'
-date: 2022-01-14
+date: 2022-01-17
 author: Piráti Zlínský kraj
 authorId: 
 image: posts/sebeobrana.jpg
