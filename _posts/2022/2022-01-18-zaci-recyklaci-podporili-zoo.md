@@ -8,6 +8,7 @@ authorId:
 image: posts/zaci-zoo.jpg
 tags: 
 - skoly
+- zivotni-prostredi
 - vratislav-krejcir
 - zlinsky-kraj
 - kromeriz
