@@ -30,6 +30,7 @@ Z programu je podporována přímá a systematická práce s dětmi a mládeží
 
 Z programu je podporována realizace sportovních a mládežnických projektů, jak nadregionálních, tak i těch regionálních, kterých se účastní pouze osoby ze Zlínského kraje, ale zároveň mají větší než místní dopad.
 
+
 > *"Prostřednictvím těchto dotačních programů chceme přispět ke zvyšování úrovně sportovní činnosti dětí a mládeže v našem kraji i k zajištění široké nabídky sportovních, mládežnických a volnočasových aktivit. Oproti loňskému roku jsme navýšili celkovou alokaci těchto programů o 8,5 milionu korun,"* uvedl krajský radní **[Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/)**, zodpovědný za oblast mládeže a sportu.
 > 
 
