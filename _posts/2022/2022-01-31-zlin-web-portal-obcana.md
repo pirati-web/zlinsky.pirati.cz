@@ -5,7 +5,7 @@ title: 'Jaroš: Piráti digitalizují město Zlín, bude mít nový web i Portá
 date: 2022-01-31
 author: Piráti Zlínský kraj
 authorId: 
-image: posts/zlin-web-2022.jpg
+image: posts/web-zlin-2022.jpg
 tags: 
 - digitalizace
 - jiri-jaros
