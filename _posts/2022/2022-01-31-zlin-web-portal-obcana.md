@@ -20,7 +20,7 @@ Máte dost byrokratického papírování a dlouhého čekání na úřadech?  U�
 
 Portál občana má fungovat od příštího roku a zajistí efektivnější komunikaci s úřadem, možnost podávání formulářů z pohodlí domova a platit nejrůznější poplatky, nebo si jednoduše vyřídit občanku nebo řidičák.
 
-> *"„Postupně chceme zdigitalizovat všechny agendy, které úřad má ve své kompetenci. Na úřadech tak už nebudeme čekat na vyřízení občanky, řidičáku nebo pasu,"* uvedl radní města Zlína **[Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/)**, který má oblast digitalizace ve své gesci.
+> *"Postupně chceme zdigitalizovat všechny agendy, které úřad má ve své kompetenci. Na úřadech tak už nebudeme čekat na vyřízení občanky, řidičáku nebo pasu,"* uvedl radní města Zlína **[Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/)**, který má oblast digitalizace ve své gesci.
 > 
 
 > *"Naším vzorem je Estonsko, kde je zdigitalizované všechno kromě svatby a rozvodu. A já říkám, že minimálně u svatby by se lidé měli potkat,"* poznamenal s nadsázkou **[Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/)**.
