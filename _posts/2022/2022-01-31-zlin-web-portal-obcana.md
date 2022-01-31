@@ -27,6 +27,6 @@ Portál občana má fungovat od příštího roku a zajistí efektivnější kom
 > 
 
 
-V první polovině roku město spustí nové webové stránky [https://www.zlin.eu/](https://www.zlin.eu/), které budou mít nový design, který bude přehledný a uživatelsky přívětivý.
+V první polovině roku město spustí nové webové stránky [https://www.zlin.eu/](https://www.zlin.eu/). Stránky budou mít nový design, který bude přehledný a uživatelsky přívětivý.
 
 > *"Stránky budou sloužit především pro úřední část, budou však pracovat i s volnočasovými tématy, jako je kulturní přehled akcí ve Zlíně. Samozřejmostí jsou odkazy na sociální sítě města, které budou ve formě ikon i náhledových oken s posledními příspěvky,"* upřesnil **[Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/)**.
