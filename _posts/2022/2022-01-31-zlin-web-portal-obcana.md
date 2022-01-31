@@ -18,7 +18,7 @@ important: true
 
 Máte dost byrokratického papírování a dlouhého čekání na úřadech?  Už žádné další fronty před přepážkami a lejstra papírových formulářů. Město Zlín čeká nový web a Portál občana!
 
-Portál občana má fungovat od příštího roku a zajistí efektivnější komunikaci s úřadem, možnost podávání formulářů z pohodlí domova a platit nejrůznější poplatky, nebo si jednoduše vyřídit občanku nebo řidičák.
+Portál občana má fungovat od příštího roku a zajistí efektivnější komunikaci s úřadem, možnost podávat formuláře z pohodlí domova a platit nejrůznější poplatky, nebo si také jednoduše vyřídit občanku nebo řidičák.
 
 > *"Postupně chceme zdigitalizovat všechny agendy, které úřad má ve své kompetenci. Na úřadech tak už nebudeme čekat na vyřízení občanky, řidičáku nebo pasu,"* uvedl radní města Zlína **[Jiří Jaroš](https://zlinsky.pirati.cz/lide/jiri-jaros/)**, který má oblast digitalizace ve své gesci.
 > 
