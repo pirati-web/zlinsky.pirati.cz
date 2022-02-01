@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: 'Jaroš: Piráti digitalizují město Zlín, bude mít nový web i Portál občana'
+title: 'Jaroš: Piráti digitalizují město Zlín, novou občanku i pas již brzy vyřídíte z pohodlí domova!'
 date: 2022-01-31
 author: Piráti Zlínský kraj
 authorId: 
