@@ -19,5 +19,5 @@ Namísto umělých vodních nádrží podpoříme díky naší práci v regionec
 
 Boj se suchem bereme vážně, proto na krajské a komunální úrovni naši zastupitelé prosazují opatření pro ochranu biodiverzity. Ve městech zlepšujeme péči o městskou zeleň, např. se omezují seče, abychom dali prostor  rozvoji různých druhů rostlin a hmyzu, vysazujeme solitérní stromy, aleje, podporujeme ochranu mokřadů, využití kompostu a propachtování polí přednostně ekologickým zemědělcům. A nejen v tom chceme pokračovat i na vládní úrovni!
 
-> *"Dlouhodobě usilujeme o zvýšení schopnosti zadržovat vodu v krajině a odolnosti lesních porostů. Právě mokřady jsou účinným nástrojem v boji proti suchu a pomáhají udržet vodu v krajině. Zlínský kraj proto aktivně podporuje veškerá tato opatření,"* komentuje **[Hana Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/)**.
+> *"Dlouhodobě usilujeme o zvýšení schopnosti zadržovat vodu v krajině a odolnosti lesních porostů. Právě mokřady jsou účinným nástrojem v boji proti suchu a pomáhají udržet vodu v krajině. Zlínský kraj proto aktivně podporuje veškerá tato opatření,"* komentuje **[Hana Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/)**, zodpovědná za životní prostředí kraje.
 > 
