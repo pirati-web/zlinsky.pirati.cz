@@ -9,9 +9,7 @@ contactPersons:
   - id: vratislav.krejcir
     position: Předseda krajského sdružení
   - id: lucie.svehlikova
-    position: Mediální specialistka
-  - id: lucie.svehlikova
-    position: Kontakt pro sněmovní volby 2021
+    position: Kontakt pro média
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky
   
