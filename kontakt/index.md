@@ -8,7 +8,7 @@ contentSize: even
 contactPersons:
   - id: vratislav.krejcir
     position: Předseda krajského sdružení
-  - id: lucie.svehlikova
+  - id: vratislav.krejcir
     position: Kontakt pro média
   - id: yveta.martinkova
     position: Kontakt pro dobrovolníky
