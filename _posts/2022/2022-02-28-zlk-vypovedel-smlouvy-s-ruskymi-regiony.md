@@ -24,6 +24,7 @@ Na návrh našeho zastupitele [Jiřího Knotka](https://zlinsky.pirati.cz/lide/j
 
 
 **Chcete lidem z Ukrajiny pomoci?** Spolu s Potravinovou bankou ze Zlínského kraje budeme od zítřka v Baťově mrakodrapu sbírat potraviny a drogerii. Sbírka bude probíhat každý den od 8:00 do 16:00 ve 2. patře u vstupu do Krajského úřadu.
+
 **Co darovat?** Vody, konzervy, těstoviny, instantní polévky, dětské výživy. Vlhčené ubrousky, pleny, toaletní papír, dámské toaletní potřeby, papírové kapesníky.
 
 > *"Sbírku pořádáme ve spolupráci s Potravinovou bankou ve Zlínském kraji, která bude pomoc přerozdělovat mezi potřebné. V pondělí, během pouhých tří hodin se podařilo vybrat mezi zaměstnanci krajského úřadu necelých dvacet tisíc korun, za které jsme nakoupili konzervy a předali je Skautskému krizovému centru Zlín, které je ještě dnes odváží lidem na ukrajinsko-slovenskou hranici,”* popsala [Ančincová](https://zlinsky.pirati.cz/lide/hana-ancincova/).
